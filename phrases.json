@@ -891,355 +891,709 @@
         "id": "210408",
         "title": "Make headway 取得进展",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210408",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09chkrg.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09chkrg.jpg",
+        "desc": "我们用 “make headway” 表示 “在某个项目或任务上取得进展”。它也可以按字面意思使用，特别是在谈论与航行有关的话题时，表达 “make headway” 的意思是 “乘风破浪，前进”。",
+        "sentences": [
+            "We’re making no headway on the project! I think we should go home and come back tomorrow more refreshed.\n我们在这个项目上没有取得进展！我看我们还是先回家，明天精神抖擞再回来工作吧。",
+            "The boat made good headway due to the great sailing conditions.\n由于起航的条件好，船乘风破浪，开得很快。",
+            "After Lin Xin’s breakthrough idea of giving out free coffee, the team made good headway.\n在林鑫提出免费提供咖啡的突破性想法后，团队就乘风破浪，取得了良好的进展。"
+        ]
     },
     {
         "id": "210406",
         "title": "Get your head down 集中全部精力；躺下睡觉",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210406",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09btrsk.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09btrsk.jpg",
+        "desc": "如果你 “get your head down（把你的头低下来）”，意思就是 “你把全部的精力集中在一项特定的任务上，全力以赴”。“Get your head down” 也可以表示 “躺下睡觉”。",
+        "sentences": [
+            "I need to get my head down and finish my homework – I have got so much to do.\n我得全力以赴，完成作业。我还有很多作业要做。",
+            "Working at home means I can get my head down and get my work done without any distractions.\n在家工作意味着我能专心致志、不受干扰地完成工作。",
+            "It’s already past midnight! I’d better get my head down.\n已经过了半夜了！我该睡了。"
+        ]
     },
     {
         "id": "210401",
         "title": "Garden-variety 非常普通",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210401",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09785fs.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09785fs.jpg",
+        "desc": "合成形容词 “garden-variety” 的字面意思是 “花园品种”，实际所表达的意思是 “普通的，平常的，寻常的”。",
+        "sentences": [
+            "The doctor told me not to worry – it’s nothing unusual. Just your garden-variety pulled muscle. Should be OK in a few days.\n医生告诉我不要担心，没有什么不寻常的。只是普通的肌肉拉伤。过几天就好了。",
+            "I want to wear something special to the big event – not your garden-variety T-shirt.\n我想穿特别的衣服去参加这个大型活动，而不是一件普通的T恤衫。",
+            "The story and gameplay were nothing special. It was just a garden-variety action-adventure game.\n这款游戏的故事情节和玩法没什么特别之处。这只是一款普通的动作冒险游戏。"
+        ]
     },
     {
         "id": "210330",
         "title": "Head in the clouds 心不在焉，胡思乱想",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210330",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09782d5.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09782d5.jpg",
+        "desc": "表达 “head in the clouds” 可以用来描述某人 “心不在焉，注意力不集中”。在谈论某人白日做梦、空想时，也可以使用这个表达。“Head in the clouds” 的另一个用法是形容某人的 “想法不切实际，异想天开”，可能暗指这个人 “脱离现实”。",
+        "sentences": [
+            "The receptionist didn’t seem to be listening. When I went to collect the tickets, he’d made the booking for the wrong night. He must have had his head in the clouds.\n接待员好像没注意听。我取票时发现他订错了日期，订成了另一个晚上的票。他当时肯定心不在焉。",
+            "Barbara’s head was always in the clouds. She regularly forgot meetings and appointments. In the end, she lost her job.\n芭芭拉总是心不在焉。她经常忘记会议和预约。最后，她丢了工作。",
+            "If you think those kinds of sexist opinions are acceptable at the dinner table, you’re mistaken. You have your head in the clouds.\n如果你认为人们可以接受你在餐桌上提出这种带有性别偏见的主张，那你就错了。你太不切实际了。"
+        ]
     },
     {
         "id": "210325",
         "title": "March to the beat of a different drum 独树一帜，标新立异",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210325",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h4wf.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h4wf.jpg",
+        "desc": "表达 “march to the beat of a different drum” 的字面意思是 “踏着不同的鼓点前进”，它实际用来指 “某人不遵守社会规范，独树一帜、标新立异”。这个表达也可以被说成 “march to the beat of a different drummer”，意思不变。",
+        "sentences": [
+            "That man shaved half of his beard off, so he only has hair on one side of his face. He marches to the beat of a different drum.\n那个男人剃掉了一半胡子，只留了半边脸的胡须。他真是标新立异！",
+            "Wang Qiang didn’t use to wear a tie to job interviews. It’s possibly why he never got a job – he marches to the beat of a different drummer.\n王强以前面试时不打领带。这可能就是他从未找到过工作的原因，他太独具一格了。",
+            "Cassandra marches to the beat of a different drum. She dyed her hair pink and really expresses her own opinion. I really admire her.\n卡桑德拉非常标新立异。她把头发染成了粉红色，而且直言不讳地表达自己的观点。我真佩服她。"
+        ]
     },
     {
         "id": "210323",
         "title": "Beware the ides of March 谨防危险，千万小心",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210323",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h3gt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h3gt.jpg",
+        "desc": "英国剧作家威廉·莎士比亚在他的戏剧《凯撒大帝》中首次使用了表达 “beware the ides of March（谨防3月15日）”。这是预言者对凯撒的一个警告，提醒凯撒提防3月15日，随后他在这一天遇刺身亡。现在，人们用 “beware the ides of March” 来提醒他人要谨防可能发生的危险。",
+        "sentences": [
+            "After the video game went from one development problem to another, it was finally cancelled this year! Beware the ides of March.\n在这款游戏接连出现开发等问题之后，它的发行终于在今年被取消了。做事千万要谨慎小心！",
+            "I wish he had listened to my warnings. He ended up with no job after what happened. Beware the ides of March.\n我真希望他听了我的警告。事情发生后，他就失业了。做事千万要小心！",
+            "Beware the ides of March. If you don’t change your negative attitude towards studying, you’re going to have problems.\n该注意了！如果你不改变你对学习的消极态度，你就会遇到问题。"
+        ]
     },
     {
         "id": "210318",
         "title": "Spring something on someone 冷不防地问某人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210318",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h2b4.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h2b4.jpg",
+        "desc": "当有人问你或告诉你一件意想不到的事情时，就可以使用表达 “spring something on someone（突然告知，冷不丁地问）” 来描述这一情况。这件事情通常可能是听讯者不知道的信息或不了解的工作，因此，这个表达多用来描述一个不愉快的意外。",
+        "sentences": [
+            "Just as I was leaving the house, my mum sprang an extra chore on me, and I arrived late at the party.\n就在我要出门的时候，我妈突然给我加了一件额外的家务活，结果我参加聚会的时候迟到了。",
+            "Please don’t spring any nasty surprises on me. I don’t think my heart can take it.\n请不要突然告诉我任何让我不愉快的事情。我的心脏承受不了。",
+            "Just as we thought the deal to buy the company was concluded, our rival decided to spring a last-minute bid on us.\n正当我们以为收购这家公司的交易已经达成时，我们的竞争对手在最后一刻决定出价。"
+        ]
     },
     {
         "id": "210316",
         "title": "Steal a march on someone 先发制人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210316",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h1sj.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p096h1sj.jpg",
+        "desc": "表达 “steal a march on someone” 的意思是 “通过先发制人的方式获得优势，抢先对手一步”。这个表达可用在描述人与人或企业之间竞争的语境中。",
+        "sentences": [
+            "We really managed to steal a march on our competitor by getting our product to market early.\n我们确实抢先竞争对手一步，把我们的产品提前推向市场。",
+            "The scientist was concerned her lab assistant would steal a march on her by publishing the results first.\n这位科学家担心她的实验室助理会抢在她前面，先发表研究结果。",
+            "The negotiator managed to sign a trade deal that stole a march on neighbouring countries.\n谈判者成功地签署了一项贸易协定，抢占了邻国的先机。"
+        ]
     },
     {
         "id": "210311",
         "title": "Mother Nature 大自然，自然界",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210311",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962bwt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962bwt.jpg",
+        "desc": "短语 “Mother Nature” 的意思是 “大自然，自然界”，它用来描述 “自然界影响世间芸芸众生的力量”。",
+        "sentences": [
+            "Mother Nature hasn’t been kind to us – days of rain have led to catastrophic flooding.\n大自然近来对我们不太友善，连日的降雨导致了灾难性的洪水。",
+            "Thank Mother Nature for the amazing sunset tonight.\n感谢大自然赐予我们今晚的日落美景。",
+            "Mother Nature has been at work and created this amazing rainforest.\n大自然的鬼斧神工创造出了这片神奇的热带雨林。"
+        ]
     },
     {
         "id": "210309",
         "title": "Have the last laugh 笑到最后",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210309",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962bpy.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962bpy.jpg",
+        "desc": "表达 “have the last laugh” 的意思是 “笑到最后，取得最后的胜利”，它用来描述 “当他人认为某人做某事会失败时，此人却获得了成功” 的情况。",
+        "sentences": [
+            "Everyone assumed John would come last in the race, but he had the last laugh when he finished first!\n所有人都以为约翰会在赛跑中落在最后，但他却第一个完成了比赛，笑到了最后！",
+            "I had the last laugh when everyone mocked my old-fashioned shoes. It turned out they were the latest trend.\n当大家都嘲笑我过时的鞋子时，我却笑到了最后。事实证明，这双鞋是最新潮流款。",
+            "My friends said I was foolish to take an umbrella to the party. However, when we left it was pouring with rain, so I had the last laugh!\n朋友们说我带伞去参加聚会太傻了。但当我们离开时，外面下起了倾盆大雨，所以我笑到了最后！"
+        ]
     },
     {
         "id": "210304",
         "title": "Watch the clock 看时间等下班",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210304",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962b7l.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962b7l.jpg",
+        "desc": "短语 “watch the clock” 的意思是 “因感到无聊、想要或需要做其它事情而频繁地查看时钟或手表上的时间”。你可以用名词 “clock-watcher” 指 “总是掐着点下班或休息的人”。",
+        "sentences": [
+            "I had to watch the clock because I needed to leave work on time. I had a train to catch.\n我不得不一直看着表，因为我得准时下班。我要赶火车。",
+            "Stop watching the clock! You have plenty of work to do before five o’clock!\n别总盯着时间盼下班了！五点前你还有很多工作要做！",
+            "I am a permanent clock-watcher. My job is so boring – I keep checking the time to see if it’s home time!\n我是个掐着点下班的人。我的工作太无聊了，所以我总是在看是不是到了回家的时间！"
+        ]
     },
     {
         "id": "210302",
         "title": "Can’t see the wood for the trees 见木不见林",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210302",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962b1j.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0962b1j.jpg",
+        "desc": "表达 “can’t see the wood for the trees” 的意思是 “做某件事情时太专注于细节，没有注意整体大局，因而可能会错漏重要的信息”，它就相当于汉语中所说的 “见木不见林”。",
+        "sentences": [
+            "Worrying about the small details means I can’t see the wood for the trees.\n担心这些小细节意味着我不能顾全大局。",
+            "I’ve been working on this project for a long time but can’t see the wood for the trees – what are we trying to achieve?\n这个项目我已经做了很长时间了，但却不知道我们最终要实现什么目标？",
+            "When you can’t see the wood for the trees, take a step back and remind yourself what you are doing.\n当你看不到整体大局时，退一步并提醒自己正在做什么。"
+        ]
     },
     {
         "id": "210225",
         "title": "As awkward as a cow on roller skates 笨手笨脚",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210225",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p095dnm1.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p095dnm1.jpg",
+        "desc": "表达 “as awkward as a cow on roller skates（像穿着轮滑鞋的奶牛一样笨拙）” 的意思是 “某人动作不协调，没有平衡感”。它用来形容 “某人（尤其是在走路时）笨手笨脚的样子”。这是一个幽默而非正式的表达。",
+        "sentences": [
+            "When my son first began to walk, he fell over a lot. He was as awkward as a cow on roller skates.\n我儿子刚开始走路时，经常摔倒。他笨手笨脚的。",
+            "She managed to drop the whole tea service and spill food and liquid everywhere. She’s as awkward as a cow on roller skates.\n她把整套茶具都弄掉了，把食物和液体洒得到处都是。她笨手笨脚的。",
+            "Derek is as awkward as a cow on roller skates. He is probably the worst dancer I’ve ever seen.\n戴里克笨手笨脚的。他可能是我见过的最不会跳舞的人。"
+        ]
     },
     {
         "id": "210223",
         "title": "Hit the bullseye 一针见血，一语中的",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210223",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p095dmqz.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p095dmqz.jpg",
+        "desc": "表达 “hit the bullseye” 的意思是 “做事或说话非常准确，一针见血，一语中的”。名词 “bullseye” 来自飞镖运动。“Bullseye” 是镖盘正中央的 “靶心”。所以，“hit the bullseye” 表示 “飞镖击中了这个区域”，即 “命中靶心”。",
+        "sentences": [
+            "Her assessment of the issues related to our marketing strategy really hit the bullseye.\n她对我们营销策略的相关问题的评估真是一针见血。",
+            "He really hit the bullseye with that comment. He was spot on.\n他那番话真是一语中的。他说得非常正确。",
+            "The review of the latest video game really hit the bullseye when it said it was the game of the generation.\n那篇对最新款电子游戏的评论真是一语中的，因为评论里说它是属于这代人的游戏。"
+        ]
     },
     {
         "id": "210218",
         "title": "Like watching grass grow 非常无聊",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210218",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09773cd.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09773cd.jpg",
+        "desc": "表达 “like watching grass grow” 被用来形容 “做某件事情就像盯着草长大一样，极其枯燥、无趣”。这个表达通常与系动词 “be” 一起使用，即 “be like watching grass grow”。这是一个相当讽刺和幽默的比喻。",
+        "sentences": [
+            "I really don’t understand football. It’s like watching grass grow.\n我真的不懂足球。太无聊了。",
+            "They told us that the teacher’s lectures were like watching grass grow, but she was so amazing and engaging.\n他们告诉我们这位老师讲课很无聊，但事实上，她讲得非常棒，十分吸引人。",
+            "She said that dinner with me was like watching grass grow. I don’t think there will be a second date.\n她说和我一起吃饭特别无聊。看来我们没有再次约会的机会了。"
+        ]
     },
     {
         "id": "210216",
         "title": "To be bullheaded 固执己见",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210216",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p095dlzx.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p095dlzx.jpg",
+        "desc": "形容词 “bullheaded” 用来描述某人 “固执任性，刚愎自用，往往不考虑他人的感受”。",
+        "sentences": [
+            "He is so bullheaded. He just does what he wants all the time and doesn’t care what I want.\n他太固执了。他总是做自己想做的事情，从不在乎我想要什么。",
+            "She has this bullheaded way of thinking. She can be really resistant to new ideas.\n她的思维方式很固执。她有时很难接受新想法。",
+            "I don’t think I’m bullheaded – it’s true I am determined, but I always think about the impact of my actions.\n我不认为我是个固执的人。虽然我意志坚定，但我总是会考虑自身行为所带来的影响。"
+        ]
     },
     {
         "id": "210211",
         "title": "My one and only 我的唯一",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210211",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p094k2l2.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p094k2l2.jpg",
+        "desc": "短语 “my one and only” 用来形容 “某人生命中最重要的那个人”，即 “我的唯一”。它用来表示 “此人是我唯一心爱的另一半”。短语中的 “my（我的）” 可以用其它形容词性物主代词替换。",
+        "sentences": [
+            "My partner is amazing! I love her so much. She is my one and only.\n我爱人真是太棒了！我非常爱她。她是我的唯一。",
+            "I proposed to my girlfriend because I knew I wanted to spend the rest of my life with her. She is my one and only.\n我向女友求婚是因为我知道自己想和她共度余生。她是我唯一心爱的人。",
+            "That's so cute that you told him he was your one and only. You two make an amazing couple.\n你告诉他说他是你生命中的唯一，真是太好了！你们俩是天生一对。"
+        ]
     },
     {
         "id": "210209",
         "title": "Have ice in one’s veins 镇定自若",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210209",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0951xlw.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0951xlw.jpg",
+        "desc": "表达 “have ice in one’s veins” 的字面意思是 “某人的血管里有冰”，而它实际表达的意思是 “临危不乱，镇定自若”。“Have ice in one’s veins” 也可以被用来形容某人 “冷酷无情”。",
+        "sentences": [
+            "She didn’t move when the ball was coming straight towards her face. She must have ice in her veins.\n当球径直冲她的脸飞来时，她一动不动。她真淡定。",
+            "Wang Mei had ice in her veins! With seven seconds left, she managed to hit a three-pointer and tied the game!\n王梅真镇定！在比赛还剩七秒中时，她成功命中了一个三分球，扳平了比分！",
+            "My friend was thrown out of his apartment for accidentally breaking a window. His landlord has ice in his veins.\n我的朋友因为不小心打破了一扇窗户而被赶出了公寓。他的房东真是冷酷无情。"
+        ]
     },
     {
         "id": "210204",
         "title": "Throw cold water on something 泼冷水",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210204",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p094jzyz.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p094jzyz.jpg",
+        "desc": "表达 “throw cold water on something” 的意思是 “给一个想法、计划或情况泼冷水”。其中，动词 “throw” 可以用 “pour” 替换，即 “pour cold water on something”，用 “pour” 所表达的否定态度没有 “throw” 那么强烈。",
+        "sentences": [
+            "Roberta wanted to build a statue of her hero out of clay, but Jenkins threw cold water on the idea.\n萝贝塔想为她的英雄建造一座土雕像，但詹金斯给这个想法泼了盆冷水。",
+            "The boss poured cold water on my idea when he heard the proposed budget for the project.\n老板听了我的项目预算提案后，给我泼了一盆冷水。",
+            "Martin felt that cold water had been thrown on his plans after everyone laughed at his intentions.\n在大家都嘲笑了他的意图后，马丁觉得自己的计划被泼了冷水。"
+        ]
     },
     {
         "id": "210202",
         "title": "Leave someone in the cold 冷落某人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210202",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p094jzgg.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p094jzgg.jpg",
+        "desc": "表达 “leave someone in the cold” 的意思是 “把某人排除在一个团体或活动之外，冷落某人”。它可以与介词 “out” 连用，即 “leave someone out in the cold”。在被动结构中，它也可以和动词 “get” 或 “to be” 搭配，即 “get left (out) in the cold” 或 “be left (out) in the cold”，意思是 “被冷落，被晾在一边”。",
+        "sentences": [
+            "After what he said, Clarisse decided not to invite him to the party and left him in the cold.\n他说了那些话之后，克拉丽斯决定不邀请他参加聚会，把他晾一边。",
+            "Alice got left out in the cold as she wasn't asked to work on the project.\n爱丽丝被冷落了，因为她没有被要求参与这个项目。",
+            "I didn't mean to leave him out in the cold. I just forgot he liked watching football.\n我不是故意要冷落他。我只是忘了他也喜欢看足球。"
+        ]
     },
     {
         "id": "210128",
         "title": "Cold hands, warm heart 外表冷漠心肠热",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210128",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936wb4.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936wb4.jpg",
+        "desc": "表达 “cold hands, warm heart” 的字面意思是 “冰冷的手，火热的心”，人们用它来称赞某人的本性善良、慷慨。注意：在使用中，人们多在说起某人的手很凉之后，用这个表达。",
+        "sentences": [
+            "Wow, your hands are freezing. But you know what they say: 'cold hands, warm heart'.\n哎呀，你的手好冷啊。不过，俗话说得好：外表冷漠心肠热。",
+            "She has cold hands, but a warm heart. She's a very caring person.\n她的手冰冷，但心却温暖。她是一个很有爱心的人。",
+            "I know I have poor circulation, but cold hands, warm heart. I like to think I'm generous and kind.\n我知道我血液循环不好，但手冷心暖。我觉得我很慷慨善良。"
+        ]
     },
     {
         "id": "210126",
         "title": "Cold comfort 于事无补",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210126",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936tkv.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936tkv.jpg",
+        "desc": "如果某件事情被称为 “cold comfort”，意思就是 “本想用此事安慰他人，使其不再因一个消极的状况而感到难过，却没有达到预期的效果，于事无补”。",
+        "sentences": [
+            "The creation of new jobs looks good, but it's cold comfort for all the people who lost their houses during the economic downturn.\n创造新的就业机会看似是件好事，但这对于在经济衰退时期失去住房的人来说，并不能起到什么安慰作用。",
+            "The fact they were allowed to stay in the house for another week after being evicted was cold comfort.\n他们被逐出住所后获准在那所房子再住一个星期，但这并不能给他们带来什么安慰。",
+            "After the couple were robbed, the police found their bag. However, it was cold comfort as the money was still missing.\n那对夫妇被抢后，警察找到了他们的包。但这于事无补，因为包里的钱不见了。"
+        ]
     },
     {
         "id": "210121",
         "title": "Come in from the cold 不再受冷落",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210121",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936qrm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936qrm.jpg",
+        "desc": "表达 “come in from the cold” 可以描述 “某人在受到一段时间的冷落后，或在被排斥后回归正常”，预期这个人将重新恢复以往的工作职位。这个表达多用在谈论与商务有关的话题中，同时也可以用在描述个人情况的语境中。表达中的动词 “come” 可以用 “bring” 来替换，即 “bring someone in from the cold”，意思是 “让某人不再受到冷落”。",
+        "sentences": [
+            "We have decided that it is time for the ex-CEO to come in from the cold to resume work on the project.\n我们已经决定是时候让这位被打入冷宫的前首席执行官回来继续这个项目的工作了。",
+            "They brought her back in from the cold to finish the presentation after she apologised for her comments.\n在她为自己的言论道歉后，他们结束了对她的排斥，让她完成演示报告。",
+            "Bob should come in from the cold. However, he needs to learn that a dinner table is no place for such heavy conversations.\n鲍勃不应再遭人冷落。但他需要明白，餐桌上不适合进行如此沉重的谈话。"
+        ]
     },
     {
         "id": "210119",
         "title": "Frozen to the core 冻得透心凉",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210119",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936p0j.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0936p0j.jpg",
+        "desc": "表达 “frozen to the core” 用来形容 “人感觉极其寒冷”。其中，“to the core” 的意思是 “彻头彻尾的，极其”，所以，“frozen to the core” 就突出表达了 “某人从头到脚、浑身冰冷的感觉”。这个表达通常和感官动词 “feel”或系动词 “be” 连用，即 “feel frozen to the core” 或者 “be frozen to the core”。",
+        "sentences": [
+            "It was so cold outside that he felt frozen to the core.\n外面太冷了，他觉得都快冻僵了。",
+            "Please, turn the central heating on. I am frozen to the core.\n请把集中供热系统打开。我冻得全身冰凉。",
+            "If you don't put a coat on, you'll be frozen to the core. It's winter, you know?\n如果不穿外套，你会被冻得透心凉。你知道，现在可是冬天啊！"
+        ]
     },
     {
         "id": "210114",
         "title": "Dead of winter 寒冬腊月",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210114",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p092d74t.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p092d74t.jpg",
+        "desc": "表达 “dead of winter” 指 “隆冬时节，冬天最寒冷的时期”，相当于汉语里的 “寒冬腊月”。它通常被用来描述像大雪或重霜这样的阴冷天气。“Dead of winter” 多出现于文学作品中，但在口语中也时常被使用。",
+        "sentences": [
+            "I'm not going out there. It's the dead of winter.\n我不出去。这寒冬腊月的，太冷了。",
+            "It was the dead of winter, and the ground was covered in thick frost, and icicles were hanging from the trees.\n隆冬时节，积霜遍地，冰柱垂枝。",
+            "You're travelling in the dead of winter? Make sure to drive safely as the roads are likely to be icy.\n你要在冬天最冷的时候旅行？道路可能会结冰，所以一定要注意安全驾驶。"
+        ]
     },
     {
         "id": "210112",
         "title": "A cold snap 寒流",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210112",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p092d6xc.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p092d6xc.jpg",
+        "desc": "表达 “a cold snap” 通常被用来描述 “温暖天气后出现的一段短暂的寒冷天气”。这种天气可能来得很突然。与 “a cold snap” 同义的另一个表达是 “a cold spell”。",
+        "sentences": [
+            "There was a cold snap at the start of the year.\n今年年初有一股寒流。",
+            "The weather had been perfect for growing food, but the sudden cold snap threatened the crops.\n当时的天气本来非常适合种植粮食，但突如其来的寒流却危害到了庄稼。",
+            "The weather forecaster said that a cold snap is heading our way, so we should probably postpone our holiday.\n天气预报员说有一股寒流正向我们袭来，所以我们或许应该推迟度假安排。"
+        ]
     },
     {
         "id": "210107",
         "title": "A snowball's chance in hell 机会渺茫",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210107",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0929h66.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0929h66.jpg",
+        "desc": "“A snowball's chance in hell” 的意思是 “某件事情发生的可能性很小，几乎不可能”。这是因为人们想象中的 “hell（地狱）” 非常炎热，所以 “snowball（雪球）” 在里面会融化，这个表达借此比喻 “事情几乎或根本不可能发生”。你也可以用 “not have a snowball's chance in hell” 来表达同样的意思。",
+        "sentences": [
+            "He panicked a lot in the interview because he was nervous. He has a snowball's chance in hell of getting the job.\n因为紧张，他在面试中惊慌失措。他基本不可能得到那份工作。",
+            "She doesn't have a snowball's chance in hell of winning the race after falling on the last lap.\n她在跑到最后一圈时摔倒了，因此她赢得比赛的机会渺茫。",
+            "There's a snowball's chance in hell that I'm going to give you the money.\n想让我给你这笔钱，压根不可能。"
+        ]
     },
     {
         "id": "210105",
         "title": "As snug as a bug in a rug 非常舒适",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210105",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0929gn7.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0929gn7.jpg",
+        "desc": "表达 “as snug as a bug in a rug” 的字面意思是 “像裹在毯子里的虫子一样舒服”，它实际用来形容某人 “感到非常温暖、惬意和舒适”。在室外天气非常寒冷的情况下，这个表达可以突出强调某人呆在温暖的室内，“感到很舒适”。这个表达也可以被缩略为 “as snug as a bug”。",
+        "sentences": [
+            "It's really cold outside, but Jethro is inside wrapped in a warm blanket and drinking hot chocolate. He's as snug as a bug in a rug.\n外面真的很冷，不过杰思罗在屋子里裹着一条暖和的毯子，喝着热巧克力。他舒服极了。",
+            "Put on a warm jumper and grab your gloves! You'll be as snug as a bug.\n穿上一件暖和的套头毛衣，戴上手套！你会感到既温暖又舒适。",
+            "I'm not getting out of bed. The room is freezing. I'm as snug as a bug in a rug wrapped up in my duvet.\n我不想起床。这个房间冷极了。我裹在被窝里，非常舒服。"
+        ]
     },
     {
         "id": "201231",
         "title": "Snowball effect 滚雪球效应",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201231",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p090vm6f.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p090vm6f.jpg",
+        "desc": "表达 “snowball effect” 描述 “一个情况或事件的规模、重要性就像滚雪球一样不断扩大，变化的速度也在加快”。“Snowball effect” 有时会被用来描述 “一个失控的情况”。“Snowball” 也可以作动词使用，表示计划、问题等 “滚雪球般迅速增大”。",
+        "sentences": [
+            "She invested in some shares and used the dividend payments to buy new shares to increase her portfolio. It’s a sort of snowball effect.\n她投资了一些股票，并用股息购买了新的股票，以增加她的投资组合。这是一种滚雪球效应。",
+            "I only invited ten people to my party, but they brought their partners, who in turn brought their friends. It was a snowball effect.\n我只邀请了十个人来参加聚会，但他们都带来了自己的同伴，同伴们又带来了他们的朋友们。这就好比滚雪球效应一般，人越来越多。",
+            "Because we didn’t deal with the PR issue when the news broke, more claims were made. The situation really snowballed.\n由于消息传出时我们没有及时处理公关问题，结果有更多人提出了索赔。情况真的就像滚雪球一样，越来越糟。"
+        ]
     },
     {
         "id": "201229",
         "title": "Put something on ice 搁置，推迟",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201229",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09149vh.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09149vh.jpg",
+        "desc": "表达 “put something on ice（把某个事物放在冰上）” 的实际意思是 “推迟，搁置某件事情”。它通常被用来谈论一次交易或一项计划 “暂缓”。如果将这个表达中的动词 “put” 换成 “keep”，即 “keep something on ice”，意思就是 “持续搁置某件事情”。",
+        "sentences": [
+            "Due to the latest financial reports released by the company, the merger with their closest rival has been put on ice.\n由于这家公司发表了最新的财务报告，与其最主要的竞争对手的合并计划已被搁置。",
+            "It’s a great idea, but we’ll have to put it on ice for a while due to budgetary constraints.\n这个想法很不错，但由于预算有限，我们不得不把它搁置一段时间。",
+            "We need to keep the plan for the office expansion on ice for now while we wait for the architect to come back with her new design.\n我们需要暂时搁置扩建办公室的计划，等待建筑师提出她的新设计方案。"
+        ]
     },
     {
         "id": "201224",
         "title": "Light up like a Christmas tree 喜上眉梢；灯光夺目",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201224",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p090ch9q.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p090ch9q.jpg",
+        "desc": "表达 “light up like a Christmas tree（像圣诞树一样被点亮）” 有两个用法。第一：它可以用来形容 “某人突然喜笑颜开的神情”；第二：它可以用来描述 “某个地方的灯光非常夺目”，暗示夸张的照明。",
+        "sentences": [
+            "When I gave my son his present, he lit up like a Christmas tree!\n当我把礼物送给儿子时，他顿时满面笑容！",
+            "He’s planning to propose to his girlfriend today. He’ll light up like a Christmas tree if she says yes.\n他打算今天向女朋友求婚。如果她答应了，他会高兴地手舞足蹈！",
+            "They’ve put so many garden lights on their lawn, it looks like an airport runway. It’s lit up like a Christmas tree.\n他们在自家草坪上装了很多庭院照明灯，看起来就像机场跑道一样，灯光效果十分夸张。"
+        ]
     },
     {
         "id": "201222",
         "title": "Christmas came early 突如其来的好事情",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201222",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p090cgsp.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p090cgsp.jpg",
+        "desc": "“Christmas came early（圣诞节提早到来）” 用来表达 “对收到惊喜礼物或遇到突如其来的好事情时的喜悦”。人们通常把 “Christmas（圣诞节）” 和大量的礼物联系在一起，因此用 “Christmas came early” 来表达 “对突如其来的惊喜感到高兴”。“Christmas came early this year（圣诞节今年提早到来）” 和 “Christmas came early” 的意思相同。",
+        "sentences": [
+            "I couldn’t believe it when I won the competition. I won a car, a computer and a holiday. Christmas came early this year.\n我赢得比赛时，我简直不敢相信这一切。我赢了一辆车、一台电脑和一个度假的机会。真是突如其来的大好事！",
+            "When she told him he had got the promotion, he was so happy. He looked like Christmas had come early.\n当她告知他他升职了时，他很高兴。这个突如其来的好消息让他无比兴奋！",
+            "My parents gave me some shares in their company. Christmas came early!\n我家长给了我他们公司的一些股份。这真是突如其来的好事！"
+        ]
     },
     {
         "id": "201217",
         "title": "Come up trumps 意外地大获成功",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201217",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08zp6w2.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08zp6w2.jpg",
+        "desc": "“Come up trumps” 是一个地道的表达，它的意思是 “成功地完成一项任务，结果出乎意料地令人满意”。它由动词短语 “come up（某事意外发生）” 和名词 “trump（卡牌游戏中的王牌）” 构成。这个表达中的 “come up” 可以用 “turn up” 替换，即 “turn up trumps”，意思不变。",
+        "sentences": [
+            "I thought Roger had forgotten our anniversary, but he came up trumps in the end. He organised a surprise dinner!\n我以为罗杰忘了我们的纪念日，但他却给了我一个惊喜，安排了一顿晚餐！",
+            "Our team turned up trumps with a brilliant closing statement and won the business competition!\n我们的团队以一段精彩的结束陈词出乎意料地赢得了那场商业比赛！",
+            "Betty came up trumps and scored the winning goal, even though she’d hurt her knee.\n贝蒂在最后时刻力挽狂澜，赢得了制胜一球，尽管她伤了膝盖。"
+        ]
     },
     {
         "id": "201215",
         "title": "Ace a test 考试得高分",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201215",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08zp5mt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08zp5mt.jpg",
+        "desc": "短语 “ace a test” 用来表示 “某人在一次测验或考试中取得了很高的分数”。动词 “ace” 源自扑克牌中的 “A 纸牌（the ace card）”。通常情况下，“A 纸牌” 是扑克牌中最大的一张，所以在谈论与考试有关的语境中，动词 “ace” 就用来表示 “考得非常好”。短语 “ace a test” 中的名词 “test（测验）” 可以用考试的具体科目名称替换。比如：to ace an English exam；to ace my Chinese final。",
+        "sentences": [
+            "She aced her piano exam. She got a distinction.\n她的钢琴考试考得很好，成绩是优秀。",
+            "Derek was really upset. He thought he was going to ace his dissertation, but he only passed!\n德里克很沮丧。他本以为他的论文能得高分，但只是刚刚及格！",
+            "I am really proud of her. She missed loads of lessons because she was ill, but she still aced her final exams.\n我真为她感到骄傲。因为生病，她错过了很多节课，但期末考试还是得了高分。"
+        ]
     },
     {
         "id": "201210",
         "title": "Draw a blank 一无所获，毫无回应",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201210",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ywdl9.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ywdl9.jpg",
+        "desc": "表达 “draw a blank” 在口语中用来表示 “未能得到回应或答复”。它由动词 “draw（得出，推断出）” 和 “a blank（空白）” 组成。",
+        "sentences": [
+            "The investigation is still open. So far, every lead has drawn a blank.\n调查仍在进行中。到目前为止，每条线索都扑空了。",
+            "I still haven’t found my keys. I have looked everywhere but keep drawing a blank!\n我还是没有找到我的钥匙。我已经找遍了所有的地方，但仍一无所获！",
+            "She looked really upset. Luckily, Felix always knows the right thing to say. He never draws a blank.\n她当时看起来很沮丧。但幸好费利克斯总是知道该说什么来帮她宽心。他从来都不让人失望。"
+        ]
     },
     {
         "id": "201208",
         "title": "As clear as a bell 声音清晰洪亮",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201208",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ywbwv.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ywbwv.jpg",
+        "desc": "短语 “as clear as a bell” 或 “clear as bell” 用来指 “某物或人发出的声音清晰、洪亮”。它由形容词 “clear（声音清晰的）”、副词 “as（像…一样）” 和 “a bell（一个铃铛）” 组成，表示 “声音像铃铛一样纯净透亮，没有任何杂音”。这个短语常用在感官动词 “hear（听见）” 和 “sound（听起来，听见）” 后。",
+        "sentences": [
+            "I could hear the music as clear as a bell from the back of the theatre.\n我在剧院后面也能很清晰地听到音乐。",
+            "It’s amazing this old radio still tunes into stations really well. The opera sounded as clear as a bell!\n这台旧收音机真是不错，仍然能很好地收到电台的信号。歌剧听上去非常清晰！",
+            "Last year we heard the concert as clear as a bell, but this year we weren’t as close to the stage.\n去年音乐会上，我们听得一清二楚，但今年我们离舞台没有那么近了，所以不如去年听得清楚。"
+        ]
     },
     {
         "id": "201203",
         "title": "In unison 共同，一齐",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201203",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08xzzhc.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08xzzhc.jpg",
+        "desc": "“In unison” 是一个实用的短语，用来形容人们在行动、说话或表演时 “步调一致，十分协调”。比如：可以用 “in unison” 形容两个人或一群人 “同时地” 做某事，或 “和谐地” 演唱或演奏。",
+        "sentences": [
+            "The concert was amazing. The two soloists and the choir sang beautifully in unison throughout.\n这场音乐会非常精彩。两位独奏者和唱诗班的齐唱搭配自始至终都很和谐动听。",
+            "The twins are never in unison. They might be identical, but they think very differently!\n这对双胞胎从不合拍。他们可能长相一样，但想法却非常不同！",
+            "The board voted in unison to appoint the new CEO.\n董事会一致投票任命了新的首席执行官。"
+        ]
     },
     {
         "id": "201201",
         "title": "A slow/fast/romantic number 一首慢歌/快歌/情歌",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201201",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08xztsf.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08xztsf.jpg",
+        "desc": "“A song（一首歌）” 也可以被称作 “a number”。在使用时，“number” 前通常加描述一首歌类型的形容词，比如：“a slow number（一首慢歌）”；“a fast number（一首快歌）”；“a romantic number（一首情歌）”。",
+        "sentences": [
+            "I don't usually like slow numbers, but that's a great song!\n我一般不喜欢慢歌，但那首歌很棒！",
+            "We always start our set with a fast number to get people on their feet.\n我们在表演时总是以一首快歌开场，让人们舞动起来。",
+            "The DJ finished the night yesterday by playing a romantic number, and everyone was dancing.\n这位打碟师以一首情歌结束了昨晚的活动，当时大家都在合着音乐跳舞。"
+        ]
     },
     {
         "id": "201126",
         "title": "Hit the right note 言行得体，恰到好处",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201126",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08x7g7x.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08x7g7x.jpg",
+        "desc": "“Hit the right note（击中正确的音符）” 是一个实用的短语，它既可以用来描述某人 “唱歌或演奏时音准动听”，也可以用来表示 “某人的言行举止恰当、得体，对在场的人产生了积极的影响”。",
+        "sentences": [
+            "Classy, funny, and inspiring – the actor hit the right note with his acceptance speech.\n优雅、风趣又鼓舞人心，这位演员的获奖感言恰到好处。",
+            "She managed to hit all the right notes throughout her performance in the opera.\n她在这部歌剧的整个演出过程中唱得音准无误，非常完美。",
+            "Felix hit all the right notes in his piano exam.\n费利克斯在他的钢琴考试中表现出色，达到了所有的要求。"
+        ]
     },
     {
         "id": "201124",
         "title": "A jam session 一场即兴演奏会",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201124",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08x7ftw.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08x7ftw.jpg",
+        "desc": "表达 “a jam session” 指 “音乐家们进行非正式的演奏”，这类演奏通常是 “没有经过排练的即兴演奏”。这个表达中的动词 “jam” 的意思是 “与他人即兴演奏”。",
+        "sentences": [
+            "I’ve just got a new guitar. Do you want to come round for a jam session tomorrow?\n我刚买了一把新吉他。你想明天过来和我一起随意弹弹吗？",
+            "I was in the bar, and these musicians just started a jam session – it sounded amazing!\n当时我在酒吧里，这些音乐家们刚刚开始即兴演奏，听起来特别棒！",
+            "We had a jam session yesterday, and I think I’ve got an idea for a new song now.\n我们昨天进行了一场即兴演奏，我觉得我现在找到了新歌的灵感。"
+        ]
     },
     {
         "id": "201119",
         "title": "Have a face like thunder 火冒三丈",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201119",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08wkqjr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08wkqjr.jpg",
+        "desc": "表达 “have a face like thunder（有一张雷公脸）” 用来形容某人极度愤怒、火冒三丈的表情；“with a face like thunder” 可以形容某人一脸怒容，在生气地做某事时的样子。",
+        "sentences": [
+            "My father is a very patient man, but he was furious with my little brother when he crashed the car. He had a face like thunder!\n我父亲是个非常有耐心的人，但在我弟弟把车撞坏之后，他大发雷霆。当时他满脸怒气！",
+            "The teacher had a face like thunder when the children broke the window while playing.\n孩子们玩耍时打碎了窗户，老师怒不可遏。",
+            "My flatmate came into the sitting room with a face like thunder when we woke her up by playing music too loudly.\n我们放音乐的声音太大，把室友吵醒了，她满脸怒气地走进客厅。"
+        ]
     },
     {
         "id": "201117",
         "title": "The calm before the storm 暴风雨前的平静",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201117",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08wkph1.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08wkph1.jpg",
+        "desc": "表达 “the calm before the storm（暴风雨前的平静）” 指 “在苦难或冲突发生前的一段平静、稳定的时期”。这段平静的时期可能会异常安静，因此其它时期会更引人注目或给人不详之感。这个表达中的名词 “calm” 可以用 “lull” 代替，意思不变，即 “the lull before the storm”。",
+        "sentences": [
+            "The mall is quiet at the moment, but sales start next week so this is probably just the calm before the storm.\n百货商场现在没什么人，但减价活动下周就要开始了，所以这可能只是暴风雨前的平静。",
+            "My friend Roman is a school teacher and he always says that the week before term starts is the most productive time to be at school. He can prepare his lessons and enjoy the calm before the storm!\n我的朋友罗曼是一名教师，他总是说开学前一周是在学校工作最有效率的时间。他可以备课，享受暴风雨前的平静！",
+            "Having all of our relatives over for Christmas is always chaotic, so I try to be extremely organised and give myself time to relax before the guests arrive. That way, I can enjoy the lull before the storm.\n请我们所有的亲戚到家里过圣诞节总是很混乱，所以我尽量提前做好准备工作，在客人来之前给自己一点放松的时间。这样，我就可以享受暴风雨前的平静了。"
+        ]
     },
     {
         "id": "201112",
         "title": "Elevator music 公共场所连续播放的背景音乐",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201112",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08xzkzq.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08xzkzq.jpg",
+        "desc": "“Elevator music（电梯音乐）” 是一个实用短语，用来描述 “电梯、餐厅、商店等公共场所中连续播放的背景音乐”。这类背景音乐通常是预先录制的柔和爵士乐。人们多以带有负面色彩的语气使用 “elevator music” 来描述 “音乐是平淡无奇的、单调乏味的”。",
+        "sentences": [
+            "The new restaurant in town plays elevator music really loudly. I can’t stand it!\n城里新开的那家餐馆的背景音乐放得声音很大。我实在是受不了！",
+            "I used to think I hated elevator music, but in fact I quite like it.\n我过去以为我很讨厌公共场所的背景音乐，但实际上我还挺喜欢这类音乐。",
+            "I wish they would change the music – it’s awful. It sounds like elevator music!\n我希望他们能换一下音乐，太难听了。听起来就像公共场所里播放的背景音乐！"
+        ]
     },
     {
         "id": "201110",
         "title": "It’s not over until it’s over 不到最后，不见分晓",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201110",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08w11ns.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08w11ns.jpg",
+        "desc": "短语 “it’s not over until it’s over” 可以用来对某件事情的结果发表意见。它的意思是 “我们不能依靠自己的预测来对某件事情的结果妄下定论”；相反，必须要等到最后时刻，才能一见分晓。人们常在观看竞技比赛时使用这个短语。",
+        "sentences": [
+            "It looks as if the local team are going to win, but there are still twenty minutes in the game. It’s not over until it’s over!\n看样子，主场队要赢了，但离比赛结束还有二十分钟。不到最后一刻，不分胜负！",
+            "Come on, folks. Don’t give up! I know we lost in the first round, but it’s not over until it’s over.\n大家要加油，别放弃！我们确实输了第一轮比赛，但不到最后一刻， 比赛就还没有结束！",
+            "Unbelievable! The champion has been knocked out in the final round! We told you it isn’t over until it’s over!\n难以置信！卫冕冠军在最后一轮比赛中被淘汰了！我告诉过你，不到最后一刻，谁也不知道结果如何！"
+        ]
     },
     {
         "id": "201105",
         "title": "Come rain or shine 风雨无阻",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201105",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08w12v5.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08w12v5.jpg",
+        "desc": "“Come rain or shine” 是一个副词短语，意思是 “不管发生什么事情”，即 “无论如何，某件事情一定会发生”。它与汉语中所说的 “风雨无阻” 意思相同，所以既可以用来谈论天气，也可以谈论一般情况。",
+        "sentences": [
+            "No matter how difficult her job is, she always makes 100% effort, come rain or shine.\n不管工作有多困难，她总是竭尽全力，无一例外。",
+            "I’m going to the outdoor concert come rain or shine – I can’t wait to see my favourite band!\n不管是刮风还是下雨，我都要去参加那场户外演唱会。我迫不及待地想看到我最喜欢的乐队演出！",
+            "Come rain or shine, you can count on the players to play their matches and win.\n不论发生什么情况，你都可以指望这些球员们去参加比赛并取得胜利。"
+        ]
     },
     {
         "id": "201103",
         "title": "Hope for the best 尽量往好处想",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201103",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08vbw2v.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08vbw2v.jpg",
+        "desc": "表达 “hope for the best” 被用来表示 “人们希望一件事情能有个好结果，要尽量往好处想”。但通常情况下，人们使用这个表达来暗示事情的结果可能不尽人意。",
+        "sentences": [
+            "I don’t know if I’ve got the job yet. I’ll just have to wait and hope for the best.\n我还不知道我是不是得到了这份工作。我只能等待，希望能有个好结果。",
+            "If the doctors say my arm is still broken, then I can’t return to work. All we can do is hope for the best.\n如果医生说我断了的胳膊还没愈合，那我就不能回去工作。我们所能做的就是抱着乐观的态度等待结果。",
+            "The weather forecast says that rain is likely on our wedding day. It’s not certain, though, so we’re hoping for the best.\n天气预报说，我们婚礼那天可能会下雨。不过，现在还不能确定，所以我们希望到时天公作美，万里无云。"
+        ]
     },
     {
         "id": "201029",
         "title": "Hope springs eternal 希望之泉永不尽",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201029",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08v4v00.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08v4v00.jpg",
+        "desc": "人们用 “hope springs eternal” 这句话来表达 “希望总是存在的，即使它看起来不太可能”。它可以被用来描述一件不太可能发生但我们希望它发生的事情。",
+        "sentences": [
+            "It's going to be really difficult to win this match now, but hope springs eternal.\n现在要赢得这场比赛真的很困难，但希望总是有的。",
+            "Hope springs eternal, but if our sales figures don't improve, we'll have to close.\n虽然希望永存，但如果我们的销售数字不提高，我们就得关门停业了。",
+            "It's going to be hard to pass this exam. Oh, well. Hope springs eternal.\n要想通过这场考试很难。唉！不过希望总是有的。"
+        ]
     },
     {
         "id": "201027",
         "title": "A fighting chance 成功的一线可能",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201027",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08v4t3x.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08v4t3x.jpg",
+        "desc": "短语 “a fighting chance” 用来描述做某件事情的可能性。它暗示虽然成功的可能性很小，但值得一搏。只要付出巨大的努力，奋勇一搏，就有可能获取成功。这个名词短语通常与动词 “have” 搭配使用，即 “have a fighting chance（有获得成功的一线可能）”。",
+        "sentences": [
+            "You should have a fighting chance of winning if you save some energy for the end of the race!\n如果你留些力气到比赛最后，你就有可能获胜！",
+            "People have been surprised by the newcomer’s boxing ability. If she can survive the first two rounds, she may be in with a fighting chance of winning.\n大家对这位新手的拳击能力感到惊讶。如果她能挺过前两轮，她就可能有获胜的机会。",
+            "I think I have a fighting chance of passing the interview if I can get past the application stage.\n我觉得如果我能通过申请资料筛选的阶段，我就有机会通过面试。"
+        ]
     },
     {
         "id": "201022",
         "title": "Pin your hopes on something 寄希望于某事",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201022",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ss1bg.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ss1bg.jpg",
+        "desc": "如果你 “pin your hopes on something（把希望钉在某个东西上）”，这就意味着你一心指望这件事情会给你带来幸福或成功。人们使用这个表达可能是因为非常希望某件事情会成功，或者是因为其它事情都失败了，而这是唯一剩下的机会。在使用时，可以在 “pin your hopes on something” 中加上限定词 “all（所有的，全部的）”，即 “pin all your hopes on something”，意思是 “把你所有的希望都寄托在某件事情上”。",
+        "sentences": [
+            "I'm pinning all my hopes on winning a scholarship.\n我寄希望于获得奖学金。",
+            "She had been pinning all her hopes on getting that job, so she was devastated when they chose someone else.\n她一直把所有希望都寄托在得到那份工作上，所以当他们聘用了别人后，她整个人都垮掉了。",
+            "The last event was a failure, so we're pinning all our hopes on the next one to save the business.\n上一次的活动失败了，所以我们把所有的希望都寄托在下一次活动上，以挽救我们的企业。"
+        ]
     },
     {
         "id": "201020",
         "title": "A blessing in disguise 因祸得福",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201020",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08srw4q.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08srw4q.jpg",
+        "desc": "表达 “a blessing in disguise” 的字面意思是 “一件伪装成坏事的好事”，它指 “最初看似消极的事情却产生了意想不到的积极结果”，就相当于汉语成语 “塞翁失马，焉知非福”。当它用于过去时态的语句中时，通常表达了某件事情以一种意想不到的积极方式告终。这个短语也可以用来预言未来的事情不会像最初看起来的那样消极。",
+        "sentences": [
+            "Losing that job turned out to be a blessing in disguise – I found a much better one!\n失去了那份工作反倒是因祸得福，因为我找到了一份更好的工作！",
+            "I'm annoyed we had to cancel the holiday, but I think it could be a blessing in disguise – the weather forecast for that week is terrible!\n我们不得不取消假期，这让我很生气，但我觉得这可能是塞翁失马，焉知非福。天气预报预计那周的天气很糟糕！",
+            "Having a new competitor could be a blessing in disguise – we'll make better products.\n有了一个新的竞争对手可能是一种变相的好事，因为这样我们会制造出更好的产品。"
+        ]
     },
     {
         "id": "201015",
         "title": "Hope against hope 抱一线希望",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201015",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08s692v.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08s692v.jpg",
+        "desc": "短语 “hope against hope” 的意思是 “某人寄希望于一件不太可能发生的事情”。它有时也用来表达某人在绝望的情况下抱着一线希望。“Hope against hope” 是一个动词短语，所以其中的第一个 “hope” 应根据时态和主语的变化而改变。",
+        "sentences": [
+            "After hearing about the accident, families were hoping against hope to receive good news.\n听到事故的消息后，所有家庭都抱着一线希望，希望能得到好消息。",
+            "He was hoping against hope that his message would reach her.\n他还抱着一线希望，希望她能收到他的消息。",
+            "No one believes that they can do it – but I'm still hoping against hope that they can.\n没有人相信他们能做成这件事情，但我对此仍抱有一线希望。"
+        ]
     },
     {
         "id": "201013",
         "title": "The sky’s the limit 一切皆有可能",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201013",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08s65sv.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08s65sv.jpg",
+        "desc": "“The sky’s the limit（天空是极限）” 是一个固定表达，意思是 “对于想做的事情或想实现的目标没有任何限制”。它常被用来表示 “一切皆有可能” 或 “没有什么可以阻止你做你想做的事情”。",
+        "sentences": [
+            "Now you’ve won the lottery, the sky’s the limit! You can do anything you want to!\n你中了彩票，那么现在一切皆有可能！你可以去做任何你想做的事情了！",
+            "The student received offers from ten universities – the sky’s the limit for her.\n这名学生收到了十所大学的录取通知书。她前途无量！",
+            "Now you’ve retired, the sky’s the limit! You can spend your time however you like!\n你已经退休了，没有什么可以阻挡你了！你可以自由自在地做你想做的事情！"
+        ]
     },
     {
         "id": "201008",
         "title": "When one door closes, another one opens 天无绝人之路",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201008",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08rkdbt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08rkdbt.jpg",
+        "desc": "短语 “when one door closes, another one opens（当一扇门关上了，另一扇门就会打开）” 可以被用来描述当某人失去了一个机会，但又有另一个机会取而代之的情况。这个短语突出表达对未来的乐观态度，尤其是在一件不好的事情刚刚发生的时候。",
+        "sentences": [
+            "When I lost my job, my friend offered me a new one at his company. It goes to show that when one door closes, another one opens.\n我丢掉工作后，我朋友在他的公司给我了一份新工作。这正如人们所说：“一扇门关上了，另一扇门就会打开。”",
+            "I was sad when my ex-girlfriend left me, but within two weeks I met someone who is much better for me and now we’re married. What they say is so true: when one door closes, another one opens.\n当我的前女友离开我时，我很伤心，但不到两周我就遇到了一位更适合我的人，现在我们结婚了。正所谓：“一扇门关上了，另一扇门就会打开。”",
+            "Don’t be sad that you didn’t buy that house – I’m sure you’ll find another that you will love just as much. When one door closes, another one opens.\n不要因为你没买那栋房子而难过，我相信你会找到另一栋你同样喜欢的房子。一扇门关上了，另一扇门就会打开。"
+        ]
     },
     {
         "id": "201006",
         "title": "Look on the bright side 往好处想，看到好的一面",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201006",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08rkc1t.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08rkc1t.jpg",
+        "desc": "动词短语 “look on the bright side” 可以用来描述某人试图从一个消极的情况中看到积极的一面。这个短语多用来表达某人拥有积极乐观人生态度。“Look on the bright side” 也可以简写为 “on the bright side”。",
+        "sentences": [
+            "My old bike got stolen, but on the bright side, the insurance paid for a brand new bike.\n我的旧自行车被偷了，但还好的是，保险公司给赔偿了一辆崭新的自行车。",
+            "No matter what happens, she always tries to look on the bright side. She’s an optimist.\n不论发生什么，她总是设法看到事情好的一面。她是一个乐观主义者。",
+            "I know you’re sad about losing your job, but look on the bright side – now you can start your own business like you’ve always wanted to!\n我知道你丢掉了工作很难过，但你要看到好的一面，现在你能像自己一直想做的那样去创业了。"
+        ]
     },
     {
         "id": "201001",
         "title": "Everything’s coming up roses 一切进展顺利",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-201001",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08sdjff.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08sdjff.jpg",
+        "desc": "表达 “everything’s coming up roses” 可以用来形容某人的生活事事顺心，一切都在向好的方向发展。这个表达尤其适用于某人在经历了一段时间的挫折或失望后，运势转折，渐入佳境的语境中。",
+        "sentences": [
+            "Losing my job was the best thing that ever happened to me. I found a new career that I love and made lots of new friends. Everything’s coming up roses.\n丢掉工作是我这辈子遇到最好的事情。我找到了一份我热爱的新职业，还结识了很多新朋友。一切都顺心如意。",
+            "After my girlfriend left me, I was very sad. But then I met the love of my life and now everything’s coming up roses.\n女朋友离开我后，我很伤心。但后来我遇到了我一生的挚爱，现在一切都在往好的方向发展。",
+            "The musician struggled to find work after graduating. Then he joined a band which has just been signed to a major record label. Everything’s coming up roses now.\n这位音乐家毕业后一直找不到工作。后来他加入了一个刚刚被大唱片公司签约的乐队。现在一切都进展得很顺利。"
+        ]
     },
     {
         "id": "200929",
         "title": "The future looks bright 前途一片光明",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200929",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08sdj1n.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08sdj1n.jpg",
+        "desc": "人们常用表达 “the future looks bright” 来表示 “对未来将要发生的事情持乐观的态度”。你也可以用 “one’s future looks bright” 来表示 “某人将在未来的职业生涯中取得成功”。",
+        "sentences": [
+            "The future looks bright for the company – they’ve just broken their sales record.\n这家公司的前景一片光明，他们刚刚打破了销售记录。",
+            "The young actor’s future looks bright – her performance in her most recent film was amazing!\n这位年轻演员的前途一片光明，她在最近一部电影中的表现棒极了！",
+            "The twenty-year-old tech entrepreneur has sold his company for a million dollars. It seems he has a bright future ahead of him.\n这位20岁的科技企业家以100万美元的价格出售了他的公司。看来他前程似锦，一片光明。"
+        ]
     },
     {
         "id": "200924",
         "title": "When life gives you lemons, make lemonade 随遇而安，苦中作乐",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200924",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08qw5vg.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08qw5vg.jpg",
+        "desc": "“When life gives you lemons, make lemonade” 的字面意思是 “当生活给了你酸溜溜的柠檬时，就把它做成酸甜的柠檬汁吧”，它是一个英语谚语，用 “lemons（柠檬）” 比喻生活中的困难处境，而用 “make lemondate（做柠檬汁）” 来比喻将困难努力转变成机遇的态度。这个谚语的寓意是 “在不利的状况下尽力而为”，类似于汉语里的 “随遇而安，苦中作乐”。",
+        "sentences": [
+            "The student couldn’t get a job after university, so she started her own business. When life gave her lemons, she made lemonade.\n这个学生大学毕业后找不到工作，所以她开始自己创业。当她在生活中遇到困难时，她选择了自力更生。",
+            "I lost my job, but it gave me a chance to go back to school and get some more qualifications. So, when life gave me lemons, I made lemonade.\n我丢掉了工作，但这给了我一个重返校园，获得更多资历的机会。所以，当人生不如意时，我随遇而安。",
+            "I was struggling to afford my flat when I was studying at university. So, I started tutoring younger students. When life gives you lemons, make lemonade!\n我上大学时，为了房租发愁，所以我开始通过辅导低年级的学生来赚钱。人生就是要随遇而安，苦中作乐！"
+        ]
     },
     {
         "id": "200922",
         "title": "Bone up 苦学，突击钻研",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200922",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08qw4yt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08qw4yt.jpg",
+        "desc": "如果你 “bone up on something”，意思就是 “你深入研究一个话题，尽可能多地了解它”。人们可能会在考试或求职面试前 “bone up on something”。这是一个非正式短语。",
+        "sentences": [
+            "I need to bone up on chemistry before my exam next week.\n我需要在下周的考试前苦攻一下化学。",
+            "I was nervous before the meeting, but I had boned up on all the important information, so it was OK.\n开会前我很紧张，但我已经把所有重要的信息好好研究了一番，所以还好。",
+            "This text is important. Make sure you bone up on all that we've studied.\n这篇课文很重要。一定要抓紧学习我们学过的所有内容。"
+        ]
     },
     {
         "id": "200917",
         "title": "Go the extra mile 加倍努力",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200917",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ptb6v.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ptb6v.jpg",
+        "desc": "“Go the extra mile（多走一英里）” 是一个非常实用的短语。它用来表达某人为了获得成功，付出额外的努力，而且他们付出的努力往往超出他人的期望。",
+        "sentences": [
+            "You can tell he went the extra mile. His final essay was amazing.\n你能看出来他付出了加倍的努力。他的结课论文写得非常好。",
+            "My teacher always goes the extra mile to try and help me understand the course.\n我的老师总是做额外的工作，不遗余力地帮助我理解这门课程。",
+            "All those involved in the end-of-term project were happy to go the extra mile to ensure success.\n所有参与期末项目的人都很愿意为确保项目成功多付出一点努力。"
+        ]
     },
     {
         "id": "200915",
