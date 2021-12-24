@@ -1599,241 +1599,481 @@
         "id": "200915",
         "title": "Do something with your eyes closed 闭着眼睛都能做某事",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200915",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08pt9c3.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08pt9c3.jpg",
+        "desc": "表达 “do something with your eyes closed” 或 “do something with your eyes shut” 的意思是 “能轻而易举地或很好地做某事”，就像汉语里说的 “闭着眼睛都能做”。用这个表达可以暗示你已经多次做过某事，所以做起来轻车熟路，得心应手。",
+        "sentences": [
+            "Zheng Ming is the best student in our literature class. He can write a great review about any of the books we’re studying with his eyes closed.\n郑明是我们文学班里最优秀的学生。我们读的任何一本书，他都能轻而易举地写出一篇很好的书评。",
+            "I would be able to drive to my parents’ house with my eyes shut. I know that journey so well.\n我闭着眼睛都能把车开到我父母家。我对那段路太熟悉了。",
+            "Mila used to be a wonderful knitter! She could make the most wonderful jumpers with her eyes closed. I don’t know why she stopped.\n米拉曾是个织毛活高手！她闭着眼睛都能织出漂亮的毛衣。不过我不知道她为什么不再织东西了。"
+        ]
     },
     {
         "id": "200910",
         "title": "Go through something with a fine-tooth comb 仔细检查，彻底搜查",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200910",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08pn5dy.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08pn5dy.jpg",
+        "desc": "表达 “go through something with a fine-tooth comb” 或 “go over something with a fine-tooth comb（用细齿梳子仔细梳理某物）” 的意思是 “仔细检查、查看或彻底搜查某物”。",
+        "sentences": [
+            "Lisa’s work is always perfect and without any mistakes. She goes over every assignment with a fine-tooth comb before submitting it.\n丽莎的工作总是完美无缺，没有任何错误。她每次交作业前都会仔仔细细地检查一遍。",
+            "Our teacher told us we should go over last week’s chemistry notes with a fine-tooth comb before our next test. I think he was giving us a hint!\n我们老师告诉我们，在下次考试前，应该仔细地复习上周化学课的笔记。我觉得他这是在给我们一个提示！",
+            "The police officers went through the crime scene with a fine-tooth comb looking for evidence.\n警察彻底搜查了犯罪现场，寻找证据。"
+        ]
     },
     {
         "id": "200908",
         "title": "Know something inside out 对某事了如指掌",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200908",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08nyx81.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08nyx81.jpg",
+        "desc": "表达 “know something inside out” 的意思是 “对某件事情、某个科目或主题了如指掌、洞悉透彻”。",
+        "sentences": [
+            "Don’t worry! You’ll be fine in tomorrow’s exam. You know the book inside out by now!\n别担心！明天的考试你一定会考好的。你现在对这本书已经了如指掌了！",
+            "If you ever have any questions about the new IT system, ask Polly. She helped build it, so she knows it inside out.\n如果你对新的信息技术系统有任何疑问，就去问波莉吧。这个系统是她帮忙建立的，所以她对整个系统了如指掌。",
+            "My grandad was a chess fanatic. You could ask him anything – he knew the game inside out.\n我祖父曾是个国际象棋迷。你可以问他任何问题，他对这个游戏了如指掌。"
+        ]
     },
     {
         "id": "200903",
         "title": "Work like a Trojan 辛勤工作",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200903",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08nyy5f.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08nyy5f.jpg",
+        "desc": "习语 “work like a Trojan（像特洛伊人那样工作）” 的实际意思是 “勤奋工作，埋头苦干”。其中，“Trojan（特洛伊人）” 指来自 “Troy（特洛伊古城）” 的人。特洛伊人以他们在抵御希腊人的战争中表现出的坚忍和勤奋的品质而闻名。因此，人们用习语 “work like a Trojan” 来表示某人即使面对困难或身处逆境，依然会非常努力地工作。",
+        "sentences": [
+            "Setting up a successful business is so hard! You have to work like a Trojan, especially in the beginning.\n创立一个成功的企业是如此的困难！你必须非常努力工作，尤其是在一开始的时候。",
+            "My grandfather loved his job so much, he never retired. He worked like a Trojan until the day he died.\n我的祖父非常热爱他的工作，他从未退休。他生前一直在孜孜不倦地工作。",
+            "Fatima, the new teacher, is clearly very dedicated! She’s been working like a Trojan since she started.\n新来的教师法蒂玛显然非常敬业。自上任以来，她一直在拼命地工作。"
+        ]
     },
     {
         "id": "200901",
         "title": "Put your thinking cap on 认真思考，开动脑筋",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200901",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08nyyq1.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08nyyq1.jpg",
+        "desc": "如果你 “put your thinking cap on（戴上你的思考帽子）”，那么你就在 “认真思考某件事情”。在遇到一个需要通过深思熟虑去解决的难题时，就可以使用这个表达。",
+        "sentences": [
+            "This exam will be difficult. However, if you put your thinking cap on, you'll be fine.\n这场考试会很难。不过，只要你认真思考作答，就没问题。",
+            "I didn't know how to work out the math problem at first, but I put my thinking cap on and found the answer.\n我起初不知道该怎样解答这道数学题，但在仔细思考之后，我找到了答案。",
+            "We'll need to put our thinking caps on to solve this riddle.\n我们需要开动脑筋，才能解开这个谜语。"
+        ]
     },
     {
         "id": "200827",
         "title": "Mind your own business 少管闲事",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200827",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08mt6wl.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08mt6wl.jpg",
+        "desc": "当你告诉某人 “mind your own business” 时，你是在告诉这个人不要干涉或打听他人的隐私，少管闲事。这是一个相当直接的短语，通常用来斥责他人，且往往在某人提出问题后使用。这里，名词 “business” 指 “某人的私事”。",
+        "sentences": [
+            "Stop sticking your nose into my affairs! Mind your own business!\n不要打听我的私事。管好你自己的事！",
+            "My neighbour is so annoying! He’s always asking me questions. I wish he’d just mind his own business.\n我的邻居真烦人！他总是问我各种问题。我真希望他管好自己的事情就行了。",
+            "When I tried asking Lisa if she and Jim were dating, she just told me to mind my own business!\n当我向丽莎打听她和吉姆是不是在交往时，她告诉我少管闲事！"
+        ]
     },
     {
         "id": "200825",
         "title": "Mind your manners 注意你的行为举止",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200825",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08mqc8d.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08mqc8d.jpg",
+        "desc": "成年人通常用表达 “mind your manners” 告诉孩子们不要做出粗鲁无礼的行为。“Mind your manners” 也可以用来羞辱成年人，从而提醒这个人要举止端正，注意礼貌。",
+        "sentences": [
+            "Don’t be so rude! You should mind your manners.\n别那么没礼貌！你应该注意自己的举止。",
+            "Don’t steal your brother’s toys. Mind your manners!\n别抢你弟弟的玩具。你要礼貌点！",
+            "Don’t lick your plate. Mind your manners!\n不要舔你的盘子。吃要有吃相！"
+        ]
     },
     {
         "id": "200820",
         "title": "Mind your language 注意你的言谈",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200820",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ldpdn.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ldpdn.jpg",
+        "desc": "表达 “mind your language” 用来提醒某人，尤其是孩子，说话要小心，措辞要谨慎，言语要得体，以免触怒或冒犯他人。",
+        "sentences": [
+            "Make sure you mind your language when you go to visit your grandmother. She likes it when you are polite!\n你去看望祖母时，说话一定要注意。她喜欢你彬彬有礼的样子！",
+            "Watch your language, Mike! The windows are open, and they can hear everything you say. I think we should go somewhere else to complain about Martin.\n小心说话，迈克！窗户开着，他们能听到你说的每一句话。我觉得咱们应该去别的地方抱怨马丁。",
+            "You might want to watch your language. What you just said was really rude.\n你要注意你的话语。你刚刚说的话很没礼貌。"
+        ]
     },
     {
         "id": "200818",
         "title": "Bow and scrape 点头哈腰",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200818",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ldp86.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08ldp86.jpg",
+        "desc": "表达 “bow and scrape” 用来表示某人过于礼貌或对他人表现出过分的关注或尊重。它常用来描述某个人在与重要人士交往时，“点头哈腰，过分谦恭” 的举动。",
+        "sentences": [
+            "Look at him bowing and scraping to the bosses! He’s such a sucker I hope he doesn’t get promoted.\n瞧他向老板们点头哈腰的样子！他真是个马屁精，我希望他可不要被提拔。",
+            "She thinks she’s so important now. She expects everyone to bow and scrape to her all day.\n她觉得她现在特别重要。她希望所有人整天都对着她鞠躬作揖。",
+            "The hotel staff were really attentive, almost too attentive! In fact, I felt a bit uncomfortable as they bowed and scraped to us throughout our stay.\n这家酒店的工作人员们真的很用心，甚至有些过于体贴了！在我们住店期间，他们一直对我们点头哈腰的，这让我感到有点不自在。"
+        ]
     },
     {
         "id": "200813",
         "title": "Have a shared history (with someone) 和某人有共同的经历",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200813",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08n181f.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08n181f.jpg",
+        "desc": "表达 “have a shared history (with someone)” 可以描述你与某人有共同的过往经历。这个人可能和你一起长大，也可能曾经和你在同一所大学读书，或者你们曾一同共事过。这个表达可以暗示因为你和某人拥有共同的经历，所以你们能理解没有这类经历的人不容易理解的事情。",
+        "sentences": [
+            "Dom has a shared history with Paul. Did you know they were in the same band when they were teenagers?\n多姆和保罗有一段共同的经历。你知道吗，他们十几岁时同在一个乐队里？",
+            "Bob and Cecil practically grew up together. They lived on the same street, went to the same school and even drove the same type of car. They have a real shared history with each other.\n鲍勃和塞西尔基本上是一块长大的。他们曾住在同一条街上，上同一所学校，甚至开同一款汽车。他们彼此之间有着共同的经历。",
+            "Miranda and Martina have a lot of shared history. They worked at the same company at the same time and used to go on holidays together.\n米兰达和玛蒂娜有很多共同的经历。她们曾经同时在同一家公司工作，还经常一起去度假。"
+        ]
     },
     {
         "id": "200811",
         "title": "She/He just gets me 她/他真懂我",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200811",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08n17q9.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08n17q9.jpg",
+        "desc": "“She/He just gets me.（她／他真的很懂我。）” 可以用来描述处于亲密友谊或恋情中的人们，互相非常了解对方。比如，可以用 “She/He just gets me.” 来形容好友非常了解自己，知道自己的喜好。这个表达方式可以突出说话人和 “她／他” 之间的关系很好、很密切。",
+        "sentences": [
+            "Grace is my best friend - she just gets me.\n格蕾丝是我最好的朋友，她很了解我。",
+            "I wish I got on better with Xiao Zheng, but she just doesn't get me.\n我真希望我能和小郑相处得更好，但她就是不理解我。",
+            "Matt just gets me. The presents he buys for me are just perfect!\n马特就是懂我。他给我买的礼物真是太完美了！"
+        ]
     },
     {
         "id": "200806",
         "title": "Be joined at the hip 密不可分，形影不离",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200806",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08jfd5l.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08jfd5l.jpg",
+        "desc": "表达 “be joined at the hip（臀部连在一起）” 实际所表达的意思是 “某人和自己的一个朋友总是形影不离，密不可分”，因此人们经常看到这两个人在一起。它也暗示若见到其中一个人单独行动是很反常的。",
+        "sentences": [
+            "My best friend from high school and I did everything together – we were joined at the hip.\n我上高中时最好的朋友和我曾经做什么事情都一起，那时我们俩形影不离。",
+            "Where is Tom? You two are normally joined at the hip.\n汤姆在哪儿？你们俩通常是形影不离的。",
+            "Whenever you see Sarah, you know Lucy isn’t far away – they’re joined at the hip, those two!\n你一看到莎拉，就知道露西肯定在不远的地方，她们俩真是密不可分！"
+        ]
     },
     {
         "id": "200804",
         "title": "Be a law unto themselves 我行我素",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200804",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08jfcgm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08jfcgm.jpg",
+        "desc": "表达 “be a law unto themselves” 用来形容某人 “自行其是，我行我素”，因此他们是相当不可预测的。除了可以用来描述一个不遵循规章制度的人以外，这个表达也可以用来描述运转异常的机器或其它物体。",
+        "sentences": [
+            "I want to arrange a weekend away with Emily, but she's a law unto herself – I never know what she's going to be doing.\n我想安排和艾米莉一起度周末，但她是个我行我素的人，我从来都不知道她要干什么。",
+            "Travelling with Jack is always great fun – he's a law unto himself, so you never know where you'll end up.\n和杰克一起旅行游玩总是很有趣，因为他自行其是，所以你永远不知道会到哪里去。",
+            "This computer is a law unto itself! I can never get it to do what I want.\n这台电脑有自己的规律！我从来都不能让它做我想做的事情。"
+        ]
     },
     {
         "id": "200730",
         "title": "Build bridges with someone 搭建友谊的桥梁",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200730",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08hrt17.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08hrt17.jpg",
+        "desc": "表达 “build bridges with someone” 用来描述尝试与某人建立关系，搭建友谊的桥梁。它往往用于人们相互猜疑、缺乏信任的情况下，通过建立友谊，增加沟通，从而改善关系。",
+        "sentences": [
+            "As a new manager, my team were suspicious of me, but I worked hard to build bridges with them.\n作为一名新上任的经理，我的团队对我持怀疑态度，但我努力争取与他们改善关系。",
+            "It can be very useful to build bridges with people who are very different to you.\n与和你截然不同的人建立友谊是很有用的。",
+            "My neighbours are unfriendly, and I just can't find a way to build bridges with them.\n我的邻居们不太友好，可我就是找不到和他们改善关系的办法。"
+        ]
     },
     {
         "id": "200728",
         "title": "To be able to read each other’s minds 心有灵犀",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200728",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08hrh20.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08hrh20.jpg",
+        "desc": "短语 “to be able to read each other’s minds” 或 “can read each other’s minds” 以及 “to finish each other’s sentences” 都可以用来描述两个人的友情尤为亲密，彼此心意相通。",
+        "sentences": [
+            "Una and I are so close we are able to practically read each other’s minds. I always know what she’s thinking.\n乌娜和我的关系很好，我们几乎可以读懂彼此的心思。我总是知道她在想什么。",
+            "Ali and Jamil do everything together. They’re such good friends they even finish each other’s sentences.\n阿里和贾米尔形影不离。他们是非常要好的朋友，对彼此的心思都能心领神会。",
+            "You know that feeling when you can read someone’s mind or finish someone’s sentences? That’s when you know you’re true friends.\n你知道那种能读懂某人的心思或替某人说完话的感觉吗？那时候你就会知道你们是真正的朋友。"
+        ]
     },
     {
         "id": "200723",
         "title": "Get your own way 随心所欲，为所欲为",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200723",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08h3nr3.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08h3nr3.jpg",
+        "desc": "短语 “get your own way” 的意思是 “劝服别人按你喜欢的方式做事，以达到自己的目的”。它从侧面突出了某人性格强势，控制欲强，随心所欲。",
+        "sentences": [
+            "Amelia always gets her own way, so you'll end up doing what she says.\n阿米莉亚总能说服别人按自己的意思行事，所以到头来你还是会按照她说的去做。",
+            "I wanted to watch a film last night, but Ryan didn't. He got his own way and I had to watch the football.\n昨晚我想看电影，但瑞恩却不想看。他达到了自己的目的，而我只得和他一起看了足球比赛。",
+            "Why do we only ever do what you want? I never get my own way!\n为什么我们只做你想做的事？我从来都不能遂心如愿。"
+        ]
     },
     {
         "id": "200721",
         "title": "A sympathetic ear 有同情心的倾听者",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200721",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08h3ngn.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08h3ngn.jpg",
+        "desc": "如果你有 “a sympathetic ear（一只富有同情心的耳朵）”，你就会心怀同情地倾听某人的心声，以帮助此人。",
+        "sentences": [
+            "If you need someone to listen with a sympathetic ear, you should ask Alex - he's a great listener.\n如果你需要一个有同情心的倾听者，那你应该去找亚历克斯。他是一个很好的倾听者。",
+            "Bethany told me about all her problems - I'm always happy to lend a sympathetic ear.\n贝瑟妮告诉了我她所有的苦恼。我愿意随时听她倾诉衷肠。",
+            "Sophie looks unhappy. I'll offer her a sympathetic ear if she needs to talk.\n索菲看起来不高兴。如果她需要和人聊聊，我会带着同情心倾听她的苦衷。"
+        ]
     },
     {
         "id": "200716",
         "title": "Someone to lean on 可依靠的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200716",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08gk7xv.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08gk7xv.jpg",
+        "desc": "如果你有一个 “someone to lean on（可以依靠的人）”，这意味着当你遇到麻烦、感到伤心或沮丧的时候，你知道这个人会给予你帮助和支持。",
+        "sentences": [
+            "I’m glad I had my best friend to lean on after I split up with my girlfriend.\n在和我的女朋友分手之后，我很庆幸我有一位可以依靠的好朋友。",
+            "I lost my job, but my friends were all there for me to lean on.\n我丢掉了工作，但我的朋友们都在为我加油打气。",
+            "If ever I’m in trouble, my big brother is always there for me to lean on.\n如果我遇到麻烦，我哥哥总能给我依靠，给我提供避风港。"
+        ]
     },
     {
         "id": "200714",
         "title": "Be (as) thick as thieves 亲密无间",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200714",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08gk7m1.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08gk7m1.jpg",
+        "desc": "表达 “be as thick as thieves” 的意思和偷东西并无关连，而是用来形容友人关系密切、亲密无间，彼此间没有隔阂或秘密。这个表达通常用来暗示两人或多人就像 “thieves（小偷）” 聚在一起做坏事一样 “thick（密集地）”，悄悄地盘算或谈论不可告人的事情。",
+        "sentences": [
+            "My daughter and her friend are thick as thieves and spend all their free time together. We often have no idea what they are up to, but they really enjoy themselves.\n我女儿和她的朋友紧密无间，所有空闲时间都呆在一起。我们通常不知道她们在做什么，但她们确实玩得很开心。",
+            "The kids are as thick as thieves today. Whilst I was just on the phone they painted their faces with lipstick. They just looked at me as if nothing had happened!\n孩子们今天真是相处得特别好。就在我打电话的时候，他们用口红在脸上画画。他们看着我，就像什么事情都没有发生一样！",
+            "Jack and Jim were as thick as thieves when they were younger, but when they went to university in different towns it just wasn’t the same.\n杰克和吉姆年轻的时候亲密无间，但当他们去不同的城市上大学后，两人的关系就变了。"
+        ]
     },
     {
         "id": "200709",
         "title": "Drive someone to distraction 让某人心烦意乱",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200709",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08c8xgk.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08c8xgk.jpg",
+        "desc": "如果某人 “drive you to distraction”，那么这个人的行为会让你感到非常恼火。这个表达多被用来描述在一段时间内持续发生的恼人行为。",
+        "sentences": [
+            "Nicole never looks at me when we are talking – she just looks down at her phone. It drives me to distraction.\n我们谈话的时候尼科尔从来都不看我，她总是低着头看她的手机。这很烦人。",
+            "I'm getting driven to distraction by the way that Ryan keeps tapping his fingers on the desk.\n 我要被瑞恩不停地用手指敲桌子的声音逼疯了。",
+            "Kayla's coughing was driving me to distraction. I just had to leave.\n 凯拉的咳嗽声弄得我心烦意乱。我不得不走开。"
+        ]
     },
     {
         "id": "200707",
         "title": "Get on like a house on fire 一见如故",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200707",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08jrll0.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08jrll0.jpg",
+        "desc": "表达 “get on like a house on fire” 的意思是 “与某人相处得很好，很合得来”，它尤其用来表示与刚认识的某个人情投意合，一见如故。如果两个人 “get on like a house on fire”，那么他们之间通常有许多共同点，所以在认识不久后，很快就成为了朋友。",
+        "sentences": [
+            "I met our new colleague the other day – he’s very friendly! We got on like a house on fire.\n前几天我见到了咱们的新同事。他非常友好！我们一见如故。",
+            "I wasn’t sure my little brother and my boyfriend would like each other, but they actually get on like a house on fire.\n我之前不确定我弟弟和我男朋友会不会合得来，但实际上他们一见如故，相处得很好。",
+            "I’m not sure we have much in common, but I’m sure when we get to know each other, we’ll get on like a house on fire.\n我不敢说我们有很多共同点，但我确信在我们相互了解之后，我们会相处得很好。"
+        ]
     },
     {
         "id": "200702",
         "title": "Two peas in a pod 一模一样",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200702",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08b5tck.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08b5tck.jpg",
+        "desc": "表达 “two peas in a pod” 有时也写成 “peas in a pod”，它以暗喻（be two peas in a pod）或明喻（like two peas in a pod）的修辞手法来形容两个人的长相就好比 “一个豆荚里的两颗豌豆” 一样，非常相似或一模一样。",
+        "sentences": [
+            "Those twins look and dress identically. They are two peas in a pod.\n那对双胞胎长得很像，穿得也一样。他们看上去简直一模一样。",
+            "Mark and his best friend Clarice have exactly the same sense of humour. They are like two peas in pod.\n马克和他最好的朋友克拉丽丝有着完全相同的幽默感。他们真是一模一样。",
+            "Zhang Dong and his girlfriend have the same interests. They are peas in a pod.\n张冬和他的女朋友有相同的兴趣。他俩在这方面真的很像。"
+        ]
     },
     {
         "id": "200630",
         "title": "Be at the end of your tether 耐心全无",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200630",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08b5tq9.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08b5tq9.jpg",
+        "desc": "如果某人的状态是 “at the end of their tether”，意思就是这个人对某事或某人完全失去了耐心，一筹莫展。这个表达通常用来形容一件令人心烦的事情在持续发生了一段时间后，给人的心情造成影响，让人精疲力尽，感到穷途末路。",
+        "sentences": [
+            "Ben keeps lying to me, and I'm just at the end of my tether with him now.\n本一直在骗我，我现在没有耐心对付他了。",
+            "Stop it! Do that again and I'll be at the end of my tether!\n别闹了！你要是再这样做，我就要崩溃了！",
+            "I was at the end of my tether last night. I just had to go out for a walk until I calmed down.\n昨晚我真是精疲力尽，束手无策。当时我必须出去散散步，直到我平静下来。"
+        ]
     },
     {
         "id": "200625",
         "title": "Be a hard act to follow 很难超越，无法媲美",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200625",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0884yyr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0884yyr.jpg",
+        "desc": "人们用表达 “be a hard act to follow” 来形容一个人在某件事情上树立了一个很好的榜样，而其他人很难保持或达到同样的标准。你既可以用这个表达来形容某人的一次具体表现让人相形见绌，也可以用它来泛指 “某人非常成功，让后来者望尘莫及”。",
+        "sentences": [
+            "It's such a pity that Fang Zhu's leaving – she'll be a hard act to follow.\n真可惜，方竹要离开了。她会让接替她的人望尘莫及。",
+            "Wow, that's a perfect score by the Chinese gymnast – we said she would be a hard act to follow!\n哇！这名中国体操运动员取得了完美的成绩。我们早就说过她是后无来者！",
+            "Thank you for taking over organising the family parties. Aunt Emma is a hard act to follow, but you've managed it!\n谢谢你接手组织家庭聚会。要做到像艾玛姨妈那么好可是很难的，但是你做到了，毫不逊色！"
+        ]
     },
     {
         "id": "200623",
         "title": "Be sick and tired of someone/something 对人或事物十分厌倦",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200623",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0884yj3.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0884yj3.jpg",
+        "desc": "短语 “be sick and tired of someone/something” 用来表达你对某人或某事物感到非常厌烦，已经失去了耐心。",
+        "sentences": [
+            "I’m sick and tired of Freya always ignoring my messages. Why can’t she just reply?\n我烦透了弗雷娅总是无视我发的消息。她为什么就不能直接回复呢？",
+            "Nick was sick of his best friend always borrowing money and never paying him back, so he stopped lending him any.\n尼克受够了他最好的朋友总是借钱不还的行为，所以他再也不借给他钱了。",
+            "A group of us from university try to go away together every year, but Laura is going to get sick and tired of organising everything if no one helps her!\n我们大学同学里一群人想每年都一起出去玩一次，但如果没人帮助劳拉，她会对安排大大小小的事情感到厌倦！"
+        ]
     },
     {
         "id": "200618",
         "title": "Besties 最好的朋友，闺蜜",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200618",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08dkqx6.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08dkqx6.jpg",
+        "desc": "名词 “bestie” 用来指某人 “最亲密、最要好的朋友”，它的复数形式是 “besties”。注意：“bestie” 多用在口语中，是一个非正式的说法。",
+        "sentences": [
+            "I tell my besties everything. We share all our secrets.\n我什么事情都告诉我的闺蜜们。我们之间没有秘密。",
+            "My bestie is Terence. We do everything together.\n我最好的朋友是特伦斯。我俩形影不离。",
+            "Colin and Edina are my besties. We like the same things.\n科林和埃迪娜是我最好的朋友。我们仨的喜好完全相同。"
+        ]
     },
     {
         "id": "200616",
         "title": "Speak the same language 有共同语言",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200616",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08dkpzb.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08dkpzb.jpg",
+        "desc": "表达 “speak the same language （说同一种语言）” 使用了比喻的修辞方法，实际意思是 “与某人有类似的价值观、意见、态度或想法，相互理解，有共同语言”。它多被用来表达人与人之间相互理解，在沟通时不必过多地解释双方的想法。在使用中，动词 “talk” 可用来替换表达中的动词 “speak”，即 “talk the same language”，意思不变。",
+        "sentences": [
+            "I love working with Da Peng. When it comes to designs, we talk the same language.\n我很喜欢与大鹏共事。在聊有关设计的话题时，我们有共同语言。",
+            "Yasmin and Gemma got each other straight away. They come from similar backgrounds, so it makes sense that they should speak the same language.\n雅斯敏和杰玛一拍即合。她们的背景相似，所以两人有共同语言也很正常。",
+            "If this project is going to work, we all need to make sure we’re speaking the same language.\n如果想让这个项目顺利进行，我们所有人都需要保持步调一致。"
+        ]
     },
     {
         "id": "200611",
         "title": "Trust someone with your life 能够让你生死相托的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200611",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087m78y.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087m78y.jpg",
+        "desc": "表达 “trust someone with your life” 用来表达你对一个人拥有完全的信任，甚至会把自己的生命托付给这个人。它暗示当你有需要时，这个人会不惜把自己置于危险的境地，毫不犹豫地帮助你，所以非常可靠。",
+        "sentences": [
+            "When I go mountain climbing, I always like to go with my friend Clive because I trust him with my life and know he would do anything to help us get down safely.\n我去爬山的时候，总喜欢和我的朋友克莱夫结伴同行，因为我可以把我的生命托付给他，我知道一旦发生状况，他会竭尽全力地帮我安全下山。",
+            "I really miss my friend Liu Xi. I haven’t seen her for ages, but I still know I can trust her with my life. She is really reliable!\n我很想念我的朋友刘希。我已经很久没有见到她了，但我知道我可以完全信任她。她真的很可靠！",
+            "I trusted my best friend with my life, until I found out he spoke ill of me behind my back!\n我曾经完全信任我最好的朋友，直到我发现他在背后说我的坏话！"
+        ]
     },
     {
         "id": "200609",
         "title": "BFF 最好的朋友",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200609",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08dkw6y.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p08dkw6y.jpg",
+        "desc": "“BFF” 是短语 “best friend forever（永远的好朋友）” 的首字母缩写形式。“BFF” 近来出现的频率越来越高，现在可以直接被当成一个名词使用，指某人 “最好的朋友” 或 “最亲密的朋友”。“BFF” 通常多用于年轻人的口语会话中，也可以用在书面文字中，不过书面形式多现于社交媒体的非正式语境中。",
+        "sentences": [
+            "Jenny’s been my BFF since primary school. I’d tell her anything.\n珍妮从小学开始就是我最好的朋友。我和她无话不说。",
+            "Have you noticed how well Xiaofang and Pat get on? It looks like they’re new BFFs!\n你注意到小芳和帕特相处得有多好吗？看来他们俩刚成为最好的朋友！",
+            "My little brother’s BFF moved to a different school this year and he really misses her. They did everything together!\n我弟弟最好的朋友今年转校了，他真的很想她。他们俩曾经形影不离！"
+        ]
     },
     {
         "id": "200604",
         "title": "If you can’t say anything nice, don’t say anything at all 如果你没有好话要说，就什么也别说",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200604",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087s0c5.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087s0c5.jpg",
+        "desc": "英语谚语 “If you can’t say anything nice, don’t say anything at all.” 的字面意思是：“如果你说不出什么好话，就干脆什么也别说”。它用来告诫人们，不要说刻薄的话，做人要厚道。",
+        "sentences": [
+            "My grandfather was a very wise man, and he always used to tell me: ‘If you can’t say anything nice, don’t say anything at all’.\n我爷爷很有智慧，他以前总和我说：“如果你说不出好话，就什么也不要说。”",
+            "I know Max can be annoying, but we shouldn’t complain. You know what they say: “If you don’t have anything nice to say, don’t say anything at all.”\n我知道麦克斯有时候很烦人，但我们不应该抱怨。俗话说得好：“若不能善言善语，请缄口不语。”",
+            "I walked into class and heard some of my students saying some mean things about the new kid. I told them: “If you can’t be nice, be quiet.”\n我走进课堂时，听到我的一些学生在说那个新来的孩子的坏话。于是我告诉他们：“如果你不能善待他人，就安静点。”"
+        ]
     },
     {
         "id": "200602",
         "title": "To be well-turned-out 衣着光鲜，穿戴讲究",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200602",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087rzjr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087rzjr.jpg",
+        "desc": "搭配 “to be well-turned-out” 用来形容某人的穿戴讲究，衣着漂亮。它指的是一个人的衣着打扮十分讲究，而不是说这个人相貌俊美。“To be well-turned-out” 既可以用来描述某人平时着装漂亮，也可以形容某人为了出席特殊的场合而打扮得时髦、讲究。这个搭配中的副词 “well” 也可以换成 “smartly”，即 “to be smartly-turned-out”，意思不变。",
+        "sentences": [
+            "The children were very well-turned-out for the wedding.\n为了参加婚礼，孩子们打扮得漂漂亮亮。",
+            "Jessica looks great. She's always really well-turned-out.\n杰西卡看起来很漂亮。她总是穿得很讲究。",
+            "If you're going to an interview, you need to be well-turned-out.\n如果你要去参加面试，就得穿得讲究一点。"
+        ]
     },
     {
         "id": "200528",
         "title": "Stick your nose in where it’s not wanted 打探不相干的事",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200528",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p085jjbs.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p085jjbs.jpg",
+        "desc": "短语 “stick your nose in where it’s not wanted” 用 “把鼻子伸到不该伸的地方” 来形容某人四处探听，打问不相干的事情；或掺和、干预别人的事情。",
+        "sentences": [
+            "Randolph and Marguerite are extremely annoying people to live next to. They are always sticking their noses in where it’s not wanted and asking questions.\n住在兰道夫和玛格丽特的隔壁简直太烦了。他们总是爱打探别人的事情。",
+            "Stop sticking your nose in my business. Things about my personal life are private.\n别掺和我的事情。关于我个人生活上的事情是私事。",
+            "Craig is always sticking his nose in where it’s not wanted. He is always trying to find out my personal information.\n克雷格总是爱管闲事。他老是试图探听我的个人信息。"
+        ]
     },
     {
         "id": "200526",
         "title": "Overstep the mark 行为出格、越界",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200526",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p085jhqs.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p085jhqs.jpg",
+        "desc": "从字面上看，短语 “overstep the mark” 的意思是 “超越界线”，它的实际意思是 “做出格、过分的事情”。在这个短语中，动词 “overstep” 的意思是 “超出、逾越”，而名词 “mark” 表示 “某事被允许或可以接受的限度”。",
+        "sentences": [
+            "Connor really overstepped the mark when he shouted at Abi. You just can't do things like that!\n康纳冲着艾比大喊大叫，真是太过分了。绝不应该有这样的行为！",
+            "I don't want to overstep the mark here, but I need to ask you about your family.\n我不想问得太多，但我需要问问你的家庭情况。",
+            "I was friends with Siqi but she overstepped the mark when she didn't give that money back.\n我和思琪本是朋友，但当时她不还钱，做得太过分了，越过了我的底线。"
+        ]
     },
     {
         "id": "200521",
         "title": "Not put a foot wrong 不犯任何错误",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200521",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p084zl23.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p084zl23.jpg",
+        "desc": "短语 “not put a foot wrong” 用来形容某人不犯任何错误。它既可以描述某人在做一项具体工作的时候 “没有出差错”，也可以泛指某人总是以正确的方式做事，“从不犯错”。",
+        "sentences": [
+            "We met our daughter's boyfriend yesterday. At first I wasn't sure about him, but he didn't put a foot wrong all evening.\n我们昨天见到了女儿的男朋友。一开始，我对他不太有把握，但他整晚的表现都很好，没做一件不妥的事情。",
+            "It's my first day in this job. I’m just going to try my best not to put a foot wrong.\n这是我开始新工作的第一天。我要尽我最大努力不出错。",
+            "I didn't think that you would be a good manager, but you haven't put a foot wrong since you started.\n我以前没觉得你会是一位好的管理者，但自你上任以来就没有出过差错。"
+        ]
     },
     {
         "id": "200519",
         "title": "To be seen and not heard 乖乖听话，少出声",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200519",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p084zm1l.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p084zm1l.jpg",
+        "desc": "“To be seen and not heard” 这个短语源自英国维多利亚时期的一句老话 “Children should be seen and not heard.” 它的字面意思是 “孩子要被看见，而不被听见”，实际用来督促孩子们在大人面前应该保持安静，行为端正。",
+        "sentences": [
+            "My mother was very strict when we were little. She thought that my brother and I should be seen and not heard whenever our parents had guests.\n我们小的时候，我母亲非常严格。她认为只要家里有客人，我和弟弟就应该保持安静，不吵闹。",
+            "Attitudes to parenting have really changed in recent years. In our grandparents’ time, children were expected to be seen and not heard.\n近年来，人们对养育子女的态度确实发生了变化。在我们祖父母的年代，人们希望看到孩子们不多说话，行为举止端庄得体。",
+            "Our boss doesn’t really want to hear what we think about his ideas. In meetings, he would rather we were seen and not heard.\n我们的老板并不想听我们对他的想法有什么看法。开会时，他更希望我们能安静点，不要多嘴。"
+        ]
     },
     {
         "id": "200514",
         "title": "Mend fences with someone 重归于好",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200514",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087m6gs.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p087m6gs.jpg",
+        "desc": "表达 “mend fences with someone” 的字面意思是 “与某人一起修补篱笆墙”，比喻 “发生分歧或产生矛盾后与某人重归于好，冰释前嫌”。这个表达用来描述某人试图修复与另外一个人的关系。",
+        "sentences": [
+            "I'm trying to mend fences with Ryan. I think I upset him last night.\n我正在试图和瑞恩重修旧好。我觉得我昨晚惹他生气了。",
+            "He bought me some flowers to try and mend fences with me – but it's not enough!\n他为了和我重归于好，给我买了一些花。但这还不够！",
+            "I need to mend fences with my neighbour after our party last night. We were very noisy.\n在昨晚的聚会后，我需要与邻居和解。因为我们聚会时很吵闹。"
+        ]
     },
     {
         "id": "200512",
         "title": "Go way back with someone 与某人相识已久",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200512",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0841kx4.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0841kx4.jpg",
+        "desc": "表达 “go way back with someone” 的意思是 “与某人是老相识”。它和 “know each other for a long time” 的意思相同，都可以描述两个人认识的时间很长，且有共同的经历。",
+        "sentences": [
+            "Tim and I go way back – we met at primary school.\n蒂姆和我是老相识，我们在小学的时候就认识了。",
+            "My dad and Roger go way back. They’ve been friends since university and still see each other every few weeks even after all these years.\n我爸爸和罗杰是老相识。他们从上大学时起就是好朋友，而且这么多年过去了，两人仍是隔几周就聚一次。",
+            "Laura said she knows someone who can help us with this new piece of work. Apparently, they go way back and have worked together many times before.\n劳拉说她认识一个能帮我们做这项工作的人。据说他们相识已久，而且多次共事。"
+        ]
     },
     {
         "id": "200507",
         "title": "Have a falling out 大吵一架",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200507",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083mxct.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083mxct.jpg",
+        "desc": "表达 “have a falling out” 指某人因与他人意见不合而与其 “大吵一架，闹翻脸”，从而导致彼此之间的关系变得不再友好。",
+        "sentences": [
+            "When I was younger I had a massive falling out with my sister over a toy I hid. I still feel guilty about it even though we get on really well now!\n我小时候，为了我藏的一个玩具，和我妹妹大吵了一架。到现在我仍然为这件事感到内疚，尽管我俩现在相处得很好！",
+            "John thought Clare had broken his mug on purpose. They had a huge falling out until he found out it was an accident!\n约翰以为克莱尔故意打破他的杯子。他们因此大吵一架，直到他发现那只是个意外！",
+            "I had a falling out with my best friend last week because she borrowed my favourite top without telling me. We soon made up though!\n上周我和我最好的朋友吵了一架，因为她没经过我的允许私自拿走了我最喜欢的上衣。不过我们很快就和好如初了。"
+        ]
     },
     {
         "id": "200505",
         "title": "Rule the roost 当家作主",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200505",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083mx2b.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083mx2b.jpg",
+        "desc": "表达 “rule the roost” 相当于汉语里说的 “当家作主”，指 “在一群人或一家人当中最有权威和影响力、可以作决定的那个人”；这个人通常要作出所有重要的决定。",
+        "sentences": [
+            "His girlfriend rules the roost, so he’ll have to check it’s OK with her first．\n他的女朋友平时作主，所以他得先和她确认一下这件事。",
+            "My mum is always in charge of important decisions. She rules the roost.\n一直以来，我妈妈负责作重要的决定。家里她作主。",
+            "I always thought Dave ruled the roost in his house, but I think his dog is really in control!\n我一直以为戴夫是他家作主的那个人，但我看他的狗才是真正管事的！"
+        ]
     },
     {
         "id": "200430",
         "title": "Be left holding the baby 替别人做苦差事",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200430",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083mwg4.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083mwg4.jpg",
+        "desc": "搭配 “be left holding the baby” 的字面意思是 “不得不一个人带孩子”，但它实际是在用这种家庭分工来比喻某人 “不得不独自撑起一个困难的局面，接替别人做苦差事”。这类困难的局面通常由他人引起，而那个人却又无能处理或拒绝承担责任。所以，如果某人 “be left holding the baby”，那么此人很可能是在用这个搭配来感叹自身的境况是不公平的。",
+        "sentences": [
+            "In our grandparents’ day, most men worked long hours, and the women were left holding the baby at home. (passive)\n在我们祖父母的时代，大多数男性在外工作时间长，女性则不得不承担起照顾家庭的重担。（此处搭配是被动语态）",
+            "Scott is frustrated that Meg is travelling so much for work and keeps leaving him holding the baby. (active)\n斯科特很懊恼，因为梅格成天在外出差，把事情都留给他一个人干。（此处搭配是主动语态）",
+            "Don’t you dare go home and leave me holding the baby! We still have a lot of work to do. (active)\n你别想回家，留下我一个人干活！我们还有很多工作要做。（此处搭配是主动语态）"
+        ]
     },
     {
         "id": "200428",
@@ -1845,97 +2085,195 @@
         "id": "200423",
         "title": "In one’s blood 天生的",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200423",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sysd.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sysd.jpg",
+        "desc": "表达 “to have something in someone’s blood” 或 “be in someone’s blood” 的意思是 “某人的能力、天分或特质是遗传的”，也就是俗话说的 “天生的”。比如，一家人当中如果有许多成员都从事一类工作或具备同一种天分，那就可以说这项技能是他们家族遗传的，即 “in their blood”。",
+        "sentences": [
+            "Being a baker is in my blood – our family has owned a bakery for many generations.\n我骨子里就是个糕点师。我们家经营面包房已经好几代了。",
+            "Art is in my blood – my mother was a painter and her father was a sculptor.\n我的艺术细胞是与生俱来的。我母亲曾是一名画家，她父亲曾是一名雕塑家。",
+            "People in every generation of Pete’s family have been football players – it’s in their blood.\n彼得家的每一代人都是足球运动员。他们天生就是这块料。"
+        ]
     },
     {
         "id": "200421",
         "title": "Run in the family 世代相传，家族遗传",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200421",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sygn.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sygn.jpg",
+        "desc": "表达 “run in the family” 的意思是 “家庭中的许多成员都具备相同的特征、能力或患有同一种疾病”，也就是人们常说的 “世代相传，家族遗传”。这个表达既可以用来谈论好事，也可以谈论坏事。",
+        "sentences": [
+            "My friend had twins for a second time. They run in her family, but she was still surprised when she found out.\n我朋友生了第二对双胞胎。虽然生双胞胎是她家族遗传的，但当她得知要再生一对双胞胎时，还是很吃惊。",
+            "High blood pressure runs in the family, so I always get it checked once a year by the doctor.\n高血压是我们家族遗传的，所以我每年都去医生那里检查一次。",
+            "Lots of people in my family are teachers. It definitely runs in the family!\n我家里很多人都是教师。这肯定是家族遗传！"
+        ]
     },
     {
         "id": "200416",
         "title": "Follow in someone’s footsteps 追随长辈的脚步",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200416",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sxsy.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sxsy.jpg",
+        "desc": "表达 “follow in someone’s footsteps” 的字面意思是 “跟随某人的脚步”，它的实际意思是 “做出与长辈相似的人生选择”。“Follow in someone’s footsteps” 尤其用来指某人选择从事与父母、祖父母等年长的家庭成员相同的职业。",
+        "sentences": [
+            "You’re following in your father’s footsteps and becoming a doctor. He’d be so proud!\n你正追随你父亲的脚步，要成为一名医生。他会非常骄傲的！",
+            "Susan followed in her mother’s footsteps and became a teacher.\n苏珊跟随她母亲的脚步，成为了一名教师。",
+            "Liu Gang decided to follow in his grandfather’s footsteps and work on the family farm.\n刘刚决定追随他祖父的脚步，在家族的农场工作。"
+        ]
     },
     {
         "id": "200414",
         "title": "A difficult middle child 夹在中间难管教的老二",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200414",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sxdl.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p083sxdl.jpg",
+        "desc": "表达 “a difficult middle child” 指的既不是兄弟姐妹当中的老大，也不是老小，而是那个夹在中间总爱闯祸、难管教的孩子。",
+        "sentences": [
+            "Clara has an older and younger sister and always got into loads of trouble at school. Her sisters never behaved badly - she was definitely a difficult middle child!\n克莱拉有一个姐姐和一个妹妹，她上学时总是闯祸。她的姐妹们从不调皮捣蛋，她的确是姐妹中间那个难管教的老二！",
+            "My parents always said my brother was a difficult middle child because he was so naughty. I thought he was so cool, though!\n我父母过去总说我哥哥是夹在兄弟姐妹中间那个难管教的老二，因为他太淘气了。不过那时我倒是觉得他很酷！",
+            "I was a really difficult middle child, but now I have children of my own, I feel really bad about how I used to behave!\n我小时候是个很难相处的老二，但现在有了自己的孩子后，我对自己过去的行为感到很愧疚！"
+        ]
     },
     {
         "id": "200409",
         "title": "Take after someone 外貌和性格与年长的家庭成员相像",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200409",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082fyh8.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082fyh8.jpg",
+        "desc": "搭配 “take after someone” 用来表示 “一个人与家中某个年长的成员在外貌、性格或行为上相似、相像”。",
+        "sentences": [
+            "In looks, my sister takes after our mum, but she’s much more similar to our dad in personality.\n从外貌上看，我妹妹很像我们的妈妈，但她的性格更像我们的爸爸。",
+            "Jane and Luke’s new baby seems to take after his father so far, but it’s too early to tell for sure.\n简和路克刚出生的宝宝目前很像他的爸爸，但孩子太小，现在下结论还为时过早。",
+            "My aunt really takes after my grandmother. They are so similar they even sound the same!\n我姑姑太像我奶奶了。她们如此相似，就连声音都一模一样。"
+        ]
     },
     {
         "id": "200407",
         "title": "The apple of someone’s eye 某人的掌上明珠",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200407",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082fvq2.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082fvq2.jpg",
+        "desc": "表达 “the apple of someone’s eye” 的字面意思是 “某人眼睛里的苹果”，它实际用来形容一个人是 “某人的掌上明珠、挚爱”。如果你是 “the apple of someone’s eye”，那这个人很为你骄傲，而且对你的爱要胜过任何人。这个表达既可以用来形容备受宠爱的人，也可以形容备受珍重的事物。",
+        "sentences": [
+            "Georgina was always the apple of her Dad’s eye.\n乔治娜一直是她父亲的掌上明珠。",
+            "Zirui ’s vintage car is the apple of his eye. He even talks to it and has given it a name!\n梓瑞的古董汽车是他的挚爱。他甚至还和它讲话，给它起了一个名字！",
+            "My younger sister never got told off - she was my parents’ favourite. She was the apple of their eyes – it was so unfair!\n我妹妹小时候从没挨过训，她是我父母的最爱。她是他们的掌上明珠，这真是太不公平了！"
+        ]
     },
     {
         "id": "200402",
         "title": "The black sheep of the family 败家子，害群之马",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200402",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082lm6q.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082lm6q.jpg",
+        "desc": "表达 “the black sheep of the family” 指 “家中声名狼藉的成员”，也就是汉语里说的 “败家子，害群之马”。如果某人被称作 “the black sheep of the family”，这个人则可能做过错误的决定或与其家庭成员格格不入。这个表达也可以缩写为 “the black sheep”。",
+        "sentences": [
+            "My brother is the black sheep of the family – he fell out with the rest of the family years ago and no one has spoken to him since.\n我哥是个败家子。他几年前和家里人闹翻了，自那之后就再也没人和他说过话。",
+            "Aunt Susan became the black sheep of the family after she went to prison for tax evasion.\n苏珊姨妈因逃税入狱之后就成了有辱门楣的害群之马。",
+            "A. Who is the black sheep of your family?\nB. My little brother John. He is always in trouble and is so different from the rest of the family.",
+            "“谁是你家的害群之马？”\n“我弟弟约翰。他总惹麻烦，而且跟家里人都格格不入。”"
+        ]
     },
     {
         "id": "200331",
         "title": "A helicopter parent 大小事情都要管的 “直升机家长”",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200331",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082llv9.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p082llv9.jpg",
+        "desc": "表达 “a helicopter parent” 的字面意思是 “一个直升机家长”，它实际用来指 “一位非常关注孩子各方面发展，过分保护他们或过度干涉他们生活的家长”。这个表达用可以相对长时间低空盘旋的直升机来比喻这类家长无时无刻不在监视孩子生活中的点点滴滴，大小事情都要插手。",
+        "sentences": [
+            "My neighbour is a primary school teacher. He loves working with the kids, but often complains about their helicopter parents.\n我的邻居是一名小学教师。他热爱教授孩子们，但经常抱怨他们的 “直升机家长”。",
+            "So many young people arrive at university not able to look after themselves. I blame their helicopter parents!\n有许多年轻人刚上大学时不能照顾自己。我认为这应该怪过度宠爱他们的 “直升机父母”！",
+            "My husband and I are trying so hard not to become helicopter parents. We want our son to learn from his mistakes and grow into an independent young man.\n我丈夫和我一直在努力不让自己成为 “直升机父母”。我们希望儿子能从错误中吸取教训，成为一个独立自主的年轻人。"
+        ]
     },
     {
         "id": "200326",
         "title": "Look up to someone 敬仰、敬重某人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200326",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080zc7g.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080zc7g.jpg",
+        "desc": "搭配 “look up to someone” 的意思是 “尊重、敬仰某人”。人们 “look up to” 的对象通常比自己年长或更有经验。",
+        "sentences": [
+            "She’s the best player and has just been made captain, so of course all the other players in the team look up to her.\n她是最棒的运动员，而且刚刚被任命为队长，所以队里的其他队员自然都很尊敬她。",
+            "I was very close to my grandmother and really looked up to her. She was so wise and always gave the best advice.\n我和我已逝的奶奶那时的关系非常好，我很敬仰她。她这个人很有智慧，总是给我最好的建议。",
+            "Charlie really looks up to his brother. Now that he has gone to university, Charlie misses having a role model.\n查理非常仰慕他的哥哥。现在他哥哥上了大学，他很怀念有个榜样的日子。"
+        ]
     },
     {
         "id": "200324",
         "title": "One big happy family 一个欢乐的大家庭",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200324",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080z97d.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080z97d.jpg",
+        "desc": "名词短语 “one big happy family” 常被用作明喻 “simile” 或暗喻 “metaphor” 来描述一群在一起生活或工作的人像一个幸福快乐的大家庭一样相处融洽、合得来。",
+        "sentences": [
+            "I love everyone here at BBC Learning English. We’re like one big happy family.\n我爱在 BBC英语教学组工作的所有人。我们就像一个幸福的大家庭。",
+            "I live with five friends. We are just one big happy family.\n我和五个朋友住在一起。我们就像一个快乐的大家庭一样，融洽地生活。",
+            "Those players play so well together. They’re like one big happy family.\n那些球员配合得非常好。他们就像一个快乐的大家庭一样。"
+        ]
     },
     {
         "id": "200319",
         "title": "Like mother/father, like son/daughter 有其母/父必有其子/女",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200319",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080z8wl.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080z8wl.jpg",
+        "desc": "“Like mother/father, like son/daughter” 是一个短语，也是一句谚语，它用来形容家长与他们的儿女的行为、特征或性格一模一样或非常相似。",
+        "sentences": [
+            "Geoff and his son love the same things. Like father, like son.\n杰夫和他儿子都喜爱同样的东西。真是有其父必有其子。",
+            "Liu Feng and his daughter are both very stubborn. Like father, like daughter.\n刘峰和他女儿性格都很倔强。有其父必有其女。",
+            "My wife and our son both like to double-check things. Like mother, like son.\n我的妻子和我们的儿子做事都喜欢反复检查。真是有其母必有其子。"
+        ]
     },
     {
         "id": "200317",
         "title": "To take stock of 全面盘点，整体评估",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200317",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080bh0y.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080bh0y.jpg",
+        "desc": "搭配 “take stock of” 的意思是 “综合盘点或整体评估一个特殊的情况，以确保万事俱备”。人们常在仔细反思一件事情的过程中或在做出一个决定前使用它。",
+        "sentences": [
+            "Jane, could you meet on Monday? It would be good to discuss our team’s progress and take stock of the last few weeks.\n简，周一你能和我们碰一下吗？我们最好讨论一下团队的进展，总结评估一下前几周的工作情况。",
+            "After a month at my new job, I had a useful discussion with my boss and took stock of what I’d learned up until that point.\n在开始这份新工作的一个月后，我和老板进行了一次很有帮助的讨论，全面总结了我在那之前所学到的东西。",
+            "Work appraisals are a good opportunity for taking stock of your performance and making plans for the next steps you want to take in your career.\n工作评估是全面审视自身表现与规划后续职业阶段目标的好机会。"
+        ]
     },
     {
         "id": "200312",
         "title": "To set expectations 设立期望值",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200312",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07zxp5y.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07zxp5y.jpg",
+        "desc": "搭配 “to set expectations” 的意思是 “选择或决定将会发生的事情或行事方法，并与此事所涉及的人进行交流沟通”。上级或管理人士通常会为下属 “set expectations (制定目标)”。",
+        "sentences": [
+            "When I started my new course, the trainer set very clear expectations about the workload we would be facing.\n在我开始上这门新课程的时候，培训老师对我们要完成的作业量给出了非常明确的预期。",
+            "Lilly doesn’t think her boss sets very clear expectations - she sometimes doesn’t know if she spends enough time on a task and then feels frustrated by his feedback.\n莉莉觉得上司为她设定的预期值不太明确。有时她不清楚自己在一项任务上所花的时间够不够，之后，也会因为上司的反馈感到灰心丧气。",
+            "It would be good to have a meeting about the new project before we launch. That way we can set clear expectations for the whole team about how much time they can expect to spend on this.\n在新项目开始前，最好能开个会。这样，关于这个项目该花多少时间，我们就能给整个团队设定明确的目标。"
+        ]
     },
     {
         "id": "200310",
         "title": "Personal goals for professional development 个人职业发展目标",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200310",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07zxnhc.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07zxnhc.jpg",
+        "desc": "固定表达 “personal goals for professional development” 的意思是 “为工作进步及职业发展而设定的个人目标”。因为是 “personal goals（个人目标）” ，所以一定是某人为自己选择并树立的目标。",
+        "sentences": [
+            "I prepared a list of personal goals for professional development for my appraisal with my boss because I knew she would ask me about them.\n我准备了一张列有个人职业发展目标的清单，以便在与老板的工作评估中使用，因为我知道她会问我相关的问题。",
+            "Raj is very unhappy at work at the moment, so his colleague told him to make a list of personal goals for professional development to help motivate him.\n拉杰目前工作很不开心，所以他的同事让他列一个人职业发展的目标清单，来帮他激发工作积极性。",
+            "Di, would you have time to discuss my personal goals for professional development? I’d love to hear your views.\n迪，你有时间和我讨论我的个人职业发展目标吗？我很想听一听你的意见。"
+        ]
     },
     {
         "id": "200305",
         "title": "YTD 年初至今",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200305",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p085lspt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p085lspt.jpg",
+        "desc": "“YTD” 是 “year to date” 的缩写，通常用于财务文件及报表中，指 “从年初到现在的这段时间”。注意：这里的 “year” 可以指自然年，也可以指财年。“YTD” 更多出现在书面语中，但有时也被用于口语交流中。",
+        "sentences": [
+            "Direct Debit – Gas bill 2019\nJanuary = £25<br>February = £25<br>YTD = £50",
+            "直接扣账：煤气费（2019年）\n一月：25镑<br>二月：25镑<br>年初至今总费用：50镑",
+            "We have used 45% of the available budget YTD.\n到目前为止，我们已经用了45%的可用预算。",
+            "Due to your change of circumstance, YTD you have overpaid your council tax by £108. This will be refunded to you and an amended council tax bill will be sent out.\n由于你情况有变，从年初至今，你多付了108英镑的市政税。这部分钱将退还给你，并将寄出修改后的市政税账单。"
+        ]
     },
     {
         "id": "200303",
         "title": "EOD 在一日结束时",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200303",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07zxlvg.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07zxlvg.jpg",
+        "desc": "“EOD” 是搭配 “end of day” 的缩写，意思是 “在一天结束的时候”，尤指 “一个工作日的结束”。人们在谈论一件必须要完成的事情时，会用 “EOD” 来规定期限。“EOD” 应与介词 “by” 搭配使用，即 “by EOD（到当天结束为止）”。“EOD” 后面也可以加上具体的日期，如 “by EOD next Wednesday（到下周三结束时截止）”。",
+        "sentences": [
+            "I want the report on my desk by EOD Friday.\n我希望在星期五结束前在我的桌子上看到这份报告。",
+            "I got an email saying we have to finish the project by EOD Tuesday at the latest.\n我收到一封邮件，说我们最迟要在星期二结束之前完成这个项目。",
+            "All work must be done by EOD.\n所有工作必须在当天结束前做完。"
+        ]
     },
     {
         "id": "200227",
@@ -1947,469 +2285,971 @@
         "id": "200225",
         "title": "N/A 表格中的 “不适用项”",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200225",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07wrc65.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07wrc65.jpg",
+        "desc": "“N/A” 是 “not applicable” 的缩写，多在填写表格时使用，意思是 “某个问题不适用”。比如：在填写表格时，遇到一个对你来说并不适用或不相关的问题，就可以在相应的问题后写上 “N/A”。“N/A” 通常不用于口头交流中或完整的句子中。",
+        "sentences": [
+            "Complete the form below. Answer N/A to any questions that are not relevant.\n请填写以下表格。在不适用的问题后写 “N/A”。",
+            "Position: Accountant\nEmployed until: N/A (current job)<br>职位：会计<br>劳工合同终止日期：不适用（当前的工作）",
+            "Age: 27\nAge of sibling/s: N/A (only child)<br>年龄：27<br>兄弟姐妹年龄：不适用（独生子女）"
+        ]
     },
     {
         "id": "200220",
         "title": "BTW 顺便说一句",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200220",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07wrbmm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07wrbmm.jpg",
+        "desc": "“BTW” 是一个首字母缩写词，来自搭配 “by the way”，意思是 “顺带提一下，顺便说一句”。人们在书写和谈话中用它来引出与谈话主题相关、但非谈话重点的内容。在书写时，“by the way” 的使用频率高于它的缩写形式 “BTW”。",
+        "sentences": [
+            "I posted a cute picture on my social media, which, by the way, got over 100 likes!\n我在社交媒体上发了一张可爱的图片。顺便说一下，这张照片获得了 100 多个 “赞”！",
+            "BTW, have you checked your emails this morning?\n顺便问一句，你今天早上查邮件了吗？",
+            "You gave a great presentation yesterday! The department bosses found it very useful, by the way.\n你昨天做的报告很棒！部门领导们认为报告非常有用，顺便告诉你一下。"
+        ]
     },
     {
         "id": "200218",
         "title": "ATTN 关涉人，经办人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200218",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07wr7x5.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07wr7x5.jpg",
+        "desc": "“ATTN” 是名词 “attention” 的缩写词，可以直译为 “经办人、关涉人”。在电子邮件中用 “ATTN” 是为了提醒与信件内容相关、或有职权能力处理信内业务的人留意查收。",
+        "sentences": [
+            "For all enquiries, please write – ATTN: Bob Medly.\n如需询问，请在来信中标注 “经办人：鲍勃·梅德利”。",
+            "ATTN: HR department.\n关涉方：人力资源部。",
+            "ATTN: Customer Services. I wish to complain about my recent purchase.\n关涉方：客服部门。我想就近期购买的商品进行投诉。"
+        ]
     },
     {
         "id": "200213",
         "title": "Typo 打错字",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200213",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07w3drq.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07w3drq.jpg",
+        "desc": "名词 “typo” 是 “typographical error（排印错误）” 的简写，指 “打字或排印文稿时出现的小错误”，其中最常见的就是单词的拼写错误。与名词 “typo” 搭配使用的动词是 “make”，组成 “make a typo” ，意思是 “打错一个字”。",
+        "sentences": [
+            "Could you check this email for typos before I send it?\n你能在我发送这封电子邮件之前检查一下里面有没有打字错误吗？",
+            "The boss wasn’t happy when I sent out a report with a typo in it.\n在我发出了有一个拼写错误的报告后，老板很不高兴。",
+            "Look at this letter you’ve written – I think you’ve made a typo.\n看看你写的这封信，我觉得你打错字了。"
+        ]
     },
     {
         "id": "200211",
         "title": "TBC 有待确认",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200211",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07w3d4b.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07w3d4b.jpg",
+        "desc": "首字母缩略词 “TBC” 是搭配 “to be confirmed” 的缩写。这个词组的意思是 “某事尚未决定或宣布，因此需等待确认”。当人们在需要宣布某事即将发生，但还不能宣布细节的时候，就会用 “TBC” 来标注有待确认的细节。",
+        "sentences": [
+            "We are planning training for your team (date TBC).\n我们正在为你的团队安排相关的培训（日期尚待确认）。",
+            "The details are all TBC, but we're hoping to announce something special tomorrow.\n详细信息全部有待确认，但我们希望能在明天给大家宣布一点小惊喜。",
+            "Film screening\nDate: 3rd December<br>Location: TBC<br>放映电影<br>时间：12月3日<br>地点：待确认"
+        ]
     },
     {
         "id": "200206",
         "title": "PS 信件结尾的 “又及，附言”",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200206",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkjyb.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkjyb.jpg",
+        "desc": "“PS” 是 “postscript” 的缩写形式。“Postscript” 来自拉丁语 “post scriptum”，意思是 “又及，附言”。人们在电子邮件或书信的末尾用以 “PS” 开头的句子来提供或补充与邮件主题无关的信息。如果在第一条 “附言” 后，还有要补充的其它内容，则可以在 “PS” 前再加上一个 “P”，写成 “PPS”，依此类推。注意：“PS” 后补充的内容通常是无关紧要的额外附加信息。",
+        "sentences": [
+            "PS We’ve run out of coffee.\n又及：我们的咖啡喝完了。",
+            "PPS You know that Derek gets upset when he doesn’t have a coffee.\n又及：你知道的，德里克不喝咖啡会不高兴的。",
+            "PS I’ve left the document you requested on your desk.\n附言：我把你要的文件放在你桌上了。"
+        ]
     },
     {
         "id": "200204",
         "title": "ETA 预计到达时间",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200204",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkj3s.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkj3s.jpg",
+        "desc": "“ETA” 是 “estimated time of arrival” 的首字母缩写词，意思是 “预计到达时间”。它通常被用来告知某人在乘坐火车、公共汽车或航班后到达目的地的预计时间。除此之外，“ETA” 也可以用来表示邮寄信件、包裹的 “预计收件时间” ，和预约与人见面的 “预计来访时间”。这个词常见于口语交流中，但也可以用于书面语中。",
+        "sentences": [
+            "The train’s ETA is 16:05.\n这班火车的预计到达时间是16点05分。",
+            "The plane has been delayed and the new ETA is 17:05.\n此航班已延误，新的预计到达时间为17点05分。",
+            "What’s your ETA? I’ve been waiting for the delivery for over an hour!\n你预计什么时候到？我等收包裹已经等了一个多小时了！"
+        ]
     },
     {
         "id": "200130",
         "title": "ASAP 尽快",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200130",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkgts.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkgts.jpg",
+        "desc": "英语中常见的首字母缩写词 “ASAP” 是搭配 “as soon as possible” 的缩写形式，意思是 “尽快地”。",
+        "sentences": [
+            "I need that report ASAP - my manager has been asking for it all morning.\n我需要尽快拿到那份报告，我的经理一上午都在要它。",
+            "I'll get that file to you ASAP, but I'm busy at the moment.\n我会尽快把那份文件给你，但我现在很忙。",
+            "Let me know what you need ASAP and I'll get it to you.\n请尽快告诉我你需要什么，然后我会把它给你。"
+        ]
     },
     {
         "id": "200128",
         "title": "A/the biting wind 刺骨的寒风",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200128",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkggn.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07vkggn.jpg",
+        "desc": "表达 “a biting wind” 或 “the biting wind” 的意思是 “一股凛冽刺骨的寒风”。它突出形容嗖嗖的冷风刮在身上就像被刀割一样疼的感受。形容词 “biting” 的意思是 “刺骨的，非常寒冷的”。",
+        "sentences": [
+            "The biting wind meant we didn’t go out for long!\n因为当时寒风刺骨，所以我们没在外面呆多久！",
+            "I wouldn’t go walking on the hills. It’s snowing and there is a biting wind!\n我可不会去爬山。现在正在下雪，而且冷风割面！",
+            "We had better make the most of the weather today. The forecast tomorrow is for biting winds!\n我们最好充分利用今天的天气。天气预报说明天会有刺骨的寒风！"
+        ]
     },
     {
         "id": "200123",
         "title": "Can’t feel my toes/fingers/nose 脚趾/手指/鼻子冻麻了",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200123",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07smp1z.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07smp1z.jpg",
+        "desc": "搭配 “can’t feel one’s toes/fingers/nose” 或 “not be able to feel one’s toes/fingers/nose” 的意思是 “由于天气非常寒冷，脚趾、手指等四肢末梢部位或鼻子被冻僵或者失去知觉”。",
+        "sentences": [
+            "It’s so cold and windy out there! I wrapped up warm, but my face is freezing – I can’t feel my nose now!\n外面天气特别冷，还刮大风！虽然我穿得很暖和，但脸还是很冷，我的鼻子冻得没感觉了！",
+            "After walking through the snow for a couple of hours, we couldn’t feel our toes anymore. We were happy to get inside!\n在大雪里走了几个小时后，我们冻得连自己的脚指头都感觉不到了！所以我们很高兴能进到室内去！",
+            "A: Are your hands cold, Yanis? They’re almost blue.\nB: Yes, I forgot to wear my gloves today. I haven’t been able to feel my fingers for a while!<br>“你的手冷吗，亚尼斯？看着都快发青了。”<br>“是啊，我今天忘记戴手套了。我都好一会儿感觉不到手指头了！”"
+        ]
     },
     {
         "id": "200121",
         "title": "Chilled to the bone “冷到骨头里”，冻僵了",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200121",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080vtwr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p080vtwr.jpg",
+        "desc": "表达 “chilled to the bone” 的字面意思是 “冷到骨头里”，用来描述一个人因为在寒冷的户外呆了太久，而 “感到寒冷彻骨，冻僵了”。比如：I’m chilled to the bone. 我冻僵了。除了 “chilled to the bone” 以外，也可以用表达 “chilled to the marrow” 来描述相同的感觉。",
+        "sentences": [
+            "It’s freezing out here. How long are we going to wait? I’m chilled to the bone!\n外面太冷了！我们要等多久啊？我都冻僵了！",
+            "I can’t get warm even though I’m wearing lots of layers! I’m chilled to the bone!\n虽然我裹了一层又一层的衣服，但还是不够暖和！冻死我了！",
+            "We had to walk home in the snow as the bus broke down. I didn’t warm up for hours - I was chilled to the marrow!\n因为公共汽车抛锚了，所以我们不得不冒着大雪步行回家。到家好几个小时之后，我才暖和起来。我冻了个透心凉！"
+        ]
     },
     {
         "id": "200116",
         "title": "It’s like the North Pole 冷得像北极一样",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200116",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07smmmr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07smmmr.jpg",
+        "desc": "北极是世界上最寒冷的地区之一。在口语交流中，人们用表达 “It’s like the North Pole.” 来形象地比喻 “天气就像冰天雪地的北极一样非常寒冷”。",
+        "sentences": [
+            "I’m glad I took my gloves today – it’s like the Arctic out there!\n我真庆幸今天戴了手套，外面就像北极一样冷！",
+            "My teeth were chattering as I walked to work today – it was like the North Pole!\n今天我在走路上班的路上，牙齿一直在打战。天气太冷了，冷得像北极一样！",
+            "The road was very slippery today with all the snow – it was like being in the North Pole.\n今天积雪遍地，道路非常容易打滑。天气就像北极一样寒冷。"
+        ]
     },
     {
         "id": "200114",
         "title": "There’s a nip in the air 寒气袭人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200114",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07smlzy.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07smlzy.jpg",
+        "desc": "在口语中，如果想描述 “天气寒冷，凉意逼人”，则可以使用表达 “There’s a nip in the air. ”。名词 “nip” 的意思是 “严寒、寒冷”。",
+        "sentences": [
+            "I’ll put the heating on in the car – there’s a nip in the air this morning!\n我要把车里的暖气打开。今天早上天气够冷的！",
+            "Make sure you take a hat and gloves – it’s nippy today!\n你一定要带上帽子、戴好手套，今天可冷了！",
+            "I didn’t go jogging this morning – it was too nippy.\n今天早上我没去慢跑——那会儿太冷了。"
+        ]
     },
     {
         "id": "200109",
         "title": "My teeth are chattering 牙齿打战",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200109",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s94sn.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s94sn.jpg",
+        "desc": "“Someone’s teeth are chattering” 这个句型指某人的上下牙因为受凉、受惊或恐惧而不自主地、快速不停地 “打战、咯咯作响”。注意：用这个句型的进行时态来描述此类情景，句子听起来会更自然。在进行时态中，动词 “chatter” 相应地变为 “chattering”，强调牙齿打战的动作会持续一段时间。",
+        "sentences": [
+            "Ben’s car broke down in the middle of a snowstorm so he had to walk. When he got home, his teeth were chattering so much he couldn’t tell us what had happened!\n本的车在暴风雪里抛锚了，所以他不得不步行。当他回到家时，冻得牙齿不停地打战，一时间说不出发生了什么事情！",
+            "I hate being cold! My teeth start chattering in the autumn and don’t stop again until the spring!\n我很讨厌冷天气！我的牙从秋天就开始打战，直到春天才停下来！",
+            "A: Are your teeth chattering, Olga? Here, take my coat!\nB: Thank you so much! I’m freezing.<br>A: 你的牙齿在打战吗，奥尔加？来，把我的外套穿上！<br>B: 太谢谢你了！冷死我了。"
+        ]
     },
     {
         "id": "200107",
         "title": "To feel off 感觉不舒服",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200107",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s94jq.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s94jq.jpg",
+        "desc": "搭配 “to feel off” 在口语中表示一个人 “状态不佳” 或 “感觉不大舒服”。它既可以用来谈论身体状态，也可以用来谈论精神状态。",
+        "sentences": [
+            "Fang feels off today and can’t come to work. She is going to work from home.\n芳今天不大舒服，不能来办公室上班。她打算在家工作。",
+            "I ate too much last night. Now I feel a bit off.&nbsp;\n我昨晚吃得太多了。现在感觉有点不舒服。",
+            "I feel a bit off today because I had an argument with my wife.\n我今天状态不好，因为我和妻子吵架了。"
+        ]
     },
     {
         "id": "200102",
         "title": "As sick as a dog 病得很严重",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-200102",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s9462.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s9462.jpg",
+        "desc": "在英语口语中，固定搭配 “as sick as a dog” 通常用来形容一个人因为吃坏了肚子而在一段时间内 “身体很不舒服，病得很严重”。在描述吃坏肚子的上下文中，“as sick as a dog” 也可以指一个人 “呕吐得很厉害”。它可以和动词 “be” 或 “feel” 搭配使用，即 “to be as sick as a dog” 和 “to feel as sick as a dog”。",
+        "sentences": [
+            "I’m going to have to get off the train as I feel as sick as a dog.\n我得下火车，因为我恶心想吐，难受得要命。",
+            "Doctor, I was as sick as a dog after eating a pineapple. I vomited a lot.\n大夫，我吃了一个菠萝之后，难受得不得了，吐得一塌糊涂。",
+            "He couldn’t come to work yesterday because he was as sick as a dog. He ate too much the night before and felt really ill.\n他昨天不能来上班，因为他病得很严重。前一天晚上他吃得太多了，感觉非常不舒服。"
+        ]
     },
     {
         "id": "191231",
         "title": "Bunged up 鼻子不通气，鼻塞",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191231",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s93tz.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07s93tz.jpg",
+        "desc": "形容词短语 “bunged up” 用于描述因感冒而引起的 “鼻塞” 症状，也就是平时说的 “鼻子不通气”。这是英国人在口头对话中常用的表达。",
+        "sentences": [
+            "My nose is so bunged up at the moment. I can’t breathe easily.\n我的鼻子现在特别不通气。我呼吸困难。",
+            "Does anyone have any cold medicine? I am bunged up.\n有人有感冒药吗？我感冒了，鼻子不通气。",
+            "He was really difficult to understand over the phone yesterday as he had a cold and was bunged up.\n昨天他在电话里说话很难听清楚，因为他感冒了，鼻子不通气。"
+        ]
     },
     {
         "id": "191226",
         "title": "To sound hoarse 声音嘶哑",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191226",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ryl9r.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ryl9r.jpg",
+        "desc": "在嗓子痛或喉咙发炎时，人们说话的声音往往不如平时那样清晰有力，甚至连说话都会感到非常吃力。英语表达 “to sound hoarse” 可以形容一个人的 “嗓音微弱而嘶哑”。",
+        "sentences": [
+            "Have you got a cold, Liz? You sound a bit hoarse.\n你感冒了，莉兹？你的声音听起来有点沙哑。",
+            "I need to take some cough medicine for my sore throat – I’m very hoarse.\n我得吃点止咳药来治嗓子疼，我嗓子哑了。",
+            "Xiao Liang isn’t coming to work today. I spoke to him on the phone and he sounded very hoarse.\n小梁今天不来上班了。我和他通了电话，他的声音听起来很沙哑。"
+        ]
     },
     {
         "id": "191224",
         "title": "Feel numb 身体局部感到麻木",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191224",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rykwg.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rykwg.jpg",
+        "desc": "搭配 “feel numb” 或 “go numb” 的意思是身体局部 “麻木的，暂时失去感觉的”。它们可以描述因寒冷而被 “冻僵”，因血流不畅而 “麻木” ，以及因局部麻醉而 “失去感觉”。",
+        "sentences": [
+            "I need to put some gloves on - my fingers feel numb.\n我得戴上手套，我的手指冻僵了。",
+            "My mouth felt numb after the dentist gave me an injection.\n牙医给我打了一针后，我的嘴麻了。",
+            "My leg went numb because I was sitting on it.\n我的腿麻了，因为我坐在腿上了。"
+        ]
     },
     {
         "id": "191219",
         "title": "Have a dead leg/arm  腿/手臂暂时失去知觉",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191219",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ryk86.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ryk86.jpg",
+        "desc": "搭配 “have a dead leg/arm” 的意思是 “腿部或手臂因血液不流通而暂时失去知觉，感到麻木、不能移动”。",
+        "sentences": [
+            "The footballer struggled to get back on his feet after he was tackled as his leg had gone dead.\n这位足球运动员被阻截后，挣扎地想站起来，因为他的腿暂时失去了知觉。",
+            "I was sat cross-legged for too long and now I have a dead leg.\n我盘腿坐了太久，现在一条腿麻了。",
+            "After I had the injection, my arm was dead – I couldn’t pick up my coffee cup.\n我打完针之后，胳膊没感觉了。我连咖啡杯都拿不起来。"
+        ]
     },
     {
         "id": "191217",
         "title": "Have a burning sensation 有火烧火燎的不适感",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191217",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ryjhk.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ryjhk.jpg",
+        "desc": "有时，人们在运动后，肌肉会有一种烧灼的感觉；当眼睛里不慎进入刺激性异物时，也会感觉到火辣辣的疼痛……",
+        "sentences": [
+            "If you feel a burning sensation in your eyes after using this product, wash them with cold water.\n使用本品后，眼部若有烧灼感，应用凉水冲洗。",
+            "I think I've got indigestion. I've got a burning sensation in my stomach.\n我觉得我消化不良了。我感觉胃里烧得慌。",
+            "I sometimes get a burning sensation in my muscles after going to the gym.\n我去健身房锻炼后，有时肌肉会有烧灼的感觉。"
+        ]
     },
     {
         "id": "191212",
         "title": "Be/feel out of sorts 身体不舒服 心情不太好",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191212",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmqx6.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmqx6.jpg",
+        "desc": "表达 “be out of sorts” 或 “feel out of sorts” 既可以表示一个人 “身体有点不舒服”，也可以指一个人 “心情不太好”。",
+        "sentences": [
+            "A: Are you OK, Mo? You don’t look very well.\nB: Yeah, I’ve been feeling a little out of sorts today. Thanks for asking.<br>“你还好吗，莫？你脸色看起来不太好。”<br>“是啊。我今天身体不太舒服。谢谢关心。”",
+            "Whenever he’s feeling out of sorts, Frank asks his mother to make him her special noodle soup. He usually feels much better after that.\n每当他身体不舒服时，弗兰克就会让妈妈为他做她拿手的面条汤。吃完后他就感觉好多了。",
+            "Our cat was definitely out of sorts yesterday – you could tell because he wasn’t eating and he slept almost all day. He seems OK today, though.\n我们家的猫昨天一定是状态不好。你能看出来，他什么都不吃，而且几乎睡了一整天。不过他今天好像没事了。"
+        ]
     },
     {
         "id": "191210",
         "title": "Have a chesty cough 肺部感染引起的咳嗽",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191210",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmqd0.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmqd0.jpg",
+        "desc": "搭配 “have a chesty cough” 的意思是 “肺部感染引起的咳嗽”，它具体指因肺部炎症而导致的胸闷、呼吸不畅、咳嗽、多痰等症状。",
+        "sentences": [
+            "Dan has been off work for a few days because he has a terrible chesty cough. He sounds awful!\n丹请了几天病假，因为他咳嗽得很厉害。他听起来病得很严重！",
+            "A: How can I help you?\nB: I’ve got an awful chesty cough. Can you recommend anything to take?<br>“我能帮你吗？”<br>“我咳嗽得特别厉害。你能推荐什么药吗？”",
+            "Tom was sent home from work yesterday as he had a really bad chesty cough. He couldn’t stop coughing!\n昨天汤姆被要求提前下班回家，因为他咳嗽得非常厉害，而且一直咳个不停！"
+        ]
     },
     {
         "id": "191205",
         "title": "Have a migraine 偏头痛",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191205",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmq8v.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmq8v.jpg",
+        "desc": "搭配 “have a migraine” 专指 “患有偏头痛”。这是一种严重且反复发作的头痛，通常伴有恶心、呕吐和视觉障碍等症状。除了 “a migraine” 以外，“a migraine headache” 也可以表示 “偏头痛”。在描述这个症状时，人们多在 “a migraine” 前加上 “get” 或 “suffer from”，即 “to get a migraine (headache)” 或 “to suffer from a migraine (headache)” 患偏头痛。",
+        "sentences": [
+            "Tim has to take time off work sometimes because he gets really severe migraines. They can last for a couple of days.\n蒂姆有时候不得不请病假，因为他的偏头痛很严重，可以持续几天。",
+            "She’s been under a lot stress at work and in her personal life lately, so Mika’s been getting more migraines than usual.\n她最近工作和生活压力很大，所以米卡偏头痛发作的次数比平时要多。",
+            "I suffered from migraines when I was a teenager. I used to have one about once a month, but I don’t get them so much now.\n我十几岁的时候，总是遭受偏头痛的折磨，一个月一次。但现在没有以前那样频繁了。"
+        ]
     },
     {
         "id": "191203",
         "title": "Have a raging temperature 发高烧",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191203",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmq5j.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07rmq5j.jpg",
+        "desc": "名词 “temperature” 的本意是 “温度”。英国人常用 “have a temperature” 来表示 “发烧”。表达 “have a raging temperature” 的意思是 “发高烧”。形容词 “raging” 在此强调发烧的人体温很高，烧得很严重。",
+        "sentences": [
+            "My daughter was awake all night with a raging temperature.\n我女儿整晚没睡，高烧不退。",
+            "I've got a raging temperature. I think I need to go to the doctor.\n我发高烧了。我觉得我得去看医生。",
+            "A raging temperature is a common symptom of flu.\n发高烧是流感的一种常见症状。"
+        ]
     },
     {
         "id": "191128",
         "title": "To be my time of the month/on my monthly 来月经，来例假",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191128",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2r9m.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2r9m.jpg",
+        "desc": "搭配 “to be my time of the month” 和 “to be on my monthly” 是女性描述 “来月经，来例假” 时常用的相对委婉的说法。这两个说法既可以用在与朋友间的交谈中，也可以用在想委婉地告诉他人“自己来月经了” 的对话中。",
+        "sentences": [
+            "Oh no, I’ve got my monthly and I forgot to bring anything with me!\n哎呀，我来月经了，但我忘带卫生用品了。",
+            "My sister was so annoyed on holiday because it was her time of the month!\n我姐姐在度假的时候心情特别烦躁，因为当时她来月经了。",
+            "I’m hoping I won’t be on my monthly this weekend.\n我希望这个周末我可别来例假。"
+        ]
     },
     {
         "id": "191126",
         "title": "Have period pain 痛经",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191126",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2r3h.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2r3h.jpg",
+        "desc": "有一些女性在月经期间会出现下腹疼痛的症状，就是 “痛经”。在英语中，“have period pain” 或 “get period pain” 就可以用来描述 “痛经” 这一妇科症状。不论是与熟人谈及自己的症状还是向医生描述这类疼痛时，都可以使用这个说法。其中，名词 “period” 的意思是 “月经，经期”。",
+        "sentences": [
+            "I find a hot water bottle is very helpful when I have period pain. The heat seems to help the cramps.\n我发现每次月经肚子痛的时候，热水袋特别管用。让肚子暖和一点似乎对缓解痛经很有帮助。",
+            "Does anyone have a painkiller? Jo has bad period pain.\n有人有止痛药吗？乔来月经肚子很痛。",
+            "My sister never used to get period pain when we were younger, but now she suffers from it quite badly.\n我妹妹在我们小时候从来没有过痛经，但是现在她的痛经非常严重。"
+        ]
     },
     {
         "id": "191121",
         "title": "Have the sniffles 感冒流鼻涕",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191121",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2q7g.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2q7g.jpg",
+        "desc": "在口头对话中，英国人用 “the sniffles” 特指 “不断流鼻涕、吸鼻子” 的轻微感冒症状，也用它泛指 “小感冒”。",
+        "sentences": [
+            "You can’t go to doctors for that. You only have the sniffles.\n你不能因为这点小病就去看医生。你只是流鼻涕罢了。",
+            "I can’t come to work today. I have the sniffles.\n我今天不能来上班了。我感冒流鼻涕。",
+            "You have been sneezing a lot today. Have you got the sniffles?\n你今天一直在打喷嚏。你感冒了吗？"
+        ]
     },
     {
         "id": "191119",
         "title": "Have pins and needles 身体局部发麻",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191119",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2qxj.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07r2qxj.jpg",
+        "desc": "在英语口语会话中，“pins and needles” 被用来形容身体某个部位像被无数根针尖轻轻触及一样 “发麻，有针刺感”。在描述这个感觉时，人们通常说： “I have pins and needles.” 我身体局部发麻。",
+        "sentences": [
+            "If you have pins and needles, you should try walking for a few minutes to get rid of them.\n如果你的身体发麻，那应该试着走几分钟，活动活动，甩掉这种感觉。",
+            "I’ve been writing for too long and now I have pins and needles in my hand.\n我已经写了太长时间了，现在两只手都发麻了。",
+            "He hates it when he gets pins and needles after sitting for a long while. For example, he gets it often at work because he sits at his desk all day.\n他很讨厌久坐后而身体发麻的感觉。比如，他上班时经常有这种感觉，因为一整天都得坐在桌子前面。"
+        ]
     },
     {
         "id": "191114",
         "title": "Have a frog in your throat 嗓音嘶哑，说话困难",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191114",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07pq0sr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07pq0sr.jpg",
+        "desc": "表达 “have a frog in your throat” 并不是真的指 “喉咙里有只青蛙”，而是比喻喉咙像被什么东西卡住了一样，所以说话时 “嗓音沙哑、发声困难”。比如，如果你的嗓子里有一口痰，刚好卡住了说不出话，就可以用 “have a frog in my throat” 来形容自己的这个状态。",
+        "sentences": [
+            "Doctor, I’ve lost my voice. I have a frog in my throat.\n医生，我说不出话来。我喉咙不舒服，嗓子哑了。",
+            "The singer keeps coughing and can't sing. He has a frog in his throat.\n这位歌手一直在咳嗽，无法唱歌。他嗓子哑了。",
+            "You sound really hoarse today. Have you got a frog in your throat?\n你今天听起来声音有点哑。你喉咙不舒服吗？"
+        ]
     },
     {
         "id": "191112",
         "title": "Feel peaky 面容憔悴，身体虚弱",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191112",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07tlkb7.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07tlkb7.jpg",
+        "desc": "形容词 “peaky” 的意思是 “憔悴的，有病的”，尤指一个人脸色苍白、病怏怏的样子。",
+        "sentences": [
+            "I didn’t go to work yesterday as I was feeling a bit peaky.\n昨天我没去上班，因为我有点难受。",
+            "He is going to the doctor because he is feeling a bit peaky.\n他要去看医生，因为他感觉有些不太舒服。",
+            "Liu looked a bit peaky when she left. Is she OK?\n刘走的时候看起来有些憔悴。她还好吧？"
+        ]
     },
     {
         "id": "191107",
         "title": "Do numbers 社交媒体内容 “大受欢迎”",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191107",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ppzww.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ppzww.jpg",
+        "desc": "在口语中，搭配 “do numbers” 按字面意思来翻译是 “数字大好”，它指有很多人给一个社交媒体账号所发布的内容点赞、分享或评论，也就是通过数字证明内容非常受人欢迎。如果一篇文章 “do numbers”，那么它的互动量就很高。",
+        "sentences": [
+            "I never expected my videos to be successful, but after a year of posting, they’re doing numbers!\n我从来没想到我的视频能这样成功，但在发表一年之后，它变得很受欢迎！",
+            "If my channel does numbers, I’ll quit my job and focus on social media.\n如果我的频道能大受欢迎，那我就辞职，一心一意地经营我的社交媒体。",
+            "My posts haven’t done numbers recently – I might have to change my content.\n最近我发布的帖子互动量不高。我可能得改一下我的内容了。"
+        ]
     },
     {
         "id": "191105",
         "title": "Leave an Easter egg 在游戏或影片中埋下 “彩蛋”",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191105",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07pq0dk.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07pq0dk.jpg",
+        "desc": "不少电子游戏和影视作品中都藏有一些有趣的小情节，出乎意料的小玩笑。人们把这类不太容易被发现的 “小惊喜” 比喻成复活节的彩蛋 “Easter eggs”。在英语里，表达 “leave an Easter egg” 或 “put an Easter egg” 就用来描述游戏、电影创作者们在作品中 “埋下彩蛋” 的做法。",
+        "sentences": [
+            "The developer left an Easter egg in their new game, which was a reference to their previous game.\n这些开发者们在新游戏里留下了一个 “彩蛋”，这个小惊喜与开发者此前推出的一款游戏有关。",
+            "I was playing the game when I found a secret room. It was so cool that the developer left this Easter egg.\n我在玩这个游戏的时候找到了一间密室！这是游戏开发者们埋下的 “彩蛋”，真是太酷了！",
+            "I love it when filmmakers put an Easter egg into their films. My favourite Easter eggs are when they discreetly include characters from other franchises as a nod to another film.\n我特别喜欢电影制作人在作品里埋下 “彩蛋”。我最喜欢的 “彩蛋” 类型是他们把其它影视系列中的角色以不显眼的方式放到自己的电影里面，以示致敬。"
+        ]
     },
     {
         "id": "191031",
         "title": "Yours sincerely vs Yours faithfully 正式邮件结尾的 “谨启”",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191031",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p86kn.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p86kn.jpg",
+        "desc": "在正式的英文邮件中，“Yours sincerely” 与 “Yours faithfully” 是常用的两个落款，它们都相当于汉语正式书信结尾处常用的 “谨启”。",
+        "sentences": [
+            "1.\nDear Mrs Wang,",
+            "Please find enclosed the details of your recent flight booking. We hope you have a wonderful trip.",
+            "Yours sincerely,",
+            "Liu Feng",
+            "Bookings Assistant",
+            "敬爱的王女士：",
+            "请查收附件中您最近预定的航班信息。预祝您旅途愉快。",
+            "您诚挚的",
+            "刘风",
+            "订票助理",
+            "2.\nDear Sir/Madam,",
+            "Thank you for your recent email regarding my pension. Please find enclosed attached document showing all my recent payments.",
+            "Yours faithfully,",
+            "Wendy Smith",
+            "尊敬的先生/女士：",
+            "感谢您最近发来的有关本人退休金的邮件。请查看包含我近期的所有付款信息的附件。",
+            "谨启",
+            "温迪·史密斯"
+        ]
     },
     {
         "id": "191029",
         "title": "Re 正式信函中的 “有关、兹就”",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191029",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p83zd.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p83zd.jpg",
+        "desc": "介词 “re” 通常用于正式信函的正文开头或句首处，意思是 “有关、关于、兹就” 一件事情。它用来简单地介绍或总结这封信件的主题。另外，“re” 的后面也可以加上冒号，变成 “re:”，后接信件的主题，所表达的意思不变。",
+        "sentences": [
+            "Dear Mrs Lewis,",
+            "Re your enquiry of 12 April",
+            "Many thanks for your email.",
+            "Please find attached the document you requested.",
+            "亲爱的路易斯夫人：",
+            "关于您4月12日的询问",
+            "谢谢您的邮件。你需要的文件，请见附件。"
+        ]
     },
     {
         "id": "191024",
         "title": "Copied (here), cc’d (here), copied in (here) 已抄送此人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191024",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p83jm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p83jm.jpg",
+        "desc": "当在已经存在的一连串电子邮件往来中，加入了一个或一组新人，并希望在通信中介绍和欢迎他们时，我们就可以在正文中、这个人的名字后加上 “copied (here)” 或 “copied in (here)”，表示发信人已将此人抄送在这封邮件里。在非正式的邮件中，也可以使用缩写形式 ——“cc’d (here)”。",
+        "sentences": [
+            "1.\nHi Dave,",
+            "The best person to help with this is Mei – copied in here. Mei, as you can see, Dave has a couple of questions about the new software – can you help, please?",
+            "戴夫：",
+            "你好。能帮你解决这个问题的最佳人选是梅——我把她抄送在这封邮件里了。梅：如你所见，戴夫有几个关于这个新软件的问题。你能帮帮他吗？",
+            "2.\nHey Hannah,",
+            "We’ll need Peter, cc’d, for this. Peter, are you available on the dates Hannah’s suggested?",
+            "汉娜：",
+            "你好。我们需要让彼得帮忙办这件事情，我把他抄在邮件里了。彼得，汉娜建议的那几天你有空吗？",
+            "3.\nGreetings Lynn,",
+            "Good question! The best person to ask is Connor, copied. Can you two liaise directly about this? Thanks!",
+            "琳：",
+            "你好。问题提得好！回答这个问题的最佳人选是康纳，已抄在邮件里。请你们直接就此事联络，可以吗？谢谢！"
+        ]
     },
     {
         "id": "191022",
         "title": "To whom it may concern 敬启者",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191022",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p82mx.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p82mx.jpg",
+        "desc": "在正式的邮件、书信、通告中，如不能确定具体收件人的身份或姓名，则可以用 “To whom it may concern” 来开头，它相当于汉语正式信件中的表达 “敬启者”、 “致有关人士”。比如，如果一位顾客想给一家公司写投诉邮件，则可以用 “To whom it may concern” 来称呼售后服务部门的工作人员。在正式信函中，“To Whom It May Concern” 中的每个单词的首字母往往会大写。",
+        "sentences": [
+            "1.\nTo Whom It May Concern,",
+            "I am writing to complain about a product I recently purchased. Not only had it obviously been previously used, it also had no instruction manual.",
+            "致有关人士：",
+            "我想对近期购买的一件产品进行投诉，特此致信。该产品不仅已被使用，而且缺少使用说明书。",
+            "2.\nTo Whom It May Concern,",
+            "I am writing to confirm that Miss Ju was employed as a Sales Manager by ABC Trading from 2nd September 2008 to 14th October 2012.",
+            "敬启者：",
+            "此信确认鞠女士于2008年9月2日至2012年10月14日在 ABC 贸易公司担任销售经理一职。",
+            "3.\nTo Whom It May Concern,",
+            "I am writing to express my interest in attending the Annual Golf Conference on 14th October and would like some more information on the prices of tickets.",
+            "敬启者：",
+            "本人有意参加于10月14日举办的年度高尔夫大会，特此致信了解更多有关票价的信息。"
+        ]
     },
     {
         "id": "191017",
         "title": "Dear Sir/Madam 尊敬的先生/女士",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191017",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p34n6.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p34n6.jpg",
+        "desc": "在书写正式的英文邮件或信件时，如果不知道收件人的姓名，通常应以 “Dear Sir/Madam,…” 的称呼开头，这就相当于汉语书信中的 “尊敬的先生/女士”。",
+        "sentences": [
+            "Dear Sir/ Madam,\n<br>I am writing to apply for the role of summer intern as listed on the company’s website.<br><br>Please find attached my CV, together with two letters of reference.",
+            "尊敬的先生/女士：\n<br>我欲申请贵公司网站招聘启事中的暑期实习生一职，特此写信应聘。<br><br>请您查收附件中我的个人简历及两封推荐信。"
+        ]
     },
     {
         "id": "191015",
         "title": "Regards 祝好，致敬",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191015",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p33ps.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p33ps.jpg",
+        "desc": "单词 “regards” 是一个常见的电子邮件结束语。它被用在商务邮件中来向关系友好却不熟识的人表示敬意，意思是 “祝好”、“诚挚的问候”。注意，以它作为结束语时，首字母应该大写，后面接英文的逗号，署名需另起一行，即：",
+        "sentences": [
+            "1.\nPlease find enclosed the meeting minutes from yesterday. Let me know if you have any questions.<br>Regards,<br>Wu Feng<br>随信附上昨天的会议记录。如有任何疑问，请告诉我。<br>祝好<br>吴风",
+            "2.\nIt was great to speak to you today. I look forward to meeting you next week at the conference in Lisbon.<br>Kind regards,<br>Georgina<br>很高兴今天能与你交谈。我期待下周在里斯本的会议上与你见面。<br>向你致以亲切的问候<br>乔治娜",
+            "3.\nThank you for all your help organising our wedding day. The day went very smoothly thanks to all the hard work of your team.<br>Best regards,<br>Mary<br>感谢你帮助我们筹办婚礼。多亏了你们团队的辛苦工作，当天一切进行得非常顺利。<br>向你送去诚挚的问候<br>玛丽"
+        ]
     },
     {
         "id": "191010",
         "title": "As mentioned above/below 如前所述",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191010",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p31t2.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07p31t2.jpg",
+        "desc": "在撰写正式及非正式的电子邮件时，如果需要回复一系列来往邮件，并对已经提到过的信息加以说明，则不妨使用搭配 “as mentioned above” 如上所述、“as mentioned below” 如前所述，从而进一步解释此前提到过的某个信息。这里，表示方位的单词 “above” 和 “below” 尤指在同一主题的一系列邮件中，所提及的信息可能位于当前邮件的 “上方” 或 “下方”。",
+        "sentences": [
+            "Thanks for your helpful reply, George. And, yes, it would be great if you could take care of the photocopying. As mentioned above, we will need four copies of all the relevant documents – one for each of our guests.\n谢谢回复，乔治，这非常有用。没错，如果你能负责复印，就再好不过了。如上所述，我们将需要四份所有相关文件的复印件，每位客人一份。",
+            "That’s great, Sarah. I’m glad you can join us. As mentioned below, we’re meeting at 12:00 tomorrow. See you then!\n很好，莎拉。很高兴你能一起来。正如前面邮件里提到的，我们明天十二点碰头。到时候见！"
+        ]
     },
     {
         "id": "191008",
         "title": "As per our conversation 依照我们此前的谈话内容",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191008",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ly7fy.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ly7fy.jpg",
+        "desc": "在工作、商务交流中，如果想以邮件的形式确认或提及你与收件人此前在口头谈话中提到的一件事情，那么就可以使用搭配 “as per our conversation”，意思是 “按照、根据我们此前的谈话内容……”。你也可以在邮件的开头使用 “as per our conversation”，以提醒收件人已经敲定、尚待完成的事情。",
+        "sentences": [
+            "As per our conversation, we will book the meeting room and provide refreshments for our meeting on Monday.\n根据我们此前的约定，我们将为周一的会议预定会议室并提供茶点。",
+            "As per our conversation, we hope to send you the draft document for your approval later today.\n按照此前说到的那样，我们会争取在今天晚些时候把文件草稿发给您，供您审批。",
+            "As per our conversation, I would appreciate it if you could confirm by email that you have cancelled our flights and refunded us the difference.\n按照此前谈话中说定的那样，如果您能以邮件的形式确认我们的航班已被取消，差价也已经退还，我将不胜感激。"
+        ]
     },
     {
         "id": "191003",
         "title": "Please see/find attached for more details 详情请见附件",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191003",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ly4zm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ly4zm.jpg",
+        "desc": "在使用电子邮件与人交流的过程中，时常需要附上不同类型的文件。比如，图片、音频、文档。",
+        "sentences": [
+            "1.\nDear Ms O’Brien,<br>Thank you for your question about our prices. These vary depending on the time of year - please see attached for more details.<br>亲爱的奥布赖恩女士：<br>感谢您垂询本公司的报价。报价取决于一年中的具体时间，详情请参照附件中的信息。",
+            "2. \nHi Ling,<br>Sorry I forgot to send you last month’s report. Please find attached.<br>玲，你好：<br>对不起，我忘了把上个月的报告发给你。请查收附件。",
+            "3. \nDear customer,<br>Please find attached the tickets for your upcoming travel.<br>尊敬的顾客：<br>请查收邮件中包含您近期旅行票据的附件。"
+        ]
     },
     {
         "id": "191001",
         "title": "Forward an email 转发邮件",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-191001",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ly45z.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07ly45z.jpg",
+        "desc": "不论是给你的同事 “转发” 重要的工作邮件，向合作伙伴 “转发” 正式的商务信息，还是给朋友 “转发” 一场演出的活动信息，你都可以用固定搭配 “forward an email” 来表示 “把他人发来的邮件转给另一人”。",
+        "sentences": [
+            "Could you forward your email receipt so that we can investigate why you have not received your refund, please?\n烦请转发您的电子邮件收据，以便我们调查您未收到退款的原因。",
+            "Oh no, I didn’t get that email! Can you forward it to me?\n哎呀，我没收到那封邮件！你能把它转发给我吗？",
+            "I’ll forward the booking confirmation email to you so you know where we need to meet on Friday.\n我会把预约确认邮件转发给你，这样你就知道我们周五需要在哪里见面了。"
+        ]
     },
     {
         "id": "190926",
         "title": "Down the rabbit hole 掉进无底洞",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190926",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07lc0fr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07lc0fr.jpg",
+        "desc": "表达 “down the rabbit hole” 用来描述陷入一个愈发奇怪、令人摸不着头脑或出人意料的状况，而且一件事情促使另一件事情的发生，接连不断，因此越陷越深、无从脱身。",
+        "sentences": [
+            "I started watching videos online and before I knew it, three hours had passed – it’s so easy to fall down the rabbit hole!\n我上网看起了视频，不知不觉地三个小时就过去了。真是一不小心就会陷进去！",
+            "Don’t click on listicles! Before you know it, you’ll be down the rabbit hole and wasting your afternoon.\n别点开那些 “清单体” 网络文章！你会在不知不觉中一篇接一篇、没完没了地看下去，浪费一下午的时间。",
+            "I don’t go on social media very often – I don’t want to get sucked down the rabbit hole.\n我不经常用社交媒体，因为我不想被吸进社交媒体这个无底洞中去。"
+        ]
     },
     {
         "id": "190924",
         "title": "To be fried 精神极度疲惫",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190924",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07lbzcv.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07lbzcv.jpg",
+        "desc": "形容词 “fried” 在谈论与食物有关的话题时，意思是 “油炸的”。",
+        "sentences": [
+            "After the maths exam, my brain was fried!\n考完数学之后，我累得脑子都烧焦了。",
+            "It’s been such a busy week in the office – I’m totally fried.\n这个星期办公室里非常忙碌，累得我精疲力尽。",
+            "I thought that after spending three days writing my essay my brain would be fried. But actually, I don’t feel tired at all.\n我本来以为在连续写了三天论文之后，会累得脑子都转不动了。但实际上，我一点也不觉得累。"
+        ]
     },
     {
         "id": "190919",
         "title": "To spoon-feed 填鸭式灌输",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190919",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07l65gt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07l65gt.jpg",
+        "desc": "在小宝宝们还不会自己吃饭前，大人需要用勺子把饭菜喂到他们的嘴边才行，而宝宝们只需要把食物吞下去就好。",
+        "sentences": [
+            "The teacher spoon-fed her favourite student the answers to the test.\n这位老师填鸭式地把考试答案都告诉了她最偏爱的学生。",
+            "He doesn’t have much initiative and isn’t able to do things by himself – you need to spoon-feed him.\n他做事没有太多的主动性，也不能独立地做任何事情。你需要一步一步地教他才行。",
+            "This new accounting software is fantastic – you just input the numbers and it spoon-feeds you all the information you need!\n这个新的会计软件非常棒，你只需要把数字敲进去，它就能一股脑地把所有信息提供给你。"
+        ]
     },
     {
         "id": "190917",
         "title": "To stew 独自烦恼",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190917",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07l6541.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07l6541.jpg",
+        "desc": "在谈论和做饭有关的话题时，动词 “stew” 指 “用文火慢炖” 的烹饪方法。但在谈论人和事物时，“stew” 可以用来指一个人 “独自烦恼” 的表现；或让一件不好的事情或人 “缓和、平静下来”。在表达这层意思的时候，“stew” 可与 “let” 搭配使用，即 “let…stew”，意思是 “让……事情/人平静下来”。",
+        "sentences": [
+            "I think you should speak to your girlfriend quickly before she has time to stew on the argument.\n我觉得你应该在你女朋友还没来得及为你们吵架而烦恼之前赶快和她聊聊。",
+            "After our argument, I let things stew for a while. Eventually, my friend apologised.\n我们争吵之后，我让事情平静了一阵子。最后，我的朋友向我道歉了。",
+            "Oh! Just ignore what he said! He’s in a bad mood! Let him stew for a while until he is ready to say sorry.\n哎呀！别把他说的话放在心上！他心情不好，让他先自己冷静一会儿，直到他愿意道歉为止。"
+        ]
     },
     {
         "id": "190912",
         "title": "Half-baked 考虑不周",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190912",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07kv90c.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07kv90c.jpg",
+        "desc": "合成形容词 “half-baked” 的本意是 “半熟的，没烤熟的”。人们用这个和烘焙有关的词语来比喻计划、想法、理论等 “不完善、不成熟” 或 “考虑得不周全”。注意，“half-baked” 多用来表示反对或不赞成一个不切实际的想法。",
+        "sentences": [
+            "I think you need to think more deeply about your business plans. You just have a half-baked idea at present.\n我认为你需要更深入地考虑你的商业计划。你现在只是有一个不成熟的想法。",
+            "The school has come up with a half-baked scheme to have students mark their own homework.\n这所学校想出了一个草率的方案——让学生们自己批改作业。",
+            "I still think my idea is half-baked so I’m going to take a bit more time to think it through before I pitch it to the boss.\n我觉得我的想法还是不太成熟，所以我要花点时间仔细想想，再向上司提出这个想法。"
+        ]
     },
     {
         "id": "190910",
         "title": "Sweeten the deal 给点甜头",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190910",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07kvk4p.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07kvk4p.jpg",
+        "desc": "表达 “sweeten the deal” 的字面意思是 “让这笔交易更有甜头”。它很形象地描述了人们在买卖交易过程中，给买方一些甜头，一些好处，从而促成交易的行为。它也可以用来表示 “增加一项提议、方案或想法的吸引力”。“Sweeten the deal” 多被用在商贸语境中；而在日常会话中，它也可以泛指 “给一个人更多的好处”。",
+        "sentences": [
+            "If you buy a new car today, we will give you free insurance to sweeten the deal.\n如果你今天买一辆新车，我们会送给你一份免费的车险。让你买得更实惠。",
+            "My boyfriend agreed to come to the cinema after I sweetened the deal by offering to pay for the tickets.\n我男朋友答应来看电影，因为我主动提出买电影票，以让他更愿意和我一起去影院 。",
+            "Normally, I would say ‘no’ to invitations like this, but free food always helps to sweeten the deal.\n通常情况下，我会拒绝这样的邀请，但有免费饭菜的好事还是很诱人的。"
+        ]
     },
     {
         "id": "190905",
         "title": "A storm in a teacup 小题大做，大惊小怪",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190905",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07l64td.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07l64td.jpg",
+        "desc": "表达 “a storm in a teacup” 的字面意思是 “茶杯里的一场风暴”，但它实际用来比喻因为一件微不足道的小事而大惊小怪的行为。在日常生活中，如果有人小题大做，那么我们就可以说：“It’s just a storm in a teacup.”—— 没什么大惊小怪的。",
+        "sentences": [
+            "My friends are not speaking because they had a disagreement about money. I’m sure it will pass – it’s just a storm in a teacup!\n我的朋友们因为在金钱上意见不合而打冷战。我相信这件事情肯定会过去的，只是小题大做而已！",
+            "The manager and the director always argue in meetings. It’s usually just a storm in a teacup. They’re the best of friends.\n那位经理和主管两人经常在会议上争吵。不过通常只是小题大做。他们其实是最好的朋友。",
+            "The disagreement about pay is just a storm in a teacup. The company always sort things out eventually.\n有关工资问题上的分歧不过是小题大做而已。公司最后总是会把问题解决好的。"
+        ]
     },
     {
         "id": "190903",
         "title": "Take the world by storm 席卷世界 名扬四海",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190903",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07kfyb0.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07kfyb0.jpg",
+        "desc": "表达 “take the world by storm” 的字面意思是 “风暴席卷了全世界”，但它其实是用猛烈的风暴来比喻一个人或事物迅速地在世界各地获得成功，受到很多人的喜爱，引起轰动，风靡世界。",
+        "sentences": [
+            "The new band is taking the world by storm. A few months ago, no one knew their names, and now everyone is singing their songs!\n这支新乐队风靡世界。几个月前，没有人知道他们的名字，现在每个人都在唱他们的歌！",
+            "She's an excellent actress and she hoped her performance in the play would take the theatre world by storm. But no one went to see the play, and she's still not famous.\n她是一位出色的演员，她希望自己在这部剧中的表演能在戏剧界引起轰动。但是没有人去看这部剧，她也依然没什么名气。",
+            "Mobile apps have taken the world by storm in the past few years. We use them for everything now – to communicate, to buy things, to learn things – but a few years ago they didn't even exist.\n在过去的几年里，移动应用程序的风潮席卷了全球。现在，我们用它们来交流、买东西、学习新事物，但就在几年前，它们甚至还不存在。"
+        ]
     },
     {
         "id": "190829",
         "title": "A disruptive innovation 一项颠覆性创新",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190829",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jv0xf.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jv0xf.jpg",
+        "desc": "“A disruptive innovation” 的意思是 “一项颠覆性的创新”。它主要用来描述商业、科技等领域中给现有市场带来突破性变化的超前技术。“A disruptive innovation” 既可以指一个具有革新意义的产品，也可以指一种创新的行为模式。",
+        "sentences": [
+            "This model of electric car has been a real disruptive innovation. Now everyone is trying to make something similar.\n这款电动汽车是一项真正的颠覆性创新。现在大家都想尝试做出类似的东西。",
+            "The smartphone was a disruptive innovation. People expect something completely different from their phones these days.\n智能手机是一项颠覆性创新。如今，人们对手机的期望和以往完全不同。",
+            "Digital photography was a disruptive innovation. Many camera and film companies closed as a result.\n数码摄影是一项颠覆性的创新。许多相机和胶片公司因此倒闭。"
+        ]
     },
     {
         "id": "190827",
         "title": "Rest on your laurels 居功自傲 不求进步",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190827",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jv05r.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jv05r.jpg",
+        "desc": "表达 “rest on your laurels” 用来描述一个人满足于目前的成就，不求进步的表现。这是一个带有贬义色彩的说法，人们常用它来批评一个人安于过去的成就和功劳，沾沾自喜、不思进取。",
+        "sentences": [
+            "She never rests on her laurels – she constantly strives to achieve more and more.\n 她从不满足于自己的既得成就，而是不断地努力，勇于进取。",
+            "Just because you got great grades for your coursework, don’t rest on your laurels. You still have exams to do!\n不要只因为你的课程作业成绩优异，就沾沾自喜、不思进取。你还有很多考试要参加呢！<br> <br> When the tennis player became the youngest champion ever, she didn’t just rest on her laurels. She continued to train hard every day.<br>当这名网球运动员成为有史以来最年轻的冠军之后，她并没有安于自己的荣誉。她依然每天坚持刻苦训练。"
+        ]
     },
     {
         "id": "190822",
         "title": "Bask in your achievements 收获满满的成就感",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190822",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jgq3z.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jgq3z.jpg",
+        "desc": "动词 “bask” 表示 “沉浸” 在一件令人感到快乐的事情中。比如，搭配 “bask in the sunshine” 的意思是 “晒太阳，享受阳光的温暖”。由此不难推断，同样包含动词 “bask” 的表达 “bask in your achievements” 指在取得成就或成功后，停下来细细品味内心的成就感、沉浸在成功的快乐中。",
+        "sentences": [
+            "You’ve done all the hard work and passed your exams – now it’s time to bask in your achievements!\n你已经完成了艰苦的学习任务并通过了考试。现在是时候好好享受自己的学习成果了！",
+            "At the age of only 22, the young businessman has sold his company for over a million pounds. But rather than basking in his achievements, he has already started a new business!\n这名年仅 22 岁的年轻商人以 100 多万英镑的价格卖掉了他的公司，但他并没有沉浸在成就感中，而是已经开了一家新公司！",
+            "When her son became a pop star, Carol basked in the glory of his achievements.\n在儿子当上流行歌手之后，卡萝沉浸在儿子的荣耀之中。"
+        ]
     },
     {
         "id": "190820",
         "title": "Deserve all the credit 功不可没",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190820",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07j7mxz.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07j7mxz.jpg",
+        "desc": "英语表达 “deserve all the credit” 描述一个人或一组人由于为一件事情做出了很大的贡献，所以应该得到相应的赞扬和肯定，功劳当之无愧，也就是汉语里说的 “功不可没”。这里，名词 “credit” 的意思是 “功劳、认可、光荣”。 ",
+        "sentences": [
+            "Thanks for what you said about the project – but you deserve all the credit. I only helped out.\n谢谢你对这个项目的肯定。但最功不可没的是你，我只是帮了帮忙而已。",
+            "We organised a surprise party for my wife, but it's the children who really deserve all the credit - they came up with the idea and did the most work.\n我们给我妻子筹划了一个惊喜聚会，但功劳其实都是孩子们的。聚会的主意是他们想出来的，整个过程基本上也是他们一手操办的。",
+            "The team is at the top of the league, but it's the goalkeeper who deserves all the credit - none of the other players have played well.\n这支球队在联赛中名列前茅，但所有的功劳都应归于守门员，因为其他球员踢得都不好。"
+        ]
     },
     {
         "id": "190815",
         "title": "Take a well-earned break 好好休息一下",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190815",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07htlf3.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07htlf3.jpg",
+        "desc": "表达 “take a well-earned break” 的意思是 “在长时间的辛苦劳累后好好地休息、放松一下”。合成形容词 “well-earned” 在这里着重表达 “应该的、理所应当的”。",
+        "sentences": [
+            "After studying hard for my exams, I took a well-earned break.\n在为了考试刻苦学习之后，我好好地休息了一下。",
+            "Once we've launched this product we can all take a well-earned break.\n一旦我们推出了这个产品，我们就可以好好休息一下。",
+            "You’ve been working too hard! You deserve to take a well-earned break.\n你工作太辛苦了！你应该好好休息一下。"
+        ]
     },
     {
         "id": "190813",
         "title": "Pat yourself on the back 表扬自己",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190813",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07htkpp.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07htkpp.jpg",
+        "desc": "在生活中，轻轻拍打他人后背的动作往往被用来表达自己对他人的肯定和赞赏。这个动作在英语中对应的说法是 “pat someone on the back”，其字面意思是 “拍打一个人的后背”， 实际用来比喻鼓励、表扬、称赞一个人。注意：不论是 “pat someone on the back” 还是 “pat yourself on the back”，并不是真的需要去 “拍打后背”，这只是一个比喻。",
+        "sentences": [
+            "You did really well in the exam! You should pat yourself on the back.\n你考得非常好！你应该好好表扬一下自己。",
+            "I bought a present to pat myself on the back for getting a new job.\n我找到了新工作，作为奖励，我给自己买了一个礼物。",
+            "Don't pat yourself on the back yet – we haven't finished!\n先别着急表扬自己，我们事情还没做完呢！"
+        ]
     },
     {
         "id": "190808",
         "title": "A man/woman of his/her word 言而有信的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190808",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jzw10.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07jzw10.jpg",
+        "desc": "短语 “a man of his word” 或 “a woman of her word” 的意思是 “一个言之有信、说话算数的人”。它形容人诚实可靠、值得信赖，答应的事情一定能办到。",
+        "sentences": [
+            "I really like our accountant. She's a woman of her word and has always done everything she said she would do.\n我很喜欢咱们的会计。她是个言而有信的人，而且总是说到做到。",
+            "Terry is very reliable. You can always trust something will get done well when he says he'll do it. He's a man of his word.\n泰瑞很可靠。当他承诺说会做一件事情的时候，你就大可放心，这件事肯定能办好。他是个言而有信的人。",
+            "Our neighbour said he was a man of his word but we realised he wasn't. He told us he would return the things he had borrowed from us but he still hasn’t!\n我们邻居号称自己说话算数，但我们意识到他并不是这样的人。他说会把借走的东西还给我们，但到现在还没还！"
+        ]
     },
     {
         "id": "190806",
         "title": "Down to earth 接地气、务实",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190806",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07hlz9v.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07hlz9v.jpg",
+        "desc": "“Down to earth” 是一个含有褒义的短语，用来描述一个人性格谦逊、为人友善、踏实务实。当它被用在名词前作定语使用时，“down to earth” 的词与词之间则应加上连字符，变成合成词 “down-to-earth”——脚踏实地的，实在的。",
+        "sentences": [
+            "After winning the lottery and becoming a millionaire, Sarah didn’t change – she’s still very down to earth.\n在中了彩票成为百万富翁之后，莎拉并没有改变。她依然是个实在人。",
+            "I was anxious when I met my girlfriend’s parents for the first time, but they were very friendly and down-to-earth people.\n我第一次见女朋友的父母时，心里很紧张，但其实他们都是非常友善的实在人。",
+            "My new colleague is very down to earth – we had a great conversation over lunch and he was really easy to talk to.\n我的新同事很接地气。我俩吃午饭的时候聊得很投机，他非常亲切善谈。"
+        ]
     },
     {
         "id": "190801",
         "title": "Goal-oriented 目标明确",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190801",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gq2pl.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gq2pl.jpg",
+        "desc": "复合形容词 “goal-oriented” 由名词 “goal” 和后缀 “-oriented” 构成。后缀 “-oriented” 的意思是 “以……为目标的，以……为方向的”，用在 “goal” 后面，即 “goal-oriented”，来形容一个人或团队以最终目标为方向，心无旁骛地为了完成任务指标或获取成功而付出努力。",
+        "sentences": [
+            "She was very goal-oriented. She always met the targets that she set herself.\n她目标明确，总能完成自己定下的目标。",
+            "We need a goal-oriented salesperson. They have to hit their targets if they want to keep their job!\n我们需要一个目标明确的销售人员。如果他们想保住工作，就必须要完成业务指标。",
+            "Most people here are very goal-oriented. If we tell them what we need them to achieve, they always do it.\n这里的大多数人都有明确的目标。只要我们提出需要实现的目标，他们就能做到。"
+        ]
     },
     {
         "id": "190730",
         "title": "One in a million 百里挑一",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190730",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gq2gp.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gq2gp.jpg",
+        "desc": "形容词短语 “one in a million” 的字面意思是 “百万中的一个”。在实际运用中，人们多用它来描述某人的品行是 “独一无二的、十分出众的”；或在接受了他人提供的帮助后，用 “one in a million” 来称赞此人是 “百里挑一的好人”，以示感谢。",
+        "sentences": [
+            "Thank you for all your help with the project. You’re one in a million!\n谢谢你给这个项目提供的帮助。你真是百里挑一的好人！",
+            "I met the girl of my dreams – she is one in a million!\n我遇到了我的梦中女孩。她真是个超凡脱俗、独一无二的人！",
+            "This year’s Footballer of the Year is one in a million – few other players can compare.\n本年度的 “最佳足球运动员” 真是百里挑一的球星！其他球员无法与之匹敌。"
+        ]
     },
     {
         "id": "190725",
         "title": "Set your sights high 立志高远",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190725",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gdpzd.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gdpzd.jpg",
+        "desc": "短语 “set your sights high” 的字面意思是 “把眼光放高”，但它实际被用来描述人们给自己定下很高的目标、志向或要求。",
+        "sentences": [
+            "I like to set my sights high – I want to get a promotion in the next three months.\n我想把目标定得高些。我想在未来的三个月内得到晋升。",
+            "We're aiming to double our profits this year. We're really setting our sights high.\n我们的目标是将本年度的利润翻番。我们真的是定下了很高的目标。",
+            "If you set your sights high you will achieve a lot more.\n若立志高远，则成果卓著。"
+        ]
     },
     {
         "id": "190723",
         "title": "A go-getter 积极上进、志在必得的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190723",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gdpv0.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07gdpv0.jpg",
+        "desc": "合成词 “go-getter” 由动词 “go” 和名词 “getter” 组成，“getter” 是由动词 “get” 加上后缀 “-er” 得来，在这里表示 “获得……的人”。“Go-getter” 这个合成词用来描述 “有冲劲、有进取心、志在必得的人”。它不仅可用来描述一个人的工作态度，也可以泛指人的生活、学习态度积极上进。",
+        "sentences": [
+            "He's a real go-getter – he'll be managing director by the end of the year.\n他是一个非常有进取心的人，我觉得到年底他将成为总经理。",
+            "You've worked really hard. You're a real go-getter, aren't you?\n你工作很努力。你真是一个积极上进的人，对不对？",
+            "Everyone in this class is a go-getter – you'll have to work hard to stand out!\n这个班里的每个人都积极能干、富有进取心。你必须得勤奋努力，才能脱颖而出！"
+        ]
     },
     {
         "id": "190718",
         "title": "Compare deals 货比三家",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190718",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07fc5dx.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07fc5dx.jpg",
+        "desc": "搭配 “compare deals” 指的是人们在花钱购买商品前，先从价格、优惠幅度、附带服务等多方面进行对比，从而找到最好的、最合算的一个来购买。这个短语经常出现在谈论网上购物的语境中。",
+        "sentences": [
+            "I'm trying to book a holiday. I'm comparing deals to see which is best.\n我想预订一个度假产品。我在比较看哪一个最好。",
+            "We need to buy things for the party. Let's go and compare some deals to see what prices we can find.\n我们需要给这次聚会买些东西。咱们去比一比价，看看能找到什么合适的价格。",
+            "You should always compare deals to see if you can get a better offer.\n你应该每次都货比三家，看能不能找到更合算的价格。"
+        ]
     },
     {
         "id": "190716",
         "title": "Go bargain hunting 去买便宜货",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190716",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07fc5nr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07fc5nr.jpg",
+        "desc": "搭配 “go bargain hunting” 的意思是 “逢低买货，专找降价商品” 的做法。这里，“bargain” 作名词使用，指 “便宜货、降价品”；单词 “hunting” 比喻为找到便宜货而不惜花时间货比三家的行为。",
+        "sentences": [
+            "I love it when the sales are on in the shops! It's the perfect time to go bargain hunting.\n我特别喜欢商店大减价的时候！这是买便宜货的完美时机！",
+            "My aunt loves going bargain hunting. She's really good at it! She finds some amazing deals.\n我姑姑特别喜欢到处找便宜货买。她可会找了，总能买到物美价廉的好东西！",
+            "You need to be very patient if you're going to go bargain hunting – it can take time to find the best discounts.\n如果你要去买便宜货，你一定要很有耐心。因为想找到最优惠的折扣是需要花时间的。"
+        ]
     },
     {
         "id": "190711",
         "title": "A flash sale 限时抢购",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190711",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07dtjcp.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07dtjcp.jpg",
+        "desc": "“A flash sale 一场快速的售卖” 的意思是 “限时特卖、限时减价”，即一种商家在短时间内减价出售商品的促销活动。这类活动的时间有限，但折扣力度通常较大。商家们会用 “a flash sale” 作为标语来吸引顾客。",
+        "sentences": [
+            "If you want to buy flight tickets, look out for the flash sales which are common after Christmas.\n如果你想买机票，可以关注一下圣诞节后常有的限时抢购。",
+            "I was lucky – I saw a flash sale and managed to get this really cheaply!\n幸运的是，我看到了一个限时抢购活动，所以买得非常便宜！",
+            "It would have been much cheaper yesterday in the flash sale – but it's finished now, sorry!\n昨天限时大甩卖的时候，这件商品要比现在便宜得多。但促销活动已经结束了，很抱歉！"
+        ]
     },
     {
         "id": "190709",
         "title": "A vampire shopper 半夜网购的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190709",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07dthwb.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07dthwb.jpg",
+        "desc": "“A vampire shopper 吸血鬼购物者” 听起来虽然很吓人，但这个英语说法所描述的人在生活中其实并不少见。它通过传说在夜间活动的虚构生物 “vampires 吸血鬼” 来比喻喜欢在夜晚上网购物的人们。",
+        "sentences": [
+            "Since our son was born, I rely completely on buying what I need online. I have become a real vampire shopper while feeding him in the early morning.\n自从我们的儿子出生以来，我完全依赖在网上购买我需要的东西。我已经变成了一个在半夜边喂奶、边购物的人。",
+            "According to statistics, the average vampire shopper buys 20% more than the average daytime shopper.\n据统计，夜晚网购人的购买量比白天网购者平均多 20%。",
+            "When Claire can't sleep, she goes online and buys things. She's become a vampire shopper, which is an expensive new habit!\n克莱尔一睡不着觉就上网购物。她变成了一个总在大半夜网购的人，这个新习惯可是够花钱的！"
+        ]
     },
     {
         "id": "190704",
         "title": "Push through the pain 挺过痛苦",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190704",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07d5s9n.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07d5s9n.jpg",
+        "desc": "表达 “push through the pain” 多用在谈论健身的语境中，意思是 “克服在高强度训练时感受到的辛苦”，换就话说就是 “挺过苦痛，完成锻炼”。",
+        "sentences": [
+            "Having completed 90% of the marathon, the runner pushed through the pain to make it to the end.\n跑完了马拉松90%的赛程之后，这名运动员顶着痛苦，坚持跑到了终点。",
+            "The mountaineer had to push through the pain to complete the climb to the summit.\n这个登山者挺过痛苦，爬上了山顶。",
+            "If you push through the pain and complete the workout, you’ll feel really good about yourself.\n如果你能挺过痛苦并完成训练，你的自我感觉会很好。"
+        ]
     },
     {
         "id": "190702",
         "title": "Feel the burn 感受肌肉的灼烧感",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190702",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07d5rj7.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07d5rj7.jpg",
+        "desc": "搭配 “feel the burn” 的字面意思是 “体会高强度训练时肌肉在燃烧的感觉”。人们在口语会话中常用这句话来激励、鼓舞正在锻炼的人，告诉他们：“再用点力，再努力点。”",
+        "sentences": [
+            "My boxing class instructor really pushes us to try harder each week. He's always shouting: 'Feel the burn!'\n我的拳击课老师每周都督促我们要更努力训练。他总是大喊：享受肌肉燃烧的感觉！",
+            "Do you need to feel the burn each time you exercise or is gentle exercise also effective?\n每次锻炼的时候，你是需要感觉到肌肉的灼烧感，还是说轻微的运动也一样有效？",
+            "When I started doing push-ups, I really felt the burn! But now they're getting easier, and it's not so painful.\n我一开始做俯卧撑的时候，真的感觉到肌肉在燃绕！但现在做起来容易些了，也不像以前那样痛苦了。"
+        ]
     },
     {
         "id": "190627",
         "title": "Bulk up 身体变壮实；事物添分量",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190627",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07crpkb.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07crpkb.jpg",
+        "desc": "在谈论和健身有关的话题时，动词短语 “bulk up” 的意思是 “通过大量的锻炼使身材变得更壮实、块头变得更大”。但这里所谓的 “块头变大” 并不是指 “长胖”，而是特指 “通过锻炼增加肌肉的体积”。除此之外，“bulk up” 也可以用来泛指 “给……添加分量、加大”。",
+        "sentences": [
+            "John must have spent a lot of time at the gym lately. He’s really bulked up!\n约翰最近肯定总是去健身房埋头苦练。他真的练得壮实了不少！",
+            "After losing her last fight, the boxer decided to try and bulk up for her next match.\n在输掉上一场搏斗之后，这名拳击手决定为赢得下场比赛练得更壮实一点。",
+            "Add some more vegetables to the soup – that should bulk it up a bit.\n再往汤里加些蔬菜，这样汤就会更浓一点。"
+        ]
     },
     {
         "id": "190625",
         "title": "Sweat it out 做高强度的运动锻炼",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190625",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07crp13.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07crp13.jpg",
+        "desc": "动词 “sweat” 的意思是 “流汗”，而包含 “sweat” 的表达 “sweat it out” 的意思是 “做高强度的运动锻炼身体”，这种运动锻炼往往让人 “挥汗如雨”。“Sweat it out” 多用在非正式的口语交流中。",
+        "sentences": [
+            "My boyfriend used to hate exercise, but now he really likes to sweat it out in the gym for a few hours a week.\n我的男朋友过去很不喜欢运动，但现在他真的很喜欢每周去健身房里做几个小时高强度的运动锻炼。",
+            "Thousands of people sweat it out at the London Marathon every year.\n每年都有成千上万名参赛者在伦敦马拉松赛上挥汗如雨。",
+            "My friend and I tried a new dance class last night – we really sweated it out! It was so hard!\n我和我朋友昨晚上了一门新的舞蹈课。我们真是累坏了！舞蹈动作好难！"
+        ]
     },
     {
         "id": "190620",
         "title": "A gym bunny 健身迷",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190620",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07c99lj.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07c99lj.jpg",
+        "desc": "“A gym bunny 一只健身兔” 用精力旺盛、蹦来蹦去的兔子来比喻 “一位非常关注自己的体形体态、酷爱健身的人”。“A gym bunny” 也可以用来暗示一个人 “比较虚荣，过分在意自己的外貌”，这个用法带有贬义色彩。",
+        "sentences": [
+            "Robbie is such a gym bunny! He spends more time at the gym than he spends at home.\n罗比真是个健身迷！他在健身房里的时间比待在家里的时间多。",
+            "I could never be a gym bunny! I like chocolate cake and sitting on the sofa too much.\n我永远都成为不了一名健身健将！我喜欢吃巧克力蛋糕，也喜欢坐在沙发上。",
+            "You don't have to be a gym bunny to start seeing some changes in your body. A little exercise can make a big difference.\n你不必成为一名健身狂热者，就能看到锻炼让身体产生的变化。做一点运动就能看到很大的不同。"
+        ]
     },
     {
         "id": "190618",
         "title": "Pump iron 举重锻炼",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190618",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07c9997.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07c9997.jpg",
+        "desc": "在汉语里，有人开玩笑用 “举铁” 来幽默地表示 “通过举重来锻炼身体”。与之相对应的英语搭配是 “pump iron 举重健身，做重量训练”，这个搭配用动词 “pump 打气” 来比喻举重时身体和四肢上下运动的样子；名词 “iron 铁” 代指 “哑铃、杠铃等重物”。“Pump iron” 是一个口语说法。",
+        "sentences": [
+            "You don't need to spend hours pumping iron in the gym to be healthy. There are lots of other forms of exercise that help you stay strong and fit.\n你不必花大量的时间去健身房做重量训练来保持健康。你还可以通过很多其它的方式来强身健体。",
+            "My brother is a firefighter and he needs to stay strong for his job, so pumps a lot of iron in the gym.\n我哥哥是一名消防员，他需要保持强壮的体魄来完成他的工作，所以他常去健身房举重锻炼。",
+            "Have you seen that tennis player's arms? She's been pumping iron! Her arms used to be really skinny.\n你看见那个网球运动员的手臂了吗？她一直在做重量训练！她的手臂以前特别纤细。"
+        ]
     },
     {
         "id": "190613",
         "title": "Burn off the calories / pounds 运动减脂",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190613",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07btbjs.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07btbjs.jpg",
+        "desc": "搭配 “burn off the calories 燃烧卡路里” 或者 “burn off the pounds 减重” 的意思是通过大量体育锻炼 “消耗热量，减脂”。动词短语 “burn off something” 本身指能量或脂肪 “消耗、燃烧” 的过程。在谈论健身减重的语境中，“burn off the calories” 和 “burn off the pounds” 的使用频率都很高。",
+        "sentences": [
+            "A: Doctor, I'm putting on weight even though I'm not eating anything different.\nB: Running and swimming are two types of exercise that help burn off the calories quickly. Try them for a few weeks and see.<br>“大夫，虽然我的饮食上没有任何变化，可还是在长胖。”<br>“跑步和游泳是两种能帮你快速燃烧脂肪的运动。试几个星期，看看效果如何。”",
+            "Wow, Mark! You look great! You've really been burning off the pounds at the gym, haven't you?\n哇，马克！你看起来很不错啊！你在健身房运动，甩掉了不少脂肪，是不是？",
+            "I really burned off the pounds for my sister's wedding but I put the weight back on afterwards!\n为了参加妹妹的婚礼，我减掉了赘肉，但婚礼之后我就又胖回来了。"
+        ]
     },
     {
         "id": "190611",
         "title": "You’ve got it in the bag 稳操胜券",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190611",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07btb72.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p07btb72.jpg",
+        "desc": "“You’ve got it in the bag.” 这句话可用来告诉他人你相信并认为此人正在做的事情 “十有八九能成功”，也就是汉语里说的 “稳操胜券、十拿九稳”。这句话的时态也可以变成一般过去时，即 “You had it in the bag.”，与 “You've got it in the bag.” 意思相同。在使用中，还可以用所做的具体事件名称替换 “You've got it in the bag.” 当中的 “it”。",
+        "sentences": [
+            "Remember not to worry when you’re in the exam hall. You’ve worked hard, you’ve done all your practice – you’ve got it in the bag!\n记住，你在考场的时候不要担心。你很刻苦用功、做了所有的练习，考出好成绩是十拿九稳的事！",
+            "I’m so happy you passed the test! Although I knew you had it in the bag when you came home from the exam with a big smile on your face.\n我很高兴得知你通过了考试！早在你笑呵呵地考完试回家的时候，我就知道你胜券在握了！",
+            "I knew I had the test in the bag as soon as I read the questions on the paper. I had prepared for all of them!\n我一看到试卷上的问题就知道自己肯定能考好。因为之前我已经复习过那些题目了！"
+        ]
     },
     {
         "id": "190606",
         "title": "The light at the end of the tunnel 苦尽甘来",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190606",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p079jw8c.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p079jw8c.jpg",
+        "desc": "人生中处处充满挑战，有时候，只有经过漫长的努力才能看到希望的曙光。表达 “the light at the end of the tunnel 隧道尽头的光线” 就用来比喻 “漫长、困难的时期即将结束；苦尽甘来、柳暗花明的迹象”。 比如，想表示 “我看到了一线希望” ，就可以说：“I can see the light at the end of the tunnel. 我能看到希望的曙光。” ",
+        "sentences": [
+            "After two weeks of exams, I’m almost through. I can see the light at the end of the tunnel.\n连续两周的考试，马上就要考完了。我看到了希望的曙光。",
+            "Trust me, when you can see the light at the end of the tunnel, you won’t regret spending all day studying. You’ll be thankful you did it!\n相信我，当你感到苦尽甘来的时候，就不会后悔整天都在学习了。你会感到庆幸的！",
+            "The light at the end of the tunnel is that once I pass my tests, I automatically get accepted into university.\n给我一线希望的是，一旦通过这些考试，我就自动被大学录取了。"
+        ]
     },
     {
         "id": "190604",
         "title": "Keep your chin up 保持干劲",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190604",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p079jw3x.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p079jw3x.jpg",
+        "desc": "表达 “keep your chin up 把下巴抬起来” 可用来鼓励长时间努力做一件事的人要 “坚强振作，保持干劲”。它也可以被简略地说成 “chin up 别气馁，振奋起来，接着干”。和 “keep your chin up” 意思相近的表达还有 “keep going 坚持下去” 和 “stay strong 保持坚强”。",
+        "sentences": [
+            "I know revising for a test can be boring, but keep your chin up! You’re nearly finished.\n我知道考前复习可能很枯燥，但你得保持斗志！你马上就熬出头了。",
+            "Come on, mate! You’ll be fine in the exam. Chin up!\n加油，伙计！你会考好的。咬咬牙，坚持住！",
+            "Keep your chin up, my friend. You’ll find a job sooner or later.\n别灰心，我的朋友。你迟早会找到工作的。"
+        ]
     },
     {
         "id": "190530",
         "title": "Keep your eyes on the prize 盯住目标，心无旁鹜",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190530",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0799tqr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0799tqr.jpg",
+        "desc": "“Keep your eyes on the prize 眼睛紧盯在奖品上” 是一个非常励志的英语表达。它用来劝诫、鼓舞他人要 “集中精力，专注、致力于达成自己的目标，心无旁鹜”。这里，名词 “prize 奖赏” 表示 “通过努力能够实现的目标或得到的成功”。这个表达因为 “eyes” 和 “prize” 这对词语读音押韵，所以琅琅上口，在不同的生活场景中广为人们使用。",
+        "sentences": [
+            "Just keep revising. Your exams are nearly here! Keep your eyes on the prize.\n继续好好复习。考试近在眼前！你要盯准目标努力。",
+            "I told my daughter not to go to the party tomorrow and to keep her eyes on the prize. There will be plenty of time for celebrating after next week’s test!\n我告诉女儿不要去参加明天的聚会，而是应该为了考出好成绩而专心复习。等下周考完试之后，有大把时间来庆祝！",
+            "You will find this course very difficult. It’s important to keep your eyes on the prize - a good qualification at the end of it!\n你会发现这门课程很难。要把注意力集中在最后的结果上很重要，因为读完之后能拿到一张很好的资格证书。"
+        ]
     },
     {
         "id": "190528",
