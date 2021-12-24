@@ -87,13 +87,17 @@ export class CrawlTask {
     const existingPhrasesMap = this.getExistingPhrasesMap();
 
     const phrases = await this.getPhrases();
-    console.log('got phrases: ', phrases)
+    console.log('got phrases: ', phrases);
     for (const phrase of phrases) {
       const { id, url } = phrase;
       const existingPhrase = existingPhrasesMap[id];
       if (!existingPhrase || !existingPhrase.desc) {
-        await this.getPhraseDetail(url, phrase);
-        console.log('phrase detail: ', phrase)
+        try {
+          await this.getPhraseDetail(url, phrase);
+        } catch (error) {
+          console.log('get phrase detail error: ', error);
+        }
+        console.log('phrase detail: ', phrase);
       }
       fs.writeFileSync('phrases.json', JSON.stringify(phrases, null, 4));
     }
