@@ -87,7 +87,7 @@ export class CrawlTask {
     phrase.sentences = sentences;
   }
 
-  @Cron(CronExpression.EVERY_DAY_AT_NOON)
+  @Cron(CronExpression.EVERY_DAY_AT_MIDNIGHT)
   async handleCron() {
     this.logger.debug('Crawl task called');
 
