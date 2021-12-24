@@ -86,7 +86,18 @@ export class CrawlTask {
 
     const existingPhrasesMap = this.getExistingPhrasesMap();
 
-    const phrases = await this.getPhrases();
+    let phrases = await this.getPhrases();
+
+    // Fill existing phrase details
+    phrases = phrases.map((phrase) => {
+      const { id } = phrase;
+      const existingPhrase = existingPhrasesMap[id];
+      return {
+        ...phrase,
+        ...existingPhrase,
+      };
+    });
+
     console.log('got phrases: ', phrases);
     for (const phrase of phrases) {
       const { id, url } = phrase;
