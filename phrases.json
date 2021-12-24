@@ -1,5 +1,17 @@
 [
     {
+        "id": "211228",
+        "title": "Beat the clock 争分夺秒，赶着点完成任务",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211228",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b68tbc.jpg",
+        "desc": "短语 “beat the clock” 的意思是 “争分夺秒地快速完成某项任务” 或 “赶在截止时间前完成某件事情”。",
+        "sentences": [
+            "We’ve got to beat the clock and get this project delivered by the end of the day.\n我们得争分夺秒，赶在今天结束前交付这个项目。",
+            "I’m trying to beat the clock and get my homework done early.\n我正在赶时间，争取早点完成作业。",
+            "Let’s beat the clock and get this cake made in time for the New Year’s Eve party.\n我们要分秒必争，及时为新年前夜庆祝会做好蛋糕。"
+        ]
+    },
+    {
         "id": "211223",
         "title": "By leaps and bounds 突飞猛进",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211223",
@@ -3471,7 +3483,13 @@
         "id": "190328",
         "title": "Check out 去看看",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-190328",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p072ygdp.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p072ygdp.jpg",
+        "desc": "动词短语 “check out” 在单独使用时，意思是 “办理退房、出院手续”。",
+        "sentences": [
+            "Do you want to check out that new restaurant? I haven't been before.\n你想去试试那家新餐厅吗？我还没去过呢。",
+            "I checked out that new cinema last week. It was really good.\n我上周去那家新电影院看电影了。那里很不错。",
+            "Come and check out my new flat. I think that you'll love it!\n来我的新公寓看看吧，我觉得你会喜欢这里的！"
+        ]
     },
     {
         "id": "190326",
@@ -3885,7 +3903,13 @@
         "id": "181120",
         "title": "Cram for 考前抱佛脚",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-181120",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06ngt5z.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06ngt5z.jpg",
+        "desc": "搭配 “cram for something” 的意思是 “在短时间内学习大量知识，突击复习”，多用来形容为了应付考试，临阵抱佛脚的做法。动词 “cram” 的本意是 “填满、塞进”，这里，它比喻 “快速地往脑子里塞入很多内容、死记硬背”。",
+        "sentences": [
+            "Susan can’t come out with us tonight because she needs to cram for the maths test tomorrow morning. She hasn’t even started yet!\n苏珊今晚来不了了，因为她得为明天早上的数学测验临阵磨枪。她还没开始复习呢！",
+            "Why do you always leave studying until the last minute, Joe? You hate cramming! It stresses you out and then you do badly. You never learn, do you?\n你为什么总是到最后关头才开始学习呢，乔？你又特别不擅长临时抱佛脚！弄得精神紧张，结果成绩一塌糊涂。但你就是不长记性，是不是？",
+            "I need to start preparing for exams weeks in advance to do well, but my brother has always been able to cram and get a great mark! It’s so annoying!\n为了能考出好成绩，我提前好久就开始复习备考，但我弟弟总是能靠临时抱佛脚，拿高分！真气人！"
+        ]
     },
     {
         "id": "181115",
@@ -4095,43 +4119,84 @@
         "id": "180918",
         "title": "Be in the hot seat 处境尴尬，身负难任",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180918",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06h36lq.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06h36lq.jpg",
+        "desc": "“Be in the hot seat 坐在热椅子里” 用来形容 “身负重任、处境艰难，需要解决非常困难且重大的问题”。如果某人 “be in the hot seat”，那么这个人很有可能因自己的处境招致责难。“Hot seat” 的原义是 “电椅”。",
+        "sentences": [
+            "There's a new manager in the hot seat today.\n 新来的经理面临着重大而艰难的局面。",
+            "His parents asked him lots of questions to see if he was telling the truth. They really put him in the hot seat. \n 他父母为了弄清他是不是在说实话，问了他很多问题。他真的麻烦大了。",
+            "The teacher put the student in the hot seat, asking her questions to see how much she could remember.\n 这个老师为了测试这名学生记住了多少知识，问了她很多问题，这使学生倍感压力。"
+        ]
     },
     {
         "id": "180913",
         "title": "Blow hot and cold 忽冷忽热，摇摆不定",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180913",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gvmgw.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gvmgw.jpg",
+        "desc": " “Blow hot and cold” 用来形容对事物的兴趣像天气一样忽冷忽热，变化无常，或者总是改变自己的观点，摇摆不定。这个表达多与介词 “on” 或 “about” 搭配使用，即 “blow hot and cold on/about something”。",
+        "sentences": [
+            "She blows hot and cold; I am not sure she's that into me.\n她对我忽冷忽热，我不确定她到底喜不喜欢我。",
+            "You keep blowing hot and cold about going on holiday, but we need to book the tickets soon.\n你一直对去度假的事情忽冷忽热的，但我们马上就得订票了。",
+            "The manager keeps blowing hot and cold on whether to hire new staff.\n这个经理总是对招聘新职员这事摇摆不定的，下不了决心。"
+        ]
     },
     {
         "id": "180911",
         "title": "Lock horns 争论不休",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180911",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gv6d0.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gv6d0.jpg",
+        "desc": "两只鹿在打斗的时候，会顶住彼此头上的角，直到其中一方败下阵来，争斗才得以罢休。表达 “lock horns 锁住角” 指 “卷入激烈的冲突或争执中，没有一方愿意先妥协或认输”。",
+        "sentences": [
+            "My father and brother locked horns last night over whether my brother could use the car!\n我爸爸和哥哥昨晚为哥哥能不能开这辆车的事争论不休。",
+            "The company executives are locking horns over the direction the company should take next year.\n这家公司的行政主管们为了公司明年的发展方向而争执不休。",
+            "When I was younger, I always locked horns with my mother about eating spinach! I hated it, and she always insisted I finish it.\n我小时候总是因为吃菠菜的事和妈妈发生争执！我特别讨厌菠菜，但她总是执意让我吃完。"
+        ]
     },
     {
         "id": "180906",
         "title": "Talk of the devil 说曹操，曹操就到",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180906",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gh6m9.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gh6m9.jpg",
+        "desc": "汉语俗语 “说曹操，曹操就到” 用来描述 “正当谈论某个人的时候，那个人就出现了” 的情景。英语表达 “talk of the devil 谈论魔鬼” 也能谈论同样的情况。人们有时会把 “talk of the devil” 中的动词 “talk” 替换成 “speak”，即 “speak of the devil”，意思不变。",
+        "sentences": [
+            "Talk of the devil; we were just talking about you.\n 说曹操，曹操就到！我们正说你呢。",
+            "I can't believe Tom's leaving!&nbsp; Speak of the devil, here comes Tom.\n 真不敢相信汤姆要走了！说他，他就到了。汤姆来了。",
+            "Kun broke up from his girlfriend – talk of the devil. Here she is! &nbsp;Have you been standing there for a long time?\n琨和他女朋友分手了。说曹操，曹操就到。她在这里！你在这儿站很长时间了吗？"
+        ]
     },
     {
         "id": "180904",
         "title": "Rain on your parade 泼冷水",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180904",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gh5rp.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06gh5rp.jpg",
+        "desc": "大好的天气如果突然下起雨，那么可能原本计划好的活动就不得不取消，着实令人扫兴！",
+        "sentences": [
+            "I hate to rain on your parade, but you’re not going home until you’ve finished that.\n我不想煞风景，但是你完成这件事之前不准回家。",
+            "They had planned to go to the beach at the weekend, but the weather just rained on their parade. \n 他们原本计划这周末去海滩玩，但糟糕的天气让他们很扫兴 。",
+            "He was going to have a party on Friday, but his friends rained on his parade when they said that they were all busy.\n他本想在周五开派对，但他的朋友们却泼了他一头冷水，都说太忙去不了。"
+        ]
     },
     {
         "id": "180830",
         "title": "When reality bites 当现实给了你一巴掌的时候",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180830",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06fwkph.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06fwkph.jpg",
+        "desc": "表达 “when reality bites 当现实反咬你一口的时候” 可以用来描述人在长期逃避某件事之后不得不面对残酷现实的情况。",
+        "sentences": [
+            "You try to stay together with a partner you don’t love, but when reality bites, you’ll have to separate!\n 你试图和你不爱的另一半在一起，但当你不得不直面现实的时候，就得分手了！<br> <br> After three years of wearing a hat, reality finally bit and I accepted that my hair had fallen out. <br>三年来我一直戴着帽子，但我终于勇敢接受头发掉光的现实。",
+            "Only after her relative’s funeral did reality truly bite. She finally accepted that no one could live forever.\n在她参加了亲戚的葬礼后不得不直面现实，终于接受了没有人是会长生不老的事实。"
+        ]
     },
     {
         "id": "180828",
         "title": "The sands of time 时间的流沙",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180828",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06fwk3y.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p06fwk3y.jpg",
+        "desc": "搭配 “the sands of time 时间之沙” 是用沙漏里的流沙来比喻时间流逝。它多用来谈论过去已经发生过的事情，表示时间过得很快。",
+        "sentences": [
+            "No one knows where the story came from. The author's name is lost in the sands of time.\n没人知道这则故事出自何人。作者的名字早已随着时间的流逝被人遗忘。",
+            "Even though I'm old, I feel great. The sands of time have been kind to me.\n我虽已年迈，但感觉身体还不错。岁月对我很仁慈。",
+            "The sands of time had really left their mark on the building. It was starting to fall apart.\n时光在这座建筑上留下了岁月的痕迹，它已经有了土崩瓦解的迹象。"
+        ]
     },
     {
         "id": "180823",
@@ -4732,7 +4797,13 @@
         "id": "180301",
         "title": "To pass the buck 推卸责任",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180301",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05vfx7c.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05vfx7c.jpg",
+        "desc": "大多数人都明白这样一个道理：如果是自己犯下的错误，就不应该把责任推卸给别人。表达 to pass the buck 就是“推卸责任”的意思，它指“明明是自己的问题，却要责备他人”这一行为。",
+        "sentences": [
+            "Naomi always passes the buck. Whenever she makes a mistake, she says someone else did it.\n娜奥米总是推卸责任。她每次犯错都说是其他人做的。",
+            "Don't pass the buck! You know it's your turn to do that!\n别推卸责任，你知道这回该你做了！",
+            "Lee's team are tired of him passing the buck whenever he makes a wrong decision.\n李的团队已经厌倦了他的这个行为 — 只要他做出错误的决定，他都会把责任推到别人头上。"
+        ]
     },
     {
         "id": "180227",
@@ -4822,7 +4893,13 @@
         "id": "180125",
         "title": "To beef something up 加强充实 改善提高",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-180125",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05vz61z.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05vz61z.jpg",
+        "desc": "To beef something up 的意思是“加强，充实”，从而使事物有改进、有提高。在西方文化中，牛的形象常与强壮和力量相联系，有许多体育比赛、体育俱乐部都用牛作为自己的吉祥物或队名，所以这个短语也有“增强力量”的意思。",
+        "sentences": [
+            "Mark has been going to the gym twice a day for weeks. He's beefing himself up for big weight-lifting competition.\n马克保持一天去健身房两次的频率已经好几周了，他在为一场大型举重比赛加强体力，作准备。",
+            "We needed to beef up the email service we provide to our customers to improve communication.\n我们需要改进为客户提供的电子邮件服务，以此加强沟通和联系。",
+            "To improve their low sales figures, the company decided to beef up their marketing campaign.\n为了提高他们低迷的销售额，公司决定加强市场促销活动。"
+        ]
     },
     {
         "id": "180123",
@@ -4948,7 +5025,13 @@
         "id": "171219",
         "title": "To break the ice 破冰，打破冷场",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-171219",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05rgsjm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05rgsjm.jpg",
+        "desc": "“To break the ice”是指碰到陌生人时主动打开话匣子，开始攀谈，打破这种不熟悉的局面，让气氛热络起来。由此衍生出来“icebreaker”一词，指彼此不认识的人见面时，用来活跃气氛的游戏或笑话。另外，“icebreaker”也有“破冰船”的意思。",
+        "sentences": [
+            "I felt awkward until they broke the ice by asking us about our journey.\n我感到既尴尬又别扭，直到他们询问了我们的旅程，才打破了沉默。",
+            "When meeting potential new clients, it's important to break the ice by starting the conversation.\n当面见新的客户时，主动交谈以打破冷场是很重要的。",
+            "I broke the ice by asking about an ex-colleague who works for them now.\n我主动问起了一位现在为他们工作的我的前同事的情况，以此打破沉默。"
+        ]
     },
     {
         "id": "171214",
@@ -5002,7 +5085,13 @@
         "id": "171130",
         "title": "Hammer out a deal/agreement 敲定一笔交易、达成一项协议",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-171130",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05ncy7y.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p05ncy7y.jpg",
+        "desc": "“Hammer out”是一个动词短语，意为“通过争论或讨论，最终达成某项协议或解决办法”。可以说“hammer sth out ”，也可以在“hammer out”后接名词。常见的搭配有“hammer out a deal/agreement”，表示“敲定一笔交易或达成一项协议”。",
+        "sentences": [
+            "It might be complicated, but both our companies want to work together, so why don't we meet and try to hammer out a deal?\n这也许会很复杂，但是我们双方公司都希望为之努力、并肩工作，所以大家何不开会讨论，试着达成交易呢？",
+            "After five years, we finally managed to hammer out an agreement with the insurance company.\n我们终于在五年后和保险公司达成了协议。",
+            "The customers were relieved when the two mobile operators hammered out a new agreement to cut roaming charges.\n顾客们听说两家移动运营商就减少漫游费的问题达成了新的协定后，终于松了一口气。"
+        ]
     },
     {
         "id": "171128",
@@ -5920,18 +6009,6 @@
             "The council made a promise to throw its weight behind the “Save the Urban Gardens” project.\n地方政府承诺会全力支持“挽救城市公园”的计划。",
             "A number of celebrities threw their weight behind the production and the opening show was a big success.\n好几位社会名流都鼎力支持这部舞台剧，首演非常成功。",
             "The university threw its weight behind the new research project.\n大学全力支持这个新的研究项目。"
-        ]
-    },
-    {
-        "id": "170223",
-        "title": "Sweep the board 囊括全数奖项",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170223",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04rk3g3.jpg",
-        "desc": "想象一个人把桌子上所有的钱都纳入囊中的情景。表达 sweep the board 的原意是“赢得所有的赌注”，后来这个说法用来表示选手、队伍或作品在比赛中获得所有的奖项，即“大获全胜”。人们常在谈论体育项目的语境中使用这一说法。",
-        "sentences": [
-            "The blockbuster swept the board with 10 nominations, making it the most talked-about film of the awards season.\n这部大片囊括了十项提名，这让它成为这个奖项季最受关注的影片。",
-            "The photographer has swept the board at a prestigious contest and will open her own gallery at the end of the year.\n这位摄影师在那个知名比赛中囊括所有奖项，她的私人画廊将于年底开幕。",
-            "The great atmosphere, friendly service and fantastic food mean this tea shop will probably sweep the board at the annual restaurant awards.\n这家茶餐厅富有情调，服务友好，还提供非常美味的食物，所以很有可能在各类年度餐厅奖中大获全胜。"
         ]
     }
 ]
