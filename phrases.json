@@ -39,61 +39,121 @@
         "id": "211214",
         "title": "Creature of habit 习惯性动物，一成不变的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211214",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b49yrm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b49yrm.jpg",
+        "desc": "如果某人在日常生活中总是以同样的方式做同样的事情，就可以把此人比作 “creature of habit（习惯性动物）”，意思是 “一成不变、生活极有规律的人”。",
+        "sentences": [
+            "Roy is a creature of habit – he has to clean his teeth as soon as he gets out of bed.\n罗伊生活非常有规律，他一起床就去刷牙。",
+            "I’m a creature of habit – I always have to eat a biscuit with my cup of coffee.\n我是个习惯性动物，喝咖啡时总要吃块饼干。",
+            "She always has to buy a bucket of popcorn every time we go to the cinema – she’s such a creature of habit.\n每次我们去看电影，她总是要买一桶爆米花，她真是一成不变。"
+        ]
     },
     {
         "id": "211209",
         "title": "Happy camper 心满意足的人，乐天派",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211209",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b4jwm6.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b4jwm6.jpg",
+        "desc": "表达 “happy camper” 的字面意思是 “快乐的露营者”，实际用来比喻 “对自己的处境，如工作或成就等感到非常满意的人”。",
+        "sentences": [
+            "Zhang Lei is very satisfied with the project he’s just finished. He’s a happy camper.\n张磊对他刚刚完成的项目非常满意。他雀跃不已。",
+            "Cassandra loves her job. She’s always smiling in the office. She’s one happy camper.\n卡珊德拉热爱她的工作。她在办公室里总是笑容满面。她是个乐天派。",
+            "You look like one happy camper now that you’ve finished writing your book!\n你的书终于写完了，你看起来心情真好！"
+        ]
     },
     {
         "id": "211207",
         "title": "Be in a class of one’s own 无与伦比，出类拔萃",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211207",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b4jtj7.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b4jtj7.jpg",
+        "desc": "表达 “be in a class of one’s own” 描述一个人 “拥有比别人更强的素质或技能” 或 “在某个方面比别人做得更好，出类拔萃”。它也可以用来描述某事物 “比同类的质量更好，无与伦比”。表达 “be in a league of one’s own” 也表示同样的意思。",
+        "sentences": [
+            "In terms of natural ability on the pitch, that footballer is in a class of her own.\n那个足球运动员在球场上的天赋无人能敌。",
+            "That new coffee maker makes the best espresso. It’s in a class of its own.\n那台新咖啡机制成的浓缩咖啡最好喝。它的质量真的很出众。",
+            "He’s the best artist I’ve ever seen. He’s in a league of his own.\n他是我见过的最棒的艺术家，绝对是傲视群雄。"
+        ]
     },
     {
         "id": "211202",
         "title": "Larger than life 非同凡响，耀眼夺目",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211202",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b34w73.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b34w73.jpg",
+        "desc": "表达 “larger than life” 用来描述一个人 “外表格外耀眼夺目，或行为比普通人更有趣，非同凡响”。这种 “超群不凡” 既可以形容行为，也可以形容仪表，通常用来指一个会引来各方注目的人。在三个单词间加上连字符，可作复合形容词 “larger-than-life” 使用。",
+        "sentences": [
+            "Our boss always dresses in the most colourful suits and comes into the office singing. She’s larger than life.\n我们老板总是穿着色彩最鲜艳的西装上班，唱着歌走进办公室。她真是非比寻常。",
+            "Jeff is such a larger-than-life character – he’s so exciting to be around.\n杰夫真是个非同凡响的人物，在他身边总是乐趣横生。",
+            "The moment we walked into the restaurant, everyone turned to look at my big sister’s dress. It was amazing. She’s larger than life.\n在我们走进这家餐厅的那一刻，每个人都转过身来看我姐姐的连衣裙。太美了，她真是超凡脱俗。"
+        ]
     },
     {
         "id": "211130",
         "title": "Generous to a fault 非常慷慨大方",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211130",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b2ykv2.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b2ykv2.jpg",
+        "desc": "如果一个人乐于付出的时间或金钱超出预期，却不求任何回报，就可以被描述为 “generous to a fault”，意思是 “非常慷慨大方”。你可以用类似的表达 “kind to a fault” 来形容某人 “极为善良”。",
+        "sentences": [
+            "My girlfriend loves helping people and is generous to a fault.\n我的女朋友乐于助人，热情慷慨。",
+            "My dad gave me the deposit for a new car – he’s generous to a fault.\n我爸给了我买新车的订金，他太慷慨了。",
+            "Thanks for helping out at our animal charity – you are kind to a fault.\n谢谢你在我们的动物慈善机构帮忙，你真是个乐善好施的人。"
+        ]
     },
     {
         "id": "211125",
         "title": "Live wire 精力充沛的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211125",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1r5gm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1r5gm.jpg",
+        "desc": "搭配 “live wire” 的字面意思是 “通电的电线”，实际可以用来比喻 “精力充沛、活力四射的人”。",
+        "sentences": [
+            "My son is a real live wire – he never sits down!\n我儿子精力特别充沛，从来都坐不住！",
+            "She’s a live wire – I wish I had her energy to do all the things she does.\n她这个人活力四射，真希望我能有她做事的精力。",
+            "You’re a live wire – where do you get your energy from?\n你总是活力十足，你哪来的那么多精力？"
+        ]
     },
     {
         "id": "211123",
         "title": "Goody-goody 道貌岸然、讨好卖乖的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211123",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1r3wz.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1r3wz.jpg",
+        "desc": "合成名词 “goody-goody” 指 “自鸣得意或道貌岸然的人”，这个人可能 “伪善、假正经，或在他人面前故意讨好卖乖”。这是一个非正式的说法，带有贬义，表达 “goody two shoes” 的意思相同。",
+        "sentences": [
+            "Derek is such a goody-goody that he’s always trying to appear like he’s perfect – it’s so annoying.\n戴里克真是个道貌岸然的人，他总试图表现得特完美，真够烦的。",
+            "George always starts to tidy the classroom as the teacher arrives.&nbsp;He’s such a goody-goody!\n每次老师一来，乔治就开始打扫教室的卫生。他真会讨好卖乖！",
+            "A: “Come on! Tell me the answers to our homework – don’t be such a goody-goody.”\nB: “No, I won’t. Sorry, but you need to work them out yourself.”<br>“来，告诉我家庭作业的答案，别假正经了。”<br>“我不告诉你。不好意思，你得自己找答案。”"
+        ]
     },
     {
         "id": "211118",
         "title": "Wet blanket 扫兴的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211118",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1lg69.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1lg69.jpg",
+        "desc": "如果某人做了一些事情或说了一些话，让其他人无法继续尽兴下去，就可以用搭配 “wet blanket” 来形容这个人是 “扫兴的人”。",
+        "sentences": [
+            "Let’s go to the party – don’t be a wet blanket!\n一起去那个聚会吧！别扫大家的兴。",
+            "He’s such a wet blanket. He doesn’t make jokes, and takes everything way too seriously!\n他真是个扫兴的人。既不喜欢讲笑话，对待所有事情又过于严肃。",
+            "Why did you have to invite her for dinner? She’s such a wet blanket and always says things that kill the mood!\n你为什么要邀请她来吃晚饭？她最喜欢扫大家的兴，总是讲一些大煞风景的话。"
+        ]
     },
     {
         "id": "211116",
         "title": "Give the shirt off one's back 倾囊相助，尽力帮忙",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211116",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1l4lt.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b1l4lt.jpg",
+        "desc": "如果某人 “不惜一切地帮助你，即使把最后一点家当都给你也在所不惜”，就可以用短语 “give the shirt off their back” 来描述这个人的行为，意思是 “倾囊相助，尽力帮忙”。",
+        "sentences": [
+            "Jack is such a nice guy – he would give his shirt off his back to help you out.\n杰克真是个大好人，他会竭尽所能地帮你。",
+            "I’d give you the shirt off my back to help you pay for your wedding.\n为了资助你支付婚礼的费用，我会倾囊相助。",
+            "I’m afraid even giving me your shirt off your back will not help me pay for my new house. But thanks for the offer.\n即使你倾囊相助，恐怕都无法帮我支付新房子的钱。但还是要感谢你的好意。"
+        ]
     },
     {
         "id": "211111",
         "title": "Mover and shaker 举足轻重、有号召力的人",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211111",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09z3qtm.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09z3qtm.jpg",
+        "desc": "短语 “mover and shaker” 指 “举足轻重，有影响力、号召力的人”。这种人往往有意愿和能力让事情顺利完成。",
+        "sentences": [
+            "The new boss is a mover and shaker and was able to get extra funding for our team.\n新的老板真是个有能耐的人，竟然能够为我们的团队争取到额外的资金。",
+            "My brother is a mover and shaker – everyone listens to what he says and agrees with his plans!\n我的哥哥是个有号召力的人，每个人都会细心聆听他说的话，并且同意他的计划。",
+            "My friend says she can get me a ticket for the sold-out rock gig – she’s a bit of a mover and shaker at the company.\n虽然那场摇滚音乐会的门票早已售罄，但我的朋友却承诺会帮我搞到一张票，她在公司可是个举足轻重的人物。"
+        ]
     },
     {
         "id": "211109",
@@ -531,55 +591,109 @@
         "id": "210706",
         "title": "Like ships that pass in the night 一面之缘，擦肩而过",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210706",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09mw2dn.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09mw2dn.jpg",
+        "desc": "表达 “like ships that pass in the night” 用来形容 “两个人在为数不多的短暂碰面之后，再也无缘相见”，就好比夜晚交错而过的两只船一样。人们也会用这个表达来感叹 “似乎总是与某人擦肩而过”，比如，两个家庭成员总是没有机会在同一时间出现在同一地点。",
+        "sentences": [
+            "I met Renard on the train to work, and we became friends right away. Sadly, I’ve never seen him again. We are like ships that pass in the night.\n我在上班的火车上遇见了雷纳德，我们很快就成为了朋友。但很遗憾，后来我再也没有见过他。我们只有一面之缘。",
+            "It’s nice to see you again! We’ve been like ships that pass in the night – always missing each other.\n很高兴再次见到你！我们之前总是和对方失之交臂，碰不到一起。",
+            "I rarely see my wife. She goes to work as I’m arriving home. We’re like ships in the night.\n我很难见到我的妻子。当我回到家时，她正要去上班。我俩总是擦肩而过。"
+        ]
     },
     {
         "id": "210701",
         "title": "Get the show on the road 开始行动",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210701",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09mb0rj.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09mb0rj.jpg",
+        "desc": "短语 “get the show on the road” 或 “get this show on the road” 的意思是 “开始行动，开始做一直在准备的事情”。",
+        "sentences": [
+            "I think the presentation is ready, so let’s get the show on the road and call a meeting.\n我想演讲报告已经准备好了，那我们开始行动，开个会吧。",
+            "OK, the car is packed – time to get the show on the road. It’s holiday time!\n好吧，车已整装待发，该上路了。是时候放假了！",
+            "Come on, kids! It’s time to get this show on the road. Your grandparents are waiting!\n快点，孩子们！是时候动身出发了。外公外婆都在等咱们呢！"
+        ]
     },
     {
         "id": "210629",
         "title": "Beach bum 海滩客",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210629",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09mb0dx.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09mb0dx.jpg",
+        "desc": "在非正式英语中，可以将 “经常在海滩消遣、游玩的人” 称作 “beach bum（海滩客）”。",
+        "sentences": [
+            "My big brother is a real beach bum – he would spend his whole life on the beach if he could!\n我哥哥是一个不折不扣的海滩客，如果可以的话，他会在海滩上过一辈子！",
+            "I love to hang around on the beach doing nothing – I guess you could call me a beach bum!\n我很喜欢泡在海滩上无所事事，我想你可以叫我海滩爱好者！",
+            "I prefer walking in the countryside, but my husband prefers to play volleyball on the beach all day – he’s such a beach bum!\n我喜欢在乡间散步，但我丈夫更喜欢一整天在沙滩上打排球，他真是个海滩客！"
+        ]
     },
     {
         "id": "210624",
         "title": "A home from home 像家一样令人自在的地方",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210624",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09ls5kh.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09ls5kh.jpg",
+        "desc": "表达 “a home from home” 用来表示 “一个让你非常舒适自在的地方，在这里可以感受到像在自己家里时那样的安逸”。",
+        "sentences": [
+            "I’m really grateful that you gave me a place to stay. You’ve made me feel really welcome – it’s been like a home from home.\n实在太感激你给了我一个落脚的地方。你让我有宾至如归的感觉，就像在自己家里那样舒适。",
+            "She really loves her office. She says it’s like a home from home.\n她真的很喜欢她的办公室。她说在这里就像在家里一样舒适。",
+            "My husband is my everything. Everywhere we are together is a home from home for me.\n丈夫是我的一切。对于我来说，只要我俩在一起，任何地方都像是一个温馨的家。"
+        ]
     },
     {
         "id": "210622",
         "title": "A country mile 距离遥远；差远了",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210622",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09ls0br.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09ls0br.jpg",
+        "desc": "表达 “a country mile” （直译为 “乡间的一英里” ）通常用来形容 “一个地方非常遥远”。 这可能是由于乡间小路总是迂回曲折，不像大路那样笔直，所以 “乡间的一英里” 仿佛更远。在日常使用中，这个表达不仅可以描述具体距离的遥远，也可以用来形容 “两个事物的质量对比起来相差甚远，其中一个比另一个差远了”。",
+        "sentences": [
+            "We live on a farm in the countryside. There are no shops in a country mile!\n我们住在乡下一个农庄，方圆好几里都找不到任何商店！",
+            "We had to move home as my wife’s commute to work was taking a long time. We used to live a country mile from her office.\n我妻子上下班通勤的时间太长了，我们不得不搬家。我们以前住的地方离她的办公室十万八千里。",
+            "This is a good film, but not her best – not by a country mile.\n这部电影不错，但不是她最出色的作品，跟她最好的电影相比差远了。"
+        ]
     },
     {
         "id": "210617",
         "title": "At the crack of dawn 破晓时分，一大早",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210617",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09lm11p.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09lm11p.jpg",
+        "desc": "表达 “at the crack of dawn” 的意思是 “一天开始的时候”，也被用来表示 “天一亮、一大早就发生了某件事情”。名词 “dawn” 指 “日出的时候，黎明”。",
+        "sentences": [
+            "I’m so tired today. I had to get up at the crack of dawn to avoid too many people on the train.\n我今天累坏了。为了避免和太多人一起挤火车，我不得不天一亮就起床。",
+            "We left at the crack of dawn so we could get to my grandma’s house on time for breakfast.\n我们一大早就出发了，以便能准时到奶奶家吃早饭。",
+            "We start work early, so we have to get up at the crack of dawn.\n我们很早就开工，所以必须天亮时就起床。"
+        ]
     },
     {
         "id": "210615",
         "title": "Hit the road 出发，上路",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210615",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09htqx0.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09htqx0.jpg",
+        "desc": "表达 “hit the road” 通常被用在某人正要或即将踏上一段旅程时，意思是 “出发，上路”。它也常用来提出自己就要 “离开一个活动，比如一场聚会”。",
+        "sentences": [
+            "We’re going to hit the road early tomorrow to start our trip across the US. Make sure you have a good night’s sleep!\n咱们明天一大早就要上路，踏上横穿美国的旅行。你一定要睡个好觉！",
+            "Look at the time! I really enjoyed the party, but I think it’s time we hit the road!\n都这个点了！这次聚会我玩得很开心，但我想我们该走了！",
+            "She likes to avoid rush hour on her daily commute to work by hitting the road early morning.\n她喜欢一大早就出门，避开每天的上班高峰期。"
+        ]
     },
     {
         "id": "210610",
         "title": "Recharge one’s batteries 养精蓄锐",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210610",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09h615z.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09h615z.jpg",
+        "desc": "表达 “recharge one’s batteries” 通常用来表示 “某人非常疲劳，需要通过放松来恢复体力、养精蓄锐”。这个表达将身体的精力值比作 “battery（电池）” 的电量，而补充精力就相当于 “recharge（充电）”。",
+        "sentences": [
+            "I need to go on holiday so that I can recharge my batteries! I’m really tired from a long month at work.\n我需要去度假，这样才能好好充电！我工作忙了一整月，真的很累。",
+            "She decided to go on a cruise to recharge her batteries.\n她决定乘船旅行，养精蓄锐。",
+            "Bob felt really ill. He hadn’t taken time off to recharge his batteries for a long time.\n鲍勃那时身体很不舒服。他已经很长时间没有请假休整一下了。"
+        ]
     },
     {
         "id": "210608",
         "title": "Off the beaten track 人迹罕至的，偏远的",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-210608",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09h60xr.jpg"
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p09h60xr.jpg",
+        "desc": "表达 “off the beaten track” 用来描述 “一个游客不常光顾的地方”，意思是 “人迹罕至的，偏远的”。其中，“the beaten track” 的意思是 “游客们正常的旅游目的地和路线”。",
+        "sentences": [
+            "He decided to go into the jungle and went off the beaten track. He prefers to be alone.\n他决定到丛林里去，不走寻常路。他更喜欢独处。",
+            "We book our holidays with a tour-guide and stick to the main tourist regions. We don’t like going off the beaten track.\n我们预定假期时会找个导游，只参观主要旅游区。我们不喜欢到偏远的地方去。",
+            "My parents ended up staying in a cottage by the sea, way off the beaten track.\n我父母最后住进了一间海滨小屋，远离喧嚣。"
+        ]
     },
     {
         "id": "210603",
