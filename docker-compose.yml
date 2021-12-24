@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+  bbc-english-crawler:
+    container_name: bbc-english-crawler
+    build: .
+    image: bbc-english-crawler:latest
+    restart: always
