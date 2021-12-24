@@ -1,6 +1,7 @@
 import * as fs from 'fs';
+import { exec } from 'child_process';
 import { Injectable, Logger } from '@nestjs/common';
-import { Cron, CronExpression, Timeout } from '@nestjs/schedule';
+import { Cron, CronExpression } from '@nestjs/schedule';
 import axios from 'axios';
 import cheerio from 'cheerio';
 
@@ -86,7 +87,7 @@ export class CrawlTask {
     phrase.sentences = sentences;
   }
 
-  @Timeout(3)
+  @Cron(CronExpression.EVERY_DAY_AT_NOON)
   async handleCron() {
     this.logger.debug('Crawl task called');
 
@@ -118,5 +119,17 @@ export class CrawlTask {
         console.log('phrase detail: ', phrase);
       }
     }
+    exec(
+      'git add phrases.json && git commit -m "[Cron] Update phrases.json" && git push',
+      (error, stdout, stderr) => {
+        if (error) {
+          console.error('execute git command error: ', error);
+        } else if (stderr) {
+          console.log('stderr: ', stderr);
+        } else {
+          console.log('stdout: ', stdout);
+        }
+      },
+    );
   }
 }
