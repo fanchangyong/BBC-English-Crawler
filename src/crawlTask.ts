@@ -6,6 +6,7 @@ import cheerio from 'cheerio';
 
 const BASE_URL = 'https://www.bbc.co.uk';
 const FILE_NAME = 'phrases.json';
+const TIMEOUT = 5000;
 
 type Phrase = {
   id: string;
@@ -43,6 +44,9 @@ export class CrawlTask {
   async getPhrases(): Promise<Phrase[]> {
     const res = await axios.get(
       `${BASE_URL}/learningenglish/chinese/features/todays-phrase`,
+      {
+        timeout: TIMEOUT,
+      },
     );
 
     const phrases: Phrase[] = [];
@@ -67,7 +71,9 @@ export class CrawlTask {
 
   async getPhraseDetail(url: string, phrase: Phrase) {
     console.log('## getting detail from: ', url);
-    const res = await axios.get(url);
+    const res = await axios.get(url, {
+      timeout: TIMEOUT,
+    });
     const $ = cheerio.load(res.data);
     const desc = $('.widget-richtext .text p').first().text();
     const sentences = [];
