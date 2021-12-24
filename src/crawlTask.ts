@@ -105,12 +105,12 @@ export class CrawlTask {
       if (!existingPhrase || !existingPhrase.desc) {
         try {
           await this.getPhraseDetail(url, phrase);
+          fs.writeFileSync('phrases.json', JSON.stringify(phrases, null, 4));
         } catch (error) {
           console.log('get phrase detail error: ', error);
         }
         console.log('phrase detail: ', phrase);
       }
-      fs.writeFileSync('phrases.json', JSON.stringify(phrases, null, 4));
     }
   }
 }
