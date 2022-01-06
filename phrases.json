@@ -1,5 +1,29 @@
 [
     {
+        "id": "220104",
+        "title": "More haste, less speed 欲速则不达",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220104",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b7qj72.jpg",
+        "desc": "“More haste, less speed” 是一句谚语，意思是 “事情做得太快、太仓促，容易犯错，最终可能反而会花费更长的时间”，与汉语里的 “欲速则不达”、“拔苗助长” 意思相近。",
+        "sentences": [
+            "I didn’t knead the dough enough before baking it. Now the bread is too dense. More haste, less speed!\n我在烘烤面包前，面揉得不够。结果烤出来的面包太密实了。真是拔苗助长！",
+            "She rushed through her decision and in the end regretted it – more haste, less speed.\n她匆忙做了决定，但最后后悔了。真是欲速则不达。",
+            "I had to write my essay again because I was in a hurry and forgot to save it the first time – I guess it’s more haste, less speed.\n因为第一次写论文时一着急忘了保存，我不得不重写。就像俗话说的：欲速则不达。"
+        ]
+    },
+    {
+        "id": "211230",
+        "title": "No sooner said than done 说干就干",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211230",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b694dr.jpg",
+        "desc": "短语 “no sooner said than done” 的意思是 “不浪费一分一秒，马上就做，说干就干”。",
+        "sentences": [
+            "What great service! No sooner said than done the chef had prepared me a delicious meal.\n服务真棒啊！厨师一转眼的工夫就给我做好了一顿美餐。",
+            "When I asked him to tidy up his room, he said ‘no sooner said than done’!\n当我让他去整理房间的时候，他说 “马上就做”！",
+            "No sooner said than done and my car had been fixed.\n我的车刚送去修理，没几下工夫就修好了！"
+        ]
+    },
+    {
         "id": "211228",
         "title": "Beat the clock 争分夺秒，赶着点完成任务",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-211228",
@@ -5985,30 +6009,6 @@
             "There’s definitely been a spring in her step since she met Michael.\n自从她遇到迈克之后，走起路来脚步都变得轻快了。",
             "I am sure you’ll be walking with a spring in your step when I tell you the news.\n我相信我告诉你这个消息后，你肯定走路的步伐都会变得轻快。",
             "Sam has been walking around with a spring in his step ever since the manager announced his promotion.\n自从经理宣布山姆升职的消息后，山姆精神抖擞，走路步伐格外轻快。"
-        ]
-    },
-    {
-        "id": "170302",
-        "title": "Walking encyclopedia 活百科全书",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170302",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04s6h0k.jpg",
-        "desc": "Walking encyclopedia“书也能走路”？其实，这一搭配并不是说书会行走，而是强调一个人学识丰富、知识面广泛，什么都懂，就像一部活生生的百科全书。",
-        "sentences": [
-            "Nancy is a walking encyclopedia of British history. She wrote five books about the Victorian era alone.\n南茜是一部活生生的英国历史百科全书。仅以维多利亚时期为题材，她就写过五部相关的书籍。",
-            "My father is a walking encyclopedia when it comes to current affairs – he reads the papers every day.\n只要是说起当今时事，我的父亲就活像一部百科全书。他每天都会读各类报纸。",
-            "When my phone crashes, it’s quite handy to have my sister around. She knows everything there is to know about smartphones – in fact she’s a walking encyclopedia!\n每次我的手机死机时，我妹妹在就好了。她对智能手机的功能无所不知，她就是个活生生的百科全书！"
-        ]
-    },
-    {
-        "id": "170228",
-        "title": "To throw one’s weight behind someone or something 鼎力支持",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170228",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04s3g9w.jpg",
-        "desc": "Weight 是“重量”，“throw one’s weight behind something or someone 把某人的体重放在什么东西或人之后”是英语里的一个常用表达，实际含义是“对什么事情或人给予全力支持”，这通常指有影响力的人或组织给一个项目或活动鼎力支持，从而使其成功的几率增高。",
-        "sentences": [
-            "The council made a promise to throw its weight behind the “Save the Urban Gardens” project.\n地方政府承诺会全力支持“挽救城市公园”的计划。",
-            "A number of celebrities threw their weight behind the production and the opening show was a big success.\n好几位社会名流都鼎力支持这部舞台剧，首演非常成功。",
-            "The university threw its weight behind the new research project.\n大学全力支持这个新的研究项目。"
         ]
     }
 ]
