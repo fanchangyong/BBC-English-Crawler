@@ -1,5 +1,17 @@
 [
     {
+        "id": "220106",
+        "title": "In two shakes (of a lamb’s tail) 马上，一晃",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220106",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0b7qml0.jpg",
+        "desc": "羔羊摇尾巴的速度很快，这可能是短语 “in two shakes of a lamb’s tail（羔羊摇两下尾巴的工夫）” 的来源。人们用它表示 “马上就做某件事情，一晃就好”。现在，在口语会话中，人们更常使用这个短语的简短形式 “in two shakes”。",
+        "sentences": [
+            "I’m on my way. I’ll be there in two shakes.\n我在路上，马上就到。",
+            "My car wouldn’t start but in two shakes of a lamb’s tail, my friend turned up to help me fix it.\n我的车发动不起来了，但才一晃的工夫，我的朋友就过来帮我修车了。",
+            "Don’t go anywhere. Dinner will be ready in two shakes of a lamb’s tail.\n哪儿也别去。晚饭立马就好。"
+        ]
+    },
+    {
         "id": "220104",
         "title": "More haste, less speed 欲速则不达",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220104",
@@ -5997,18 +6009,6 @@
             "I always feel as fresh as a daisy after a shower.\n我淋浴后总觉得精神焕发。",
             "I am sure you will be as fresh as a daisy after a good night’s rest.\n我相信只要你好好休息一个晚上，一定会变得精神饱满的。",
             "If I can have a bit of Chinese tea, I’m sure I’ll feel as fresh as a daisy.\n只要给我喝点中国茶，我肯定就能立马活力四射。"
-        ]
-    },
-    {
-        "id": "170307",
-        "title": "A spring in one’s step 脚步充满活力",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170307",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04w2xxg.jpg",
-        "desc": "名词 spring 有两个含义，一个是“春天”，另一个是“弹簧”。A spring in one’s step 的字面意思是“脚步里装了弹簧”，但实际表达的意思是“因为心情好而令人脚步更加自信，更有朝气”。",
-        "sentences": [
-            "There’s definitely been a spring in her step since she met Michael.\n自从她遇到迈克之后，走起路来脚步都变得轻快了。",
-            "I am sure you’ll be walking with a spring in your step when I tell you the news.\n我相信我告诉你这个消息后，你肯定走路的步伐都会变得轻快。",
-            "Sam has been walking around with a spring in his step ever since the manager announced his promotion.\n自从经理宣布山姆升职的消息后，山姆精神抖擞，走路步伐格外轻快。"
         ]
     }
 ]
