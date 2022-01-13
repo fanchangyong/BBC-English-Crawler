@@ -1,5 +1,17 @@
 [
     {
+        "id": "220111",
+        "title": "Speed demon 雷厉风行，风驰电掣",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220111",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0bcc4nb.jpg",
+        "desc": "搭配 “speed demon（速度魔鬼）” 实际用来比喻 “工作、办事速度很快，行事敏捷的人或物”，有 “雷厉风行，风驰电挚” 的意思，也可以指 “高速驾车的人”。",
+        "sentences": [
+            "The barista is such a speed demon that he can make a perfect cappuccino in half the time of other people.\n这位咖啡师干活特别麻利，能用别人一半的时间做出一杯很棒的卡布奇诺。",
+            "My new laptop is a speed demon and can run some programmes really quickly!\n我新买的笔记本电脑速度快如闪电，运行一些程序的时候真的很快！",
+            "Sandra is such a speed demon behind the wheel. To be honest, she scares me when she drives.\n桑德拉开起车来真是风驰电掣。说实话，她开车时令我害怕。"
+        ]
+    },
+    {
         "id": "220106",
         "title": "In two shakes (of a lamb’s tail) 马上，一晃",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220106",
@@ -5997,18 +6009,6 @@
         "sentences": [
             "A: I think I’d be happier working in Australia.\nA: 我觉得我去澳大利亚工作应该会更开心。<br>B: But you don’t know that for sure. The grass is always greener on the other side.<br>B: 但你又没有百分之百的把握。人总是这山望着那山高。",
             "Julie is always moaning about how small her house is compared to mine. It really isn’t. But I suppose the grass is always greener on the other side of the fence.\n朱丽总是抱怨她的房子比我的小，其实根本不是这样。不过也难怪，人们总是觉得别人的条件比自己的好。"
-        ]
-    },
-    {
-        "id": "170309",
-        "title": "As fresh as a daisy 精神焕发",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170309",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04t7d3k.jpg",
-        "desc": "Daisy “雏菊”是菊花的一种，小小的白色花瓣，嫩黄色的花芯，看着非常可爱。到夜晚，daisy 的花瓣会卷起来，清晨时再展开，比喻 as fresh as a daisy 也可能正是由此而来，意思是“像雏菊一样充满朝气”，用来形容人们精神饱满，充满活力的状态。",
-        "sentences": [
-            "I always feel as fresh as a daisy after a shower.\n我淋浴后总觉得精神焕发。",
-            "I am sure you will be as fresh as a daisy after a good night’s rest.\n我相信只要你好好休息一个晚上，一定会变得精神饱满的。",
-            "If I can have a bit of Chinese tea, I’m sure I’ll feel as fresh as a daisy.\n只要给我喝点中国茶，我肯定就能立马活力四射。"
         ]
     }
 ]
