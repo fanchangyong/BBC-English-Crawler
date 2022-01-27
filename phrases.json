@@ -1,5 +1,17 @@
 [
     {
+        "id": "220125",
+        "title": "Take your time 慢慢来，不着急",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220125",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0bglh8f.jpg",
+        "desc": "短语 “take your time” 的意思是 “需要多少时间就花多少时间去做某件事情”，用来告诉他人 “做某件事情时不用急，慢慢来”。",
+        "sentences": [
+            "Take your time and drive safely – there’s no rush to get here.\n慢慢来，安全驾驶，不用急着赶过来。",
+            "I told her that she could take her time repairing our kitchen extractor. We’re in no rush to use it.\n我告诉她可以慢慢修理我们的抽油烟机。我们并不急着用。",
+            "You need to take your time writing your essay, otherwise you’ll make mistakes.\n你写论文需要慢慢来，不然会出错的。"
+        ]
+    },
+    {
         "id": "220120",
         "title": "At a snail’s pace 慢如蜗牛",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220120",
@@ -5998,18 +6010,6 @@
             "The writer has proven to be a one-trick pony. His first novel was widely acclaimed but he hasn't published anything good ever since.\n事实证明这位作家是个“一招鲜”，他的第一本小说广受好评，但自那以后就再没发表任何值得称赞的作品。",
             "The team are adding more features to the product so it won't be considered as a one-trick pony.\n这个团队正在为该产品添加新功能，这样人们就不会认为它只具有一个特色了。",
             "He might be an excellent passer but nothing more – he's basically a one-trick pony.\n他可能是个出色的传球手，但除此之外没有其它强项了，他基本上仅有一个可取之处而已。"
-        ]
-    },
-    {
-        "id": "170323",
-        "title": "Get itchy feet 渴望旅行，想经历不同的事",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170323",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04xrntx.jpg",
-        "desc": "“脚开始痒痒”是什么意思？其实，to get itchy feet 指的并不是生理上的毛病，而是用来形容渴望出门旅行、四处漫游的心情。除此之外，它还可以表示由于无聊或烦躁而开始想换件事情做的那种蠢蠢欲动的感觉。",
-        "sentences": [
-            "I am starting to get itchy feet after reading her travel blog.\n看完她的旅行博客之后我也想四处旅行了。",
-            "It’s been five years since I travelled abroad – I’m getting itchy feet.\n我上一次出国旅游已经是五年前的事了，现在我真的想出去转转。",
-            "It is normal that employees get itchy feet if they stay in the same role for too long.\n如果职员们在同一个岗位上太久，那么他们想换个工作的心情也是正常的。"
         ]
     }
 ]
