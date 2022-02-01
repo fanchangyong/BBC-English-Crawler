@@ -1,5 +1,17 @@
 [
     {
+        "id": "220127",
+        "title": "Slowly but surely 稳扎稳打",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220127",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0bgln2x.jpg",
+        "desc": "短语 “slowly but surely” 表示 “有条不紊，踏踏实实，缓慢而稳步地做某件事情”。",
+        "sentences": [
+            "Slowly but surely the couple ended up falling in love.\n这对情侣一步一步地坠入了爱河。",
+            "If you do your revision slowly but surely, you’ll do well in your exam.\n如果你们稳扎稳打地复习，就会考得很好。",
+            "We took the journey slowly but surely and got to our destination safely.\n我们稳稳当当地上了路，安全到达了目的地。"
+        ]
+    },
+    {
         "id": "220125",
         "title": "Take your time 慢慢来，不着急",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220125",
@@ -5998,18 +6010,6 @@
             "Her testimony was a pack of lies. She wasn’t even at the crime scene.\n她的证言没有一句是真的，她根本就没出现在犯罪现场。",
             "He told me he had never met me before – what a pack of lies!\n他和我说从来没见过我，简直是谎话连篇！",
             "Don’t believe what the media says about why you should be skinny. It’s all a pack of lies.\n别相信媒体说的你一定要变得很瘦才行，这都是一派胡言。"
-        ]
-    },
-    {
-        "id": "170328",
-        "title": "One-trick pony 一招鲜",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170328",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04xsb8v.jpg",
-        "desc": "什么是“懂得一招的小马驹”？这个口语表达原指杂技团里经过训练后，只会变一种戏法的小马。现在，我们常用它来形容仅有一技之长的人或只具有一种特色的事物，带有戏谑的语气，类似于汉语里说的“一招鲜”或“黔驴技穷的人”。在这里，名词 trick 的意思是“戏法、把戏”。",
-        "sentences": [
-            "The writer has proven to be a one-trick pony. His first novel was widely acclaimed but he hasn't published anything good ever since.\n事实证明这位作家是个“一招鲜”，他的第一本小说广受好评，但自那以后就再没发表任何值得称赞的作品。",
-            "The team are adding more features to the product so it won't be considered as a one-trick pony.\n这个团队正在为该产品添加新功能，这样人们就不会认为它只具有一个特色了。",
-            "He might be an excellent passer but nothing more – he's basically a one-trick pony.\n他可能是个出色的传球手，但除此之外没有其它强项了，他基本上仅有一个可取之处而已。"
         ]
     }
 ]
