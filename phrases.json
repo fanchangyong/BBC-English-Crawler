@@ -1,5 +1,17 @@
 [
     {
+        "id": "220201",
+        "title": "Slow burner 逐渐有趣，缓步成功",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220201",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0bhwcc2.jpg",
+        "desc": "搭配 “slow burner” 用来描述 “随着时间的推移而变得越来越有趣、成功或愉快的人或事物”。",
+        "sentences": [
+            "I didn’t enjoy the film at first, but by the end it was so exciting I couldn’t stop watching. It was a bit of a slow burner.\n我一开始不喜欢这部电影，但到最后却很精彩，看得我停不下来。这是部慢热片。",
+            "His plan to renovate the city centre wasn’t very interesting at first, but his idea was a slow burner, and now a lot of people are involved.\n他整修市中心的计划起初没什么意思，但他的构思越来越有趣，现在很多人都参与其中。",
+            "She only became a professional actress at 50 after a few amateur performances. She was a bit of a slow burner, but now she’s one of the most highly-paid stars in Hollywood.\n她经过几次业余表演，到了50岁才成为专业演员。她大器晚成，但现在却成为好莱坞收入最高的明星之一。"
+        ]
+    },
+    {
         "id": "220127",
         "title": "Slowly but surely 稳扎稳打",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220127",
@@ -5998,18 +6010,6 @@
             "Although our grandfather has passed away, his love will live on in the memory of all of us.\n虽然爷爷去世了，但他的关爱将永远留存在我们的记忆中。",
             "We've won the game - this moment of glory will live on in the memory for the rest of my life.\n我们赢得了比赛—这个荣誉的时刻将一直伴随我度过余生。",
             "Her talent and legacy will live on in the memory of those she had inspired.\n她的才华和精神财富将留存在被她激励过的所有人心中。"
-        ]
-    },
-    {
-        "id": "170330",
-        "title": "A pack of lies 谎话连篇 ",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170330",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04xsbby.jpg",
-        "desc": "这是一个和撒谎有关的表达，如果一个人所说的话是 a pack of lies，意思是此人叙述的一系列故事、经历等从头到尾全是假话。其中，量词词组 a pack of 指“一堆、一群”，用来形容某人谎话连篇、一派胡言。",
-        "sentences": [
-            "Her testimony was a pack of lies. She wasn’t even at the crime scene.\n她的证言没有一句是真的，她根本就没出现在犯罪现场。",
-            "He told me he had never met me before – what a pack of lies!\n他和我说从来没见过我，简直是谎话连篇！",
-            "Don’t believe what the media says about why you should be skinny. It’s all a pack of lies.\n别相信媒体说的你一定要变得很瘦才行，这都是一派胡言。"
         ]
     }
 ]
