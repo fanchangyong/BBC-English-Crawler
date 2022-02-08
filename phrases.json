@@ -1,5 +1,17 @@
 [
     {
+        "id": "220203",
+        "title": "In dribs and drabs 三三两两，零零碎碎",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220203",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0bhwjq0.jpg",
+        "desc": "表达 “in dribs and drabs” 描述 “事情三三两两、零零碎碎或一点一点地发生”，经常用来描述人群的出现、信息的传播或金钱的数额。",
+        "sentences": [
+            "The people arrived at the party in dribs and drabs. There was a problem with the trains and many people were delayed.\n人们三三两两地抵达了聚会的地方。火车出了问题，许多人都被耽搁了。",
+            "Rather than pay her brother back in one lump sum, she paid him back in dribs and drabs.\n她没有一次还清她借哥哥的钱，而是零零碎碎地还给了他。",
+            "The information about the story came through in dribs and drabs from several different sources.\n关于这个故事的信息是从几个不同的来源一点点传播开来的。"
+        ]
+    },
+    {
         "id": "220201",
         "title": "Slow burner 逐渐有趣，缓步成功",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220201",
@@ -5998,18 +6010,6 @@
             "I have no problem sleeping, I go out like a light as soon as I hit the pillow.\n我睡眠一向很好，只要一沾枕头，马上就能睡着。",
             "My daughter seems to love this lullaby. She goes&nbsp;out like a light when I hum it to her.\n看来我女儿很喜欢这首摇篮曲。每当我哼唱这段旋律时她就会立刻睡着。",
             "I'm not sure if I should lay down in bed right after dinner – I'd probably go out like a light.\n我不知道是不是该吃完晚饭后就立刻躺下，我很可能一沾枕头就睡着了。"
-        ]
-    },
-    {
-        "id": "170404",
-        "title": "Live on in the memory 在记忆中留存",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170404",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04xsbjg.jpg",
-        "desc": "表达 live on in the memory 或 live in the memory 的含义和记忆有关，它指过去的事情或经历仍留存在记忆当中，或对人产生了持久的影响。在这里，词组 live on 的含义和 endure 相似，可以表示事物“持久、继续地存在”。",
-        "sentences": [
-            "Although our grandfather has passed away, his love will live on in the memory of all of us.\n虽然爷爷去世了，但他的关爱将永远留存在我们的记忆中。",
-            "We've won the game - this moment of glory will live on in the memory for the rest of my life.\n我们赢得了比赛—这个荣誉的时刻将一直伴随我度过余生。",
-            "Her talent and legacy will live on in the memory of those she had inspired.\n她的才华和精神财富将留存在被她激励过的所有人心中。"
         ]
     }
 ]
