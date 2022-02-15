@@ -1,5 +1,17 @@
 [
     {
+        "id": "220210",
+        "title": "Get a move on 赶紧的，快点",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220210",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0bk779j.jpg",
+        "desc": "在口语会话中，人们常用表达 “get a move on” 来催促某人加快速度，以更快的方式做事，也就是 “赶紧的，快点”。由于这是非正式表达，而且口气较直接，所以需要注意使用的对象和场合。",
+        "sentences": [
+            "You need to work harder on this project. Can you get a move on so we can both leave on time?\n你需要在这个项目上更加努力。你能不能抓紧点，这样我俩都能准时走？",
+            "She told me to get a move on as she thought I was driving too slowly, but I don’t like to drive fast. Driving safely is important.\n她觉得我开车太慢，所以催我快点，但我不喜欢开快车。安全驾驶很重要。",
+            "My wife said I was taking too much time in the bathroom, and she needed a shower. She banged on the door and told me to get a move on.\n我妻子说我在浴室里待的时间太长了，她得冲个澡。她用力地敲门，叫我赶紧的。"
+        ]
+    },
+    {
         "id": "220208",
         "title": "Long-drawn-out 冗长拖沓",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220208",
@@ -5998,18 +6010,6 @@
             "We had an argument yesterday and he smashed all the plates in the kitchen – he was as mad as a March hare!\n昨天我们吵了一架，他把厨房里的盘子都摔碎了，他当时真是发疯了！",
             "Janet's as mad as a March hare - always saying and doing really bizarre things - but we love her just the way she is.\n虽然珍妮特整天疯疯癫癫的，总是不断地说着和做着奇怪的事情，但我们仍非常喜欢她这个人。",
             "When I started dancing, they all looked at me as if I was as mad as a March hare.\n我一开始跳舞的时候，他们都看着我，就好像我在做一件很疯狂的事。"
-        ]
-    },
-    {
-        "id": "170411",
-        "title": "Roll with the punches 克服重重困难",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170411",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04xsc8p.jpg",
-        "desc": "这个英语表达的含义是“在逆境中克服重重难关，渡过道道难关”，即通过改变自己来应对一系列困难的局面。这是一个口语说法。Roll with the punches 源于拳击运动中为减轻对手击拳所带来的伤害而转动身体的动作。在这里，“punches 拳头连击”用来比喻生活中的逆境给人带来的冲击。",
-        "sentences": [
-            "The professors asked John a tough unexpected question about his thesis, but he rolled with the punches and gave a satisfactory answer.\n教授们针对约翰的论文提出了一个出乎意料的难题，但约翰从容应对，给出了一个令人满意的答案。",
-            "You've got to learn to roll with the punches if you want to survive in this business.\n如果你想在这个行业生存下来，就得学会应对各种困难的局面。",
-            "Susan's been through a lot of tough times in her life, but she always knows how to roll with the punches.\n苏珊一生中经历了很多困难的时期，但她总能克服困难，渡过难关。"
         ]
     }
 ]
