@@ -1,5 +1,23 @@
 [
     {
+        "id": "220222",
+        "title": "Blue-sky thinking 奇思妙想",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220222",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0blk5z6.jpg"
+    },
+    {
+        "id": "220217",
+        "title": "Desk jockey 坐办公室的人",
+        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220217",
+        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p0bkp750.jpg",
+        "desc": "如果一个人大部分的工作时间内都坐在办公桌旁，就可以把这个人叫作 “desk jockey（坐办公室的人）”。注意，这是一个非正式的说法。",
+        "sentences": [
+            "The job at the call centre basically just means being a desk jockey – it’s so dull!\n这份电话服务中心的工作基本上就是天天坐班。太无聊了！",
+            "He is a desk jockey – he just sits there all day, grumbling!\n他在办公室工作。他成天都坐在那里发牢骚！",
+            "I had to quit my job as I was just a desk jockey staring at a computer screen.\n我不得不辞职，因为我之前只是个盯着电脑屏幕的案牍办事员。"
+        ]
+    },
+    {
         "id": "220215",
         "title": "Gently does it! 别着急，悠着点！",
         "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-220215",
@@ -5986,30 +6004,6 @@
             "Jimmy is always up with the lark to catch the earliest bus to work.\n吉米总是很早就起床，赶最早的巴士去上班。",
             "The kids were up with the lark this morning because we were going on a day trip to the sea.\n孩子们今天一大早就起床了，因为我们计划好去海边一日游。",
             "I was up with the lark this morning and took a short walk in the garden before breakfast.\n今天我很早就起床了，并在早餐前去花园里走了一圈。"
-        ]
-    },
-    {
-        "id": "170420",
-        "title": "Seed money 启动资金，本金",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170420",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04xscht.jpg",
-        "desc": "在谈论金融、理财等和钱相关的事情时，你可能听到过“种子基金 seed money”这个专业术语，它的实际含义是“开展生意或活动所需的初始资金”，即“本金”。这里用“种子 seed”这一新生命的象征搭配“钱 mony”来比喻人们利用启动资金以少生多的特点。",
-        "sentences": [
-            "I need some seed money from my family and friends to open my book shop.\n我得从亲朋好友那里筹集一些开书店所需要的本金。",
-            "The government is offering seed money to small businesses founded by young entrepreneurs. &nbsp;\n政府正为由年轻企业家创立的小公司提供启动资金。",
-            "Our new mobile app has secured £1000 in seed money and if everything goes well, it will be ready to launch next spring.\n我们的新手机应用已得到1000英镑的启动资金，如果一切进行顺利，该应用将会在明年春天发布。"
-        ]
-    },
-    {
-        "id": "170418",
-        "title": "You can't make an omelette without breaking eggs 有失才有得 ",
-        "url": "https://www.bbc.co.uk/learningenglish/chinese/features/todays-phrase/ep-170418",
-        "imageURL": "https://ichef.bbci.co.uk/images/ic/624xn/p04xscgd.jpg",
-        "desc": "“不打破鸡蛋就摊不成煎饼”是一句英文谚语，虽然这个和“鸡蛋”有关的说法对我们来说比较陌生，但其实不难理解，它比喻只有做出相应的牺牲才能取得成就，就好像汉语里常说的“舍不着孩子套不着狼”。",
-        "sentences": [
-            "A: I really don't like telling people they have to go but our company won't survive the economic downturn unless we cut costs.\nB: You're right - it's never easy to fire people, but remember, you can’t make an omelette without breaking eggs. <br>A：我实在是不想让他们走，但如果不降低成本的话，咱们公司肯定顶不住经济衰退带来的影响。<br>B：你说得对，裁员不是件易事，不过你也要记住“有失必有得”。",
-            "The university took a desperate measure to merge three academic departments into one, in the belief that you can’t make an omelette without breaking eggs.\n这所大学本着有失才能有得这一道理，采取了把三所学院合并为一这项举措。",
-            "In case you were wondering - you can’t make an omelette without breaking eggs. So don’t be afraid of the risks and go for it.\n如果你还在犹豫，想想“有失才有得”这句话。所以别惧怕风险，勇敢去做吧。"
         ]
     }
 ]
